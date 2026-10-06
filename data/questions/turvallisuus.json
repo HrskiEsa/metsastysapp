@@ -1,0 +1,182 @@
+[
+  {
+    "id": "turvallisuus-001",
+    "category": "turvallisuus",
+    "difficulty": 1,
+    "question": "Mitä tulee tehdä ennen laukauksen ampumista?",
+    "answers": [
+      { "text": "Varmistaa ampumasuunta ja tausta", "correct": true },
+      { "text": "Tarkistaa aseen väri", "correct": false },
+      { "text": "Tarkistaa sääennuste", "correct": false },
+      { "text": "Tarkistaa auton rengaspaineet", "correct": false }
+    ],
+    "explanation": "Ampumasuunnan ja taustan varmistaminen on turvallisen laukauksen perusedellytys. Taustalla ei saa olla ihmisiä, rakennuksia eikä muuta kohdetta, johon luoti voi osua.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "laukaus"]
+  },
+  {
+    "id": "turvallisuus-002",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miten ampuma-asetta tulee kantaa siirtyessä paikasta toiseen?",
+    "answers": [
+      { "text": "Lataamattomana, piippu turvalliseen suuntaan ja tarvittaessa kotelossa tai suojattuna", "correct": true },
+      { "text": "Ladattuna ja valmiina laukaisuun", "correct": false },
+      { "text": "Olkapäällä osoittaen eteenpäin", "correct": false },
+      { "text": "Piipun suu alaspäin kohti maata, lukko auki", "correct": false }
+    ],
+    "explanation": "Siirtymisen ajaksi ase tyhjennetään ja piippu suunnataan turvallisesti. Aseen saa ladata vasta metsästyspaikalla.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "aseenkäsittely"]
+  },
+  {
+    "id": "turvallisuus-003",
+    "category": "turvallisuus",
+    "difficulty": 1,
+    "question": "Mikä on aseturvallisuuden perussääntö käsitellessäsi asetta?",
+    "answers": [
+      { "text": "Käsittele asetta aina kuin se olisi ladattu", "correct": true },
+      { "text": "Käsittele asetta vain, jos se on varmasti tyhjä", "correct": false },
+      { "text": "Käsittele asetta vain sisätiloissa", "correct": false },
+      { "text": "Käsittele asetta vain ampumaradalla", "correct": false }
+    ],
+    "explanation": "Perussääntö on käsitellä asetta aina kuin se olisi ladattu. Näin varmistetaan, että aseeseen ei koskaan suhtauduta huolimattomasti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "perussäännöt"]
+  },
+  {
+    "id": "turvallisuus-004",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miten ampuma-ase tulee säilyttää kotona?",
+    "answers": [
+      { "text": "Lukitussa paikassa, erillään patruunoista ja siten, etteivät ulkopuoliset saa sitä haltuunsa", "correct": true },
+      { "text": "Ladattuna eteisen naulakossa", "correct": false },
+      { "text": "Yöpöydän laatikossa lukitsematta", "correct": false },
+      { "text": "Auton tavaratilassa lukitsematta", "correct": false }
+    ],
+    "explanation": "Ase ja patruunat säilytetään lukitusti ja erillään. Luvaton haltuunotto on estettävä. Säilytyksestä on säädetty ampuma-aselaissa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "säilytys"]
+  },
+  {
+    "id": "turvallisuus-005",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa ampumasektori metsästyksen yhteydessä?",
+    "answers": [
+      { "text": "Alue, johon kukin metsästäjä saa turvallisesti ampua", "correct": true },
+      { "text": "Metsästysalueen raja", "correct": false },
+      { "text": "Aseen kantama kokonaisuudessaan", "correct": false },
+      { "text": "Alue, jossa saa käsitellä asetta", "correct": false }
+    ],
+    "explanation": "Ampumasektori sovitaan etukäteen ja sen ulkopuolelle ei ammuta. Näin estetään osumat toisiin metsästäjiin tai sivullisiin.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "sektorit"]
+  },
+  {
+    "id": "turvallisuus-006",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä tehdä, jos havaitset ampumasektorissasi toisen henkilön?",
+    "answers": [
+      { "text": "Keskeytä ampuminen välittömästi, aseta ase turvalliseen asentoon ja varmista tilanne", "correct": true },
+      { "text": "Ammu nopeasti ennen kuin henkilö liikkuu", "correct": false },
+      { "text": "Huuda, mutta jatka ampumista", "correct": false },
+      { "text": "Odota, että henkilö siirtyy, ja jatka ampumista", "correct": false }
+    ],
+    "explanation": "Ampuminen lopetetaan heti, kun sektorissa havaitaan henkilö. Varmistetaan, että tilanne on turvallinen ennen jatkamista.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "vaaratilanteet"]
+  },
+  {
+    "id": "turvallisuus-007",
+    "category": "turvallisuus",
+    "difficulty": 3,
+    "question": "Miten estät vahingonlaukauksen asetta käsitellessäsi?",
+    "answers": [
+      { "text": "Pitämällä sormen pois liipaisimelta, kunnes tähtäät ja aiot ampua", "correct": true },
+      { "text": "Pitämällä sormen liipaisimella valmiiksi", "correct": false },
+      { "text": "Poistamalla varmistimen aina", "correct": false },
+      { "text": "Kantamalla panoksia kädessä", "correct": false }
+    ],
+    "explanation": "Sormi pidetään liipaisinsuojan ulkopuolella, kunnes päätös ampumisesta on tehty ja tähtäys on varmistettu.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "liipaisin"]
+  },
+  {
+    "id": "turvallisuus-008",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä on huomioitava metsästyksessä vesistön lähellä?",
+    "answers": [
+      { "text": "Kenttäammunnan taustat, veneen käytön turvallisuus ja tarvittavat varusteet", "correct": true },
+      { "text": "Ei mitään erityistä", "correct": false },
+      { "text": "Vesistö ei vaikuta turvallisuuteen", "correct": false },
+      { "text": "Vesistöllä saa ampua vapaasti mihin suuntaan tahansa", "correct": false }
+    ],
+    "explanation": "Vesistöllä on huomioitava ammunnan taustat ja turvavarusteet. Pelastusliivien käyttö ja veneen vakaus ovat keskeisiä turvallisuustekijöitä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "vesistö"]
+  },
+  {
+    "id": "turvallisuus-009",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miten metsästäjä varautuu ensiapuun ja hätätilanteisiin?",
+    "answers": [
+      { "text": "Pitämällä mukana ensiapuvälineet, puhelimen ja kertomalla sijainnin läheisille", "correct": true },
+      { "text": "Luottamalla siihen, että onnettomuuksia ei satu", "correct": false },
+      { "text": "Jättämällä puhelimen kotiin häiriöiden välttämiseksi", "correct": false },
+      { "text": "Lähtemällä metsään yksin ilman ilmoitusta", "correct": false }
+    ],
+    "explanation": "Metsästäjä varautuu pitämällä mukana ensiapuvälineet ja puhelimen sekä kertomalla lähtöaikeistaan. Sijainnin ilmoittaminen nopeuttaa apua onnettomuudessa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "ensiapu"]
+  },
+  {
+    "id": "turvallisuus-010",
+    "category": "turvallisuus",
+    "difficulty": 3,
+    "question": "Miksi kuulosuojaimia suositellaan metsästyksessä?",
+    "answers": [
+      { "text": "Laukausten voimakas ääni voi vahingoittaa kuuloa pysyvästi", "correct": true },
+      { "text": "Ne parantavat osumatarkkuutta", "correct": false },
+      { "text": "Ne ovat pakollisia laissa kaikessa metsästyksessä", "correct": false },
+      { "text": "Ne auttavat näkemään paremmin hämärässä", "correct": false }
+    ],
+    "explanation": "Laukauksen ääni voi aiheuttaa pysyviä kuulovaurioita. Kuulonsuojainten käyttö on olennainen osa metsästyksen turvallisuutta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "kuulosuojaus"]
+  }
+]

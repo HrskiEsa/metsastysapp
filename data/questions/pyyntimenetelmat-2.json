@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pyyntimenetelmat-011",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Miten vesilinnustuksessa toimitaan, jos ammuttu lintu haavoittuu ja häviää maastoon?",
+    "answers": [
+      { "text": "Nähdään vaivaa linnun löytämiseksi; noutajakoiraa käytetään aina kun mahdollista", "correct": true },
+      { "text": "Lintu jätetään metsään, se kuolee itsestään", "correct": false },
+      { "text": "Uusi lintu ammutaan samaan paikkaan", "correct": false },
+      { "text": "Asiasta ei tarvitse tehdä mitään", "correct": false }
+    ],
+    "explanation": "Haavoittuneen linnun löytämiseksi nähdään vaivaa. Metsästyksessä käytetään apuna noutavaa koiraa aina kun mahdollista, ja noutajapörssistä voi löytyä koira-apua koirattomalle seurueelle.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "haavakko", "noutaja"]
+  },
+  {
+    "id": "pyyntimenetelmat-012",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mihin vesilinnustuksessa kannattaa pyrkiä ampumisessa?",
+    "answers": [
+      { "text": "Ammutaan vain luvallisia ja varmasti tunnistettuja vesilintuja omilta varmoilta etäisyyksiltä", "correct": true },
+      { "text": "Ammutaan kaikki lentävät linnut nopeasti ennen tunnistamista", "correct": false },
+      { "text": "Ammutaan vain naaraslintuja", "correct": false },
+      { "text": "Ammutaan mahdollisimman kaukaa", "correct": false }
+    ],
+    "explanation": "Vesilinnut ammutaan pääsääntöisesti lentoon, mikä vaatii taitoa. Ammutaan vain tunnistamiasi luvallisia vesilintuja ja vain itselle ja käyttämille patruunoille varmoilta etäisyyksiltä.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "tunnistaminen"]
+  },
+  {
+    "id": "pyyntimenetelmat-013",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mihin vesilinnustuksessa kannattaa kiinnittää huomiota lähellä mökkejä ja asutusta?",
+    "answers": [
+      { "text": "Varoetäisyyksiin mökkeihin, asutukseen ja laiduntaviin kotieläimiin", "correct": true },
+      { "text": "Pelkästään säätilaan", "correct": false },
+      { "text": "Ei mitään erityistä", "correct": false },
+      { "text": "Vain muihin metsästäjiin", "correct": false }
+    ],
+    "explanation": "Metsästäessä otetaan huomioon varoetäisyydet kesämökkeihin, asutukseen ja laiduntaviin kotieläimiin sekä muiden metsästäjien sijainti.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnustus", "varoetäisyys"]
+  },
+  {
+    "id": "pyyntimenetelmat-014",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Miten metsäkanalintuja suositellaan valikoitavaksi saaliiksi?",
+    "answers": [
+      { "text": "Valikoiden nuoria lintuja ja vältetään soidinpaikkojen vahvimpia kukkoja", "correct": true },
+      { "text": "Ammutaan vain suurimmat vanhat yksilöt", "correct": false },
+      { "text": "Kaikki linnut ammutaan valikoinnitta", "correct": false },
+      { "text": "Vain naaraita ammutaan", "correct": false }
+    ],
+    "explanation": "Kanalinnustuksessa valikoidaan saalis: kohdistetaan pyynti nuoriin yksilöihin, käytetään pyyntimenetelmiä joissa valikointi on mahdollista, ja ei metsästetä teeren soidinpaikoilla vahvimpia kukkoja.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kanalinnut", "valikointi"]
+  },
+  {
+    "id": "pyyntimenetelmat-015",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Miten latvalinnustajaksi kuljetaan metsään?",
+    "answers": [
+      { "text": "Kivääri lataamattomana; ladataan vasta kun linnut havaitaan ja aletaan hiipimään", "correct": true },
+      { "text": "Kivääri ladattuna ja valmiina laukaukseen", "correct": false },
+      { "text": "Kivääri piipku ylöspäin ladattuna", "correct": false },
+      { "text": "Aseen voi kantaa miten tahansa", "correct": false }
+    ],
+    "explanation": "Latvalinnustuksessa asetta kuljetetaan lataamattomana hiihtäessä. Lataaminen tehdään vasta, kun lintuja havaitaan näköpiirissä ja aletaan hiipimään ampumaetäisyydelle.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["latvalinnustus", "aseenkäsittely"]
+  },
+  {
+    "id": "pyyntimenetelmat-016",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mitä hylkeenpyynnissä on otettava huomioon?",
+    "answers": [
+      { "text": "Pyynti tapahtuu kiintiöiden ja pyyntilupien puitteissa, ja saalis on ilmoitettava", "correct": true },
+      { "text": "Hylkeitä saa pyytää vapaasti ilman rajoituksia", "correct": false },
+      { "text": "Kaikki hyljelajit ovat rauhoitettuja", "correct": false },
+      { "text": "Hylkeenpyynti on sallittua vain Ahvenanmaalla", "correct": false }
+    ],
+    "explanation": "Harmaahylkeen, norpan ja kirjohylkeen metsästys tapahtuu kiintiömetsästyksenä Riistakeskuksen pyyntilupien puitteissa. Pyynnistä on tehtävä saalisilmoitus.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hylkeet", "kiintiö"]
+  },
+  {
+    "id": "pyyntimenetelmat-017",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Mitä metsästyksessä tehdään hylsyt ja muut roskat?",
+    "answers": [
+      { "text": "Kerätään talteen ja tuodaan pois maastosta", "correct": true },
+      { "text": "Jätetään maastoon, ne hajoavat itsestään", "correct": false },
+      { "text": "Haudotaan maahan", "correct": false },
+      { "text": "Viedään palveluksenmukaiseen keräyspisteeseen vain syksyisin", "correct": false }
+    ],
+    "explanation": "Hylsyt ja muut roskat kerätään talteen ja tuodaan pois maastosta. Tämä on osa vastuullista ja hyvää metsästyksen käytäntöä.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hylsyt", "roskat", "hyvä metsästystapa"]
+  },
+  {
+    "id": "pyyntimenetelmat-018",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mitä merimetsolla on sallittua tehdä?",
+    "answers": [
+      { "text": "Merimetso kuuluu pyydettäviin lajeihin, joiden kannanhoidollinen pyynti on sallittua rajoituksin", "correct": true },
+      { "text": "Merimetso on kokonaan rauhoitettu ympäri vuoden", "correct": false },
+      { "text": "Merimetsopyynti on kokonaan kielletty", "correct": false },
+      { "text": "Merimetsoa saa pyytää vain keväällä", "correct": false }
+    ],
+    "explanation": "Merimetso on pyydettävä laji, jonka kannanhoidolliseen pyyntiin voi osallistua metsästysajan ja -alueiden puitteissa. Se aiheuttaa haittaa kalastukselle ja vesilintukannoille.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["merimetso", "pyydettävät lajit"]
+  },
+  {
+    "id": "pyyntimenetelmat-019",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mihin metsästyksen valmisteluihin kuuluu vesilinnustuksen osalta?",
+    "answers": [
+      { "text": "Tarkistetaan luvalliset lajit, ajat ja alueet sekä harjoitellaan ampumista ennen kauden alkua", "correct": true },
+      { "text": "Vain aseen ostaminen ja patruunoiden hankinta", "correct": false },
+      { "text": "Vain sääennusteen tarkistaminen", "correct": false },
+      { "text": "Valmisteluja ei tarvita", "correct": false }
+    ],
+    "explanation": "Ennen vesilinnustuskautta kerrataan lajintuntemus (syyspukuiset linnut), tarkistetaan luvalliset lajit ja ajat sekä harjoitellaan liikkuvan maalin ampumista radalla.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["valmistautuminen", "vesilinnustus"]
+  },
+  {
+    "id": "pyyntimenetelmat-020",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Miten metsäkanalintuja voi metsästää koiran avulla vastuullisesti?",
+    "answers": [
+      { "text": "Koiran avulla aina, kun mahdollista; se helpottaa haavoittuneiden lintujen löytämistä", "correct": true },
+      { "text": "Koiran kanssa ei kannata metsästää, se vain häiritsee riistaa", "correct": false },
+      { "text": "Koiran käyttö on kielletty kanalinnuilla", "correct": false },
+      { "text": "Koiran avulla metsästetään vain ajoketjussa", "correct": false }
+    ],
+    "explanation": "Kanalintuja metsästetään koiran avulla aina, kun siihen on mahdollisuus. Koira auttaa haavoittuneiden lintujen löytämisessä ja vähentää haaskusta.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koira", "kanalinnut", "haavakko"]
+  }
+]

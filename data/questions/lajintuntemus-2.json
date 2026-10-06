@@ -1,0 +1,362 @@
+[
+  {
+    "id": "lajintuntemus-011",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mistä tunnistat kuusipeuran metsäkauriista?",
+    "answers": [
+      { "text": "Kuusipeura on suurempi, häntä on pidempi ja uroksen sarvet ovat lapionmuotoiset", "correct": true },
+      { "text": "Kuusipeura on pienempi ja vailla sarvia", "correct": false },
+      { "text": "Kuusipeuralla on kyttyrä selkä", "correct": false },
+      { "text": "Eroa ei voi havaita maastossa", "correct": false }
+    ],
+    "explanation": "Kuusipeura (Dama dama) on metsäkauriita suurempi, sillä on pitkä häntä ja uroksella tunnusomaiset lapionmuotoiset sarvet. Kesäturkissa on vaaleita täpliä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kuusipeura", "hirvieläimet"]
+  },
+  {
+    "id": "lajintuntemus-012",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mikä on valkoposkihanhen selkein tuntomerkki?",
+    "answers": [
+      { "text": "Musta niska ja rinta sekä valkoinen poski ja otsa", "correct": true },
+      { "text": "Oranssi nokka ja vaaleanpunaiset jalat", "correct": false },
+      { "text": "Kokonaan valkoinen höyhenpuku", "correct": false },
+      { "text": "Pitkä, keltaisellä juovalla varustettu nokka", "correct": false }
+    ],
+    "explanation": "Valkoposkihanhella on musta niska ja rinta sekä valkoinen poski ja otsa. Se on pieni hanhi, joka pesii runsaana rannikoilla ja saaristossa.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["valkoposkihanhi", "hanhet"]
+  },
+  {
+    "id": "lajintuntemus-013",
+    "category": "lajintuntemus",
+    "difficulty": 1,
+    "question": "Mikä vesilintu erottuu valkoisen otsakilven perusteella?",
+    "answers": [
+      { "text": "Nokikana", "correct": true },
+      { "text": "Telkkä", "correct": false },
+      { "text": "Tavi", "correct": false },
+      { "text": "Haahka", "correct": false }
+    ],
+    "explanation": "Nokikana on musta lintu, jonka erottaa selvästi valkoinen otsakilpi ja nokka. Lennossa näkyvät myös valkoiset peräpeili ja takaruumis.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["nokikana", "vesilinnut"]
+  },
+  {
+    "id": "lajintuntemus-014",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Miten isokoskelon naaras erottuu tukkakoskelon naaraasta?",
+    "answers": [
+      { "text": "Isokoskelo on suurempi ja sen punaruskea pää on ilman selvää töyhtöä ja raitoja", "correct": true },
+      { "text": "Isokoskelo on pienempi ja täysin musta", "correct": false },
+      { "text": "Isokoskelon nokka on lyhyempi ja leveämpi", "correct": false },
+      { "text": "Lajeja ei voi erottaa toisistaan", "correct": false }
+    ],
+    "explanation": "Isokoskelo on koskeloista suurin. Naaraan punaruskea pää on ilman selvää töyhtöä, kun taas tukkakoskelon naaraalla on selvä töyhtö ja rinta on ruskearaitainen.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koskelot", "vesilinnut"]
+  },
+  {
+    "id": "lajintuntemus-015",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten harmaahylje eli halli erottuu itämerennorpasta?",
+    "answers": [
+      { "text": "Halli on huomattavasti suurempi ja sen kuono on pitkä ja kupera", "correct": true },
+      { "text": "Halli on pienempi ja pyöreäpäisempi", "correct": false },
+      { "text": "Hallilla on korvatuppia, norpalla ei", "correct": false },
+      { "text": "Lajien erottaminen on mahdotonta maastossa", "correct": false }
+    ],
+    "explanation": "Harmaahylje on suurin Itämeren hylkeistä, ja aikuisen uroksen kuono on pitkä ja kupera. Norppa on pieni, pyöreäpäinen ja sillä on renkaanmuotoisia vaaleita täpliä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hylkeet", "halli", "norppa"]
+  },
+  {
+    "id": "lajintuntemus-016",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten hilleri erottuu minkistä?",
+    "answers": [
+      { "text": "Hillerillä on selvä vaalea naamamaski silmien ympärillä, minkillä vain valkoinen leukaläikkä", "correct": true },
+      { "text": "Hilleri on kokonaan valkoinen", "correct": false },
+      { "text": "Minkillä on selvä naamamaski, hillerillä ei", "correct": false },
+      { "text": "Hilleri on huomattavasti suurempi kuin minkki", "correct": false }
+    ],
+    "explanation": "Hillerin tunnistaa tummasta turkista ja selvästä vaaleasta naamamaskista. Minkillä on vain valkoinen leukaläikkä. Molemmat ovat pieniä, pitkulaisia näätäeläimiä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hilleri", "minkki", "pienpedot"]
+  },
+  {
+    "id": "lajintuntemus-017",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mistä tunnistat villikanin jäniksestä?",
+    "answers": [
+      { "text": "Villikani on selvästi pienempi, lyhytkorvainen ja elää maanalaisissa koloissa", "correct": true },
+      { "text": "Villikani on suurempi ja pitkäkorvainen", "correct": false },
+      { "text": "Villikani muuttuu talvella valkoiseksi", "correct": false },
+      { "text": "Villikanin korvat ovat mustakärkiset", "correct": false }
+    ],
+    "explanation": "Villikani on selvästi metsäjänistä ja rusakkoa pienempi, lyhytkorvainen ja lyhytjalkainen. Se elää kolonioissa maanalaisissa koloissa, toisin kuin jänikset maanpinnan pesissä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["villikani", "jäniseläimet"]
+  },
+  {
+    "id": "lajintuntemus-018",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Miten korppi erottuu variksesta?",
+    "answers": [
+      { "text": "Korppi on huomattavasti suurempi, sen nokka on paksumpi ja pyrstö kiilamainen", "correct": true },
+      { "text": "Korppi on pienempi ja harmaampi", "correct": false },
+      { "text": "Korpilla on valkoinen poskiläikkä", "correct": false },
+      { "text": "Varis on suurempi kuin korppi", "correct": false }
+    ],
+    "explanation": "Korppi on suurin varislintumme: paksu nokka, kiilamainen pyrstö ja voimakas lento. Varis on selvästi pienempi ja sen vartalo on harmaa, pää ja siivet mustat.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["korppi", "varislinnut"]
+  },
+  {
+    "id": "lajintuntemus-019",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten merimetso erottuu muista vesilinnuista?",
+    "answers": [
+      { "text": "Se on suuri, musta lintu, jolla on pitkä koukkukärkinen nokka; se kuivattelee siipiään levällään", "correct": true },
+      { "text": "Se on pieni, kellertävä sorsa", "correct": false },
+      { "text": "Sillä on valkoinen otsakilpi", "correct": false },
+      { "text": "Sillä on pitkä, ohut neulanokka", "correct": false }
+    ],
+    "explanation": "Merimetso on suuri, lähes musta vesilintu, jolla on pitkä koukkukärkinen nokka. Se istuu usein kivillä siivet levällään kuivattelemassa. Lennossa kaula on ojossa.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["merimetso", "vesilinnut"]
+  },
+  {
+    "id": "lajintuntemus-020",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten saukko erottuu minkistä?",
+    "answers": [
+      { "text": "Saukko on selvästi suurempi, sen häntä on paksu ja tuuhea ja se on erinomainen uimari", "correct": true },
+      { "text": "Saukko on pienempi ja sen häntä on suomupintainen", "correct": false },
+      { "text": "Saukolla on valkoinen otsakilpi", "correct": false },
+      { "text": "Lajeja ei voi erottaa toisistaan vedessä", "correct": false }
+    ],
+    "explanation": "Saukko on selvästi minkkiä suurempi, ja sen häntä on paksu ja tuuhea (minkin häntä ohut ja karvainen, majavan suomupintainen). Saukko on rauhoitettu.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saukko", "minkki", "pienpedot"]
+  },
+  {
+    "id": "lajintuntemus-021",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Miten mufloniuros tunnistetaan?",
+    "answers": [
+      { "text": "Kaarevat, sivuille kääntyvät sarvet, vaalea selkäsatula ja valkoinen kylkijuova", "correct": true },
+      { "text": "Lapionmuotoiset sarvet ja täplikäs turkki", "correct": false },
+      { "text": "Pitkät, pystyt kolmipiikkiset sarvet", "correct": false },
+      { "text": "Muflonilla ei ole sarvia", "correct": false }
+    ],
+    "explanation": "Mufloniuroksella on kaarevat, sivuille kääntyvät sarvet, tumma talviturkki, vaalea selkäsatula ja valkoinen kylkijuova. Se on villilammas, joka on istutettu Suomeen.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["mufloni", "sorkkaeläimet"]
+  },
+  {
+    "id": "lajintuntemus-022",
+    "category": "lajintuntemus",
+    "difficulty": 4,
+    "question": "Miten kanadanhanhi erottaa valkoposkihanhesta ja metsähanhesta?",
+    "answers": [
+      { "text": "Kanadanhanhellä on musta pää ja kaula sekä valkoinen poskiläikkä, joka jatkuu kurkkuun asti", "correct": true },
+      { "text": "Kanadanhanhellä on oranssi nokka ja vaaleanpunaiset jalat", "correct": false },
+      { "text": "Kanadanhanhi on kokonaan valkoinen", "correct": false },
+      { "text": "Kanadanhanhi on pienin hanhilajeistamme", "correct": false }
+    ],
+    "explanation": "Kanadanhanhen musta pää ja kaula sekä valkoinen poskiläikkä, joka jatkuu kurkkuun asti, tekevät siitä helposti tunnistettavan. Valkoposkihanhella valkoinen on vain poskella ja otsalla, ja valkoposkihanhi on selvästi pienempi.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kanadanhanhi", "hanhet"]
+  },
+  {
+    "id": "lajintuntemus-023",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten lapasorsan uros tunnistetaan?",
+    "answers": [
+      { "text": "Erittäin iso, lapamainen nokka, vihreä pää, valkoinen rinta ja ruostepunainen vatsa", "correct": true },
+      { "text": "Pieni koko ja leveä valkoinen silmäjuova", "correct": false },
+      { "text": "Punaruskea pää ja musta rinta", "correct": false },
+      { "text": "Valkoinen selkä ja mustat takapuolet", "correct": false }
+    ],
+    "explanation": "Lapasorsakoiraan erottaa erittäin isosta, lapamaisesta nokasta. Lisäksi sillä on vihreä pää, valkoinen rinta ja ruostepunainen vatsa.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["lapasorsa", "vesilinnut"]
+  },
+  {
+    "id": "lajintuntemus-024",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten punasotkan uros tunnistetaan?",
+    "answers": [
+      { "text": "Punaruskea pää, musta rinta ja harmaa selkä; silmä on punainen", "correct": true },
+      { "text": "Musta pää, valkoiset kyljet ja niskatöyhtö", "correct": false },
+      { "text": "Valkoinen selkä ja mustat takapuolet", "correct": false },
+      { "text": "Iso lapamainen nokka", "correct": false }
+    ],
+    "explanation": "Punasotkakoiraalla on punaruskea pää, musta rinta ja harmaa selkä, ja sen silmä on punainen. Tukkasotkalla sen sijaan on musta pää, valkoiset kyljet ja niskatöyhtö.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["punasotka", "tukkasotka", "sotkat"]
+  },
+  {
+    "id": "lajintuntemus-025",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Miten saksanhirvi erottaa hirvestä?",
+    "answers": [
+      { "text": "Saksanhirvi on pienempi, sen sarvet ovat monihaaraiset ja pyöreähköt ja häntä on selvästi pidempi", "correct": true },
+      { "text": "Saksanhirvi on suurempi ja sillä on lapiosarvet", "correct": false },
+      { "text": "Saksanhirvellä on valkoinen pakaraläikkä", "correct": false },
+      { "text": "Saksanhirvi on väritykseltään valkoinen", "correct": false }
+    ],
+    "explanation": "Saksanhirvi on hirveä pienempi. Uroksen monihaaraiset, pyöreähköt sarvet ja selvästi pidempi häntä erottavat sen hirvestä, jolla on lapiomaiset sarvet ja lyhyt häntä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saksanhirvi", "hirvi", "hirvieläimet"]
+  },
+  {
+    "id": "lajintuntemus-026",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Miten haahkan uros tunnistetaan?",
+    "answers": [
+      { "text": "Suurikokoinen, valkoinen selkä ja vatsa, mustat takapuolet ja vihertävä niska", "correct": true },
+      { "text": "Punaruskea pää ja musta rinta", "correct": false },
+      { "text": "Iso lapamainen nokka", "correct": false },
+      { "text": "Valkoinen otsakilpi", "correct": false }
+    ],
+    "explanation": "Haahkakoiras on suurikokoinen merilintu, jolla on valkoinen selkä ja vatsa, mustat takapuolet ja vihertävä niska. Naaras on ruskearaitainen.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haahka", "vesilinnut"]
+  },
+  {
+    "id": "lajintuntemus-027",
+    "category": "lajintuntemus",
+    "difficulty": 4,
+    "question": "Miten alli tunnistetaan muista vesilinnuista?",
+    "answers": [
+      { "text": "Pieni merisukeltaja, jolla on pitkä, jäykkä pystypyrstö; se nousee vedestä suoraan ylös", "correct": true },
+      { "text": "Suurikokoinen, valko-mustapukuinen lintu", "correct": false },
+      { "text": "Musta lintu, jolla on valkoinen otsakilpi", "correct": false },
+      { "text": "Pitkä, koukkukärkinen nokka ja täysin musta puku", "correct": false }
+    ],
+    "explanation": "Alli on pieni merisukeltaja, jolla on pitkä, jäykkä pystypyrstö. Se nousee vedestä suoraan ylös, toisin kuin monet muut vesilinnut, jotka lentävät pitkälle matkaa vedessä juostuaan.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["alli", "vesilinnut", "taantuneet lajit"]
+  },
+  {
+    "id": "lajintuntemus-028",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mitkä seuraavista ovat rauhoittamattomia lintulajeja Suomessa (poronhoitoaluetta lukuun ottamatta)?",
+    "answers": [
+      { "text": "Varis, harakka, naakka, harmaalokki, merilokki, kesykyyhky ja räkättirastas", "correct": true },
+      { "text": "Metso, teeri ja pyy", "correct": false },
+      { "text": "Sinisorsa, tavi ja haapana", "correct": false },
+      { "text": "Kurki, haikara ja joutsen", "correct": false }
+    ],
+    "explanation": "Rauhoittamattomia lintulajeja ovat varis, harakka, naakka, harmaalokki, merilokki, kesykyyhky ja räkättirastas. Korppi on rauhoittamaton vain poronhoitoalueella.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["rauhoittamattomat", "varislinnut"]
+  },
+  {
+    "id": "lajintuntemus-029",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Mitkä lajit kuuluvat Suomen suurpetoihin, jotka ovat rauhoitettuja?",
+    "answers": [
+      { "text": "Karhu, susi, ilves ja ahma", "correct": true },
+      { "text": "Kettu, mäyrä ja näätä", "correct": false },
+      { "text": "Villisika, mufloni ja kuusipeura", "correct": false },
+      { "text": "Merikotka, kalasääski ja huuhkaja", "correct": false }
+    ],
+    "explanation": "Suurpedot ovat karhu, susi, ilves ja ahma. Kaikki ovat rauhoitettuja, ja niiden metsästys edellyttää viranomaisen myöntämää poikkeus- tai kannanhoitolupaa.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["suurpedot", "rauhoitettu"]
+  },
+  {
+    "id": "lajintuntemus-030",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Mitä kultasakaalista on tiedettävä tunnistamisen kannalta?",
+    "answers": [
+      { "text": "Se muistuttaa kettua mutta on kookkaampi, korkeajalkaisempi ja kellanharmaa; laji on rauhoitettu", "correct": true },
+      { "text": "Se on susi, jota saa metsästää kiintiöllä", "correct": false },
+      { "text": "Se on vieraslaji, jota saa pyytää vapaasti", "correct": false },
+      { "text": "Se on sama laji kuin supikoira", "correct": false }
+    ],
+    "explanation": "Kultasakaali on Itä-Euroopasta levittäytynyt pieni koiraeläin: kookkaampi ja pitkäjalkaisempi kuin kettu, turkki kellanharmaa. Laji on rauhoitettu, ja havainnot ilmoitetaan Oma riistaan.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kultasakaali", "rauhoitettu"]
+  }
+]

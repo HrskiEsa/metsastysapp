@@ -1,0 +1,182 @@
+[
+  {
+    "id": "etiikka-001",
+    "category": "etiikka",
+    "difficulty": 1,
+    "question": "Mikä on metsästäjän etiikan peruslähtökohta saaliin suhteen?",
+    "answers": [
+      { "text": "Riistaeläintä on kohdeltava arvostavasti ja sen kärsimystä on vältettävä", "correct": true },
+      { "text": "Saalis on vain suoritus, jonka määrä ratkaisee", "correct": false },
+      { "text": "Saalis on aina myytävä eteenpäin", "correct": false },
+      { "text": "Etiikka koskee vain suurriistaa", "correct": false }
+    ],
+    "explanation": "Eettinen metsästys perustuu riistan arvostamiseen ja eläimen kärsimyksen välttämiseen koko tapahtuman ajan.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "perusteet"]
+  },
+  {
+    "id": "etiikka-002",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa 'varma laukaus' eettisestä näkökulmasta?",
+    "answers": [
+      { "text": "Laukaus, jossa osuma on varmasti tappava ja ampuja pystyy hallitsemaan tilanteen", "correct": true },
+      { "text": "Laukaus, joka ammutaan mahdollisimman kaukaa", "correct": false },
+      { "text": "Laukaus liikkuvaan maaliin nopeasti", "correct": false },
+      { "text": "Laukaus ilman tähtäystä", "correct": false }
+    ],
+    "explanation": "Vain varmasti tappava laukaus on eettinen. Epävarmassa tilanteessa jätetään ampumatta, jotta haavoittumista ei synny.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "laukaus"]
+  },
+  {
+    "id": "etiikka-003",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa 'riistan arvostaminen' käytännössä?",
+    "answers": [
+      { "text": "Saaliin talteenotto, hyödyntäminen ja kunnioittava käsittely", "correct": true },
+      { "text": "Saaliin jättäminen metsään", "correct": false },
+      { "text": "Saaliin ampuminen mahdollisimman paljon", "correct": false },
+      { "text": "Saaliin kuvien ottaminen sosiaaliseen mediaan", "correct": false }
+    ],
+    "explanation": "Riistan arvostaminen näkyy saaliin huolellisessa talteenotossa ja hyödyntämisessä – ruokaa ei haaskata.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "saalis"]
+  },
+  {
+    "id": "etiikka-004",
+    "category": "etiikka",
+    "difficulty": 3,
+    "question": "Miten metsästäjä osoittaa hyvää metsästystapaa maanomistajaa ja muita käyttäjiä kohtaan?",
+    "answers": [
+      { "text": "Noudattamalla sovittuja sääntöjä, siivoamalla jälkensä ja ilmoittamalla havainnoista", "correct": true },
+      { "text": "Kulkemalla alueella ilman lupaa, jos kenellekään ei aiheudu haittaa", "correct": false },
+      { "text": "Jättämällä portit ja aidat auki", "correct": false },
+      { "text": "Metsästämällä teillä ja pihoilla", "correct": false }
+    ],
+    "explanation": "Hyvä metsästystapa sisältää luvat, sovitut käytännöt, jälkien siivoamisen ja maanomistajan omaisuuden kunnioittamisen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "maanomistaja"]
+  },
+  {
+    "id": "etiikka-005",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mikä on metsästäjän vastuu haavakoituneesta eläimestä?",
+    "answers": [
+      { "text": "Eläin on lopetettava tai jäljitettävä viipymättä", "correct": true },
+      { "text": "Eläin jätetään paikoilleen", "correct": false },
+      { "text": "Asiasta ilmoitetaan vasta seuraavana päivänä", "correct": false },
+      { "text": "Vastuu siirtyy seuralle", "correct": false }
+    ],
+    "explanation": "Vastuu haavoittuneesta eläimestä on aina ampujalla. Eläin lopetetaan tai jäljitetään viipymättä, ja tarvittaessa käytetään apuna koiraa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "haavoittunut"]
+  },
+  {
+    "id": "etiikka-006",
+    "category": "etiikka",
+    "difficulty": 3,
+    "question": "Miten metsästäjä voi vähentää eläinten kärsimystä metsästystilanteessa?",
+    "answers": [
+      { "text": "Harjoittelemalla ammuntaa ja valitsemalla sopivan aseen ja patruunan", "correct": true },
+      { "text": "Ampumalla mahdollisimman kauas", "correct": false },
+      { "text": "Käyttämällä liian tehokasta asetta kaikkiin lajeihin", "correct": false },
+      { "text": "Välttämällä tähtäämisen varmistamista", "correct": false }
+    ],
+    "explanation": "Riittävä ampumataito ja oikea ase ja patruuna lajiin ja tilanteeseen sopivana ovat keskeisiä kärsimyksen vähentämisessä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "ammunta"]
+  },
+  {
+    "id": "etiikka-007",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mikä on sosiaalisen kestävyyden kannalta tärkeää metsästyksessä?",
+    "answers": [
+      { "text": "Metsästäjien ja muiden alueen käyttäjien välinen hyvä yhteistyö ja vuorovaikutus", "correct": true },
+      { "text": "Metsästys kiirehtimällä", "correct": false },
+      { "text": "Alueen sulkeminen kaikilta", "correct": false },
+      { "text": "Metsästys vain öisin", "correct": false }
+    ],
+    "explanation": "Sosiaalinen kestävyys edellyttää avointa yhteistyötä ja hyvää käytöstä myös muiden kuin metsästäjien kanssa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kestävyys", "yhteistyö"]
+  },
+  {
+    "id": "etiikka-008",
+    "category": "etiikka",
+    "difficulty": 1,
+    "question": "Saako riistaeläintä käyttää pelkästään trofeena?",
+    "answers": [
+      { "text": "Ei – saalis on ensisijaisesti hyödynnettävä ravintona", "correct": true },
+      { "text": "Saa aina", "correct": false },
+      { "text": "Saa, jos eläin on suurikokoinen", "correct": false },
+      { "text": "Saa, jos lupa on myönnetty", "correct": false }
+    ],
+    "explanation": "Metsästys ei ole pelkkää trofeiden keräämistä. Saalis otetaan talteen ja hyödynnetään vastuullisesti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "hyödyntäminen"]
+  },
+  {
+    "id": "etiikka-009",
+    "category": "etiikka",
+    "difficulty": 3,
+    "question": "Miten metsästäjä voi viestiä metsästyksen hyväksyttävyyttä yhteiskunnassa?",
+    "answers": [
+      { "text": "Toimimalla esimerkillisesti, avoimesti ja vastuullisesti", "correct": true },
+      { "text": "Välttelemällä kaikkea vuorovaikutusta", "correct": false },
+      { "text": "Korostamalla saaliin määrää", "correct": false },
+      { "text": "Salaamalla metsästysalueen käyttö", "correct": false }
+    ],
+    "explanation": "Metsästyksen yhteiskunnallinen hyväksyttävyys rakentuu metsästäjien omasta esimerkillisestä ja vastuullisesta toiminnasta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "hyväksyttävyys"]
+  },
+  {
+    "id": "etiikka-010",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Miksi metsästysaikojen noudattaminen on myös eettinen kysymys?",
+    "answers": [
+      { "text": "Aikojen ulkopuolella metsästys häiritsee lisääntymistä ja rikkoo muita kohtaan tehtyä sopimusta", "correct": true },
+      { "text": "Koska aikojen noudattaminen on vain tekninen yksityiskohta", "correct": false },
+      { "text": "Koska se ei liity eläinten hyvinvointiin", "correct": false },
+      { "text": "Koska vain valvonta on tärkeää", "correct": false }
+    ],
+    "explanation": "Metsästysaikojen taustalla on riistan lisääntymisen turvaaminen. Niiden noudattaminen on sekä lakiin perustuva että eettinen velvoite.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "metsästysajat"]
+  }
+]

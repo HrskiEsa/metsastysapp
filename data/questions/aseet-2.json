@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aseet-011",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Miksi aseen ja patruunan kunto on tarkistettava ennen metsästystä?",
+    "answers": [
+      { "text": "Huollettu ja kohdistettu ase yhdessä sopivan patruunan kanssa vähentää haavakoita", "correct": true },
+      { "text": "Vain aseen ulkonäkö on tarkistettava", "correct": false },
+      { "text": "Huoltotarkistus on lakisääteinen vuosittainen velvoite", "correct": false },
+      { "text": "Aseen kunto ei vaikuta ampumatarkkuuteen", "correct": false }
+    ],
+    "explanation": "Metsästyksessä käytetään sopivia ja ennakkoon testattuja aseita ja patruunoita, ja aseita huolletaan säännöllisesti. Kohdistettu ase ja sopiva patruuna vähentävät haavakoita.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseenhuolto", "kohdistus"]
+  },
+  {
+    "id": "aseet-012",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mihin aseen piipun suhteen on kiinnitettävä huomiota talvisessa metsästyksessä?",
+    "answers": [
+      { "text": "Piipun suu suojataan, ettei sinne pääse lunta; piipussa ei saa olla mitään sinne kuulumatonta", "correct": true },
+      { "text": "Piipun suu jätetään auki, jotta ase jäähantyy tasaisesti", "correct": false },
+      { "text": "Piipun suuhun voi laittaa kankaan, joka ammutaan mukana", "correct": false },
+      { "text": "Piipun kunnolla ei ole merkitystä talvella", "correct": false }
+    ],
+    "explanation": "Talvisessa latvalinnustuksessa piipun suu suojataan lunta vasten. Piipussa ei saa olla mitään sinne kuulumatonta, kun ase laukaistaan.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["piippu", "talvimetsästys"]
+  },
+  {
+    "id": "aseet-013",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Miksi haulikolla ammutaan korkeintaan noin 30 metrin matkalta?",
+    "answers": [
+      { "text": "Haulipatterin teho heikkenee nopeasti etäisyyden kasvaessa ja haavakon riski kasvaa", "correct": true },
+      { "text": "Haulikko räjähtää pidemmällä matkalla", "correct": false },
+      { "text": "Haulit lentävät vain 30 metriä", "correct": false },
+      { "text": "Pidempi matka on kielletty laissa", "correct": false }
+    ],
+    "explanation": "Haulipatterin osumateho heikkenee nopeasti etäisyyden kasvaessa. Yli noin 30 metrin etäisyydellä saalis haavoittuu helposti eikä kaadu. Suositus perustuu eettiseen pyyntiin.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haulikko", "ampumamatka"]
+  },
+  {
+    "id": "aseet-014",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Mitä ampumatarvikkeilla tehdään ampumisen jälkeen?",
+    "answers": [
+      { "text": "Hylsyt ja muut roskat kerätään talteen ja tuodaan pois maastosta", "correct": true },
+      { "text": "Hylsyt jätetään maahan, ne ovat biohajoavia", "correct": false },
+      { "text": "Hylsyt kaivetaan maahan", "correct": false },
+      { "text": "Hylsyjen kerääminen on vapaaehtoista ja harvinaista", "correct": false }
+    ],
+    "explanation": "Hylsyt ja muut roskat kerätään talteen ja tuodaan pois maastosta. Plastiset hylsyt ja patrullimutterit eivät hajoa luonnossa.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hylsyt", "ympäristö"]
+  },
+  {
+    "id": "aseet-015",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Miksi vesilinnustuksessa harjoitellaan ampumista ennen kauden alkua?",
+    "answers": [
+      { "text": "Saalis ammutaan pääsääntöisesti lentoon, mikä vaatii taitoa ampua liikkuvaan kohteeseen", "correct": true },
+      { "text": "Harjoittelu on lakisääteinen vaatimus", "correct": false },
+      { "text": "Harjoittelu säästää patruunoita", "correct": false },
+      { "text": "Vesilinnut ammutaan paikallaan olevaan kohteeseen", "correct": false }
+    ],
+    "explanation": "Vesilinnustuksessa saalis ammutaan pääsääntöisesti lentoon, mikä vaatii ampujalta taitoa ampua liikkuvaan kohteeseen. Taito ylläpidetään harjoittelemalla ampumaradalla ennen kauden alkua.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ampumataito", "vesilinnustus"]
+  },
+  {
+    "id": "aseet-016",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Miten vesilinnustuksessa arvioidaan etäisyyksiä?",
+    "answers": [
+      { "text": "Veden päällä matkan arviointi on vaikeampaa kuin metsässä, joten ammutaan vain varmoilta etäisyyksiltä", "correct": true },
+      { "text": "Vedellä etäisyydet arvioidaan helpommin kuin metsässä", "correct": false },
+      { "text": "Etäisyyksien arvioinnilla ei ole merkitystä", "correct": false },
+      { "text": "Etäisyydet mitataan aina kiikarilla", "correct": false }
+    ],
+    "explanation": "Veden päällä matkan arviointi on vaikeampaa kuin metsässä. Siksi vesilintua ammutaan vain itselle ja käyttämille patruunoille varmoilta etäisyyksiltä.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etäisyysarvio", "vesilinnustus"]
+  },
+  {
+    "id": "aseet-017",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Miksi kiväärin luodin kantomatka on otettava huomioon?",
+    "answers": [
+      { "text": "Luoti voi lentää useita kilometrejä, joten taustan on oltava turvallinen koko kantamalla", "correct": true },
+      { "text": "Luoti pysähtyy aina maahan osumalla 150 metrin jälkeen", "correct": false },
+      { "text": "Kantomatka on vain noin 300 metriä", "correct": false },
+      { "text": "Kantomatkalla ei ole merkitystä, jos kohde on näkyvissä", "correct": false }
+    ],
+    "explanation": "Kiväärillä ammuttaessa luodin kantomatka on useita kilometrejä. Siksi taustan turvallisuus on varmistettava koko luodin kantamalla, ei vain kohteen takana.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kivääri", "kantomatka"]
+  },
+  {
+    "id": "aseet-018",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mikä on hyvä käytäntö ampujalle kohteen tunnistamisessa?",
+    "answers": [
+      { "text": "Käytetään katselukiikareita aina kun mahdollista kohteen tunnistamiseen", "correct": true },
+      { "text": "Tunnistetaan kohde tähtäimen kautta", "correct": false },
+      { "text": "Tunnistaminen ei ole tarpeen, jos laji on yleinen", "correct": false },
+      { "text": "Tunnistetaan laukauksen jälkeen", "correct": false }
+    ],
+    "explanation": "Katselukiikareita käytetään aina kun mahdollista kohteen tunnistamiseen ennen laukausta. Tähtäintahtoisen aseen osoittaminen kohteeseen ei ole tunnistamistapa.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["tunnistaminen", "kiikarit"]
+  },
+  {
+    "id": "aseet-019",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Milloin sormi laitetaan liipaisimelle?",
+    "answers": [
+      { "text": "Vasta sitten, kun on tarkoitus laukaista ase", "correct": true },
+      { "text": "Hetki kun ase nostetaan kädessä", "correct": false },
+      { "text": "Aina kun metsästä liikkuu", "correct": false },
+      { "text": "Kun kohde havaitaan kaukaa", "correct": false }
+    ],
+    "explanation": "Sormi laitetaan liipaisimelle vasta sitten, kun on tarkoitus laukaista ase. Muulloin sormi pidetään liipaisinsuojan ulkopuolella.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["liipaisin", "aseenkäsittely"]
+  },
+  {
+    "id": "aseet-020",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mitä aseella saa osoittaa?",
+    "answers": [
+      { "text": "Vain varmasti tunnistettua ammuttavaa kohdetta", "correct": true },
+      { "text": "Mihin tahansa suuntaan, jos ase on tyhjä", "correct": false },
+      { "text": "Myös ihmisiä, jos ase on varmistettu", "correct": false },
+      { "text": "Vain maata", "correct": false }
+    ],
+    "explanation": "Aseella ei koskaan osoiteta muuta kuin varmasti tunnistettua ammuttavaa kohdetta. Sääntö pätee myös tyhjäksi uskottua asetta käsiteltäessä.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseenosuunta", "turvallisuus"]
+  }
+]

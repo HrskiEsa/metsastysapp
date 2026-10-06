@@ -1,0 +1,182 @@
+[
+  {
+    "id": "turvallisuus-011",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä ajoketjumetsästyksessä suositellaan ketjun koolle?",
+    "answers": [
+      { "text": "Enintään kolme henkilöä", "correct": true },
+      { "text": "Vähintään viisi henkilöä", "correct": false },
+      { "text": "Ketjun koolla ei ole merkitystä", "correct": false },
+      { "text": "Aina yli kymmenen henkilöä", "correct": false }
+    ],
+    "explanation": "Ajoketjumetsästyksessä suositellaan rajoittamaan ketjun koko enintään kolmeen henkilöön. Näin jokainen näkee viereisen metsästäjän koko ajan ja ampumasektorien pitäminen on helpompaa.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ajoketju", "turvallisuus"]
+  },
+  {
+    "id": "turvallisuus-012",
+    "category": "turvallisuus",
+    "difficulty": 1,
+    "question": "Millaista vaatetusta suositellaan ajoketjumetsästyksessä?",
+    "answers": [
+      { "text": "Näkyvää oranssia tai oranssinpunaista vaatetusta", "correct": true },
+      { "text": "Maastokuvioista, jottei riista huomaa", "correct": false },
+      { "text": "Vain tummia värejä", "correct": false },
+      { "text": "Vaatetuksella ei ole merkitystä", "correct": false }
+    ],
+    "explanation": "Ajoketjussa käytetään näkyvää oranssia tai oranssinpunaista vaatetusta (esim. takki ja lakki tai liivi ja lakki), jotta muut metsästäjät havaitsevat sinut helposti.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ajoketju", "huomiovärit"]
+  },
+  {
+    "id": "turvallisuus-013",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä kannattaa tehdä ylitettäessä ojia tai kuljettaessa hankalissa maastonkohdissa?",
+    "answers": [
+      { "text": "Poistaa tarvittaessa patruunat piipusta", "correct": true },
+      { "text": "Ladata ase varmuuden vuoksi täyteen", "correct": false },
+      { "text": "Osoittaa aseella suunta johon on menossa", "correct": false },
+      { "text": "Juosta nopeasti yli", "correct": false }
+    ],
+    "explanation": "Hankalissa maastonkohdissa ja ojia ylitettäessä patruunat poistetaan tarvittaessa piipusta. Kaatuminen ladatun aseen kanssa on vakava vaaratilanne.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["maasto", "aseenkäsittely"]
+  },
+  {
+    "id": "turvallisuus-014",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miksi vaakalaukaukset kannattaa välttää?",
+    "answers": [
+      { "text": "Luoti tai haulit voivat lentää kauas ja osua muihin metsästäjiin tai sivullisiin", "correct": true },
+      { "text": "Vaakalaukaukset kuluvat enemmän patruunoita", "correct": false },
+      { "text": "Ne likaavat asetta nopeammin", "correct": false },
+      { "text": "Vaakalaukaukset ovat kiellettyjä lain mukaan", "correct": false }
+    ],
+    "explanation": "Vaakalaukauksessa ammuttava materiaali lentää pitkälle ja matalalla, mikä lisää muiden osumisriskiä. Ammuntasuunta pyritään pitämään alaviistoon ja tausta tarkistetaan aina.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["laukaus", "turvallisuus"]
+  },
+  {
+    "id": "turvallisuus-015",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mitä metsästäjän tulee huomioida koiran kanssa metsästäessä?",
+    "answers": [
+      { "text": "Koiran sijainti ampumatilanteessa; linnun perään ryntäävä koira voi siirtyä ampumalinjalle", "correct": true },
+      { "text": "Koira voidaan kiinnittää aina ampumalinjan eteen", "correct": false },
+      { "text": "Koiralla ei tarvitse tehdä mitään, se pysyy aina turvassa", "correct": false },
+      { "text": "Koira voidaan jättää kotiin haavakon varalta", "correct": false }
+    ],
+    "explanation": "Ampumatilanteessa on huomioitava aina koira ja seurattava sen liikkeitä. Linnun perään ryntäävä koira voi nopeasti siirtyä ampumalinjalle. Koiralla voidaan käyttää huomioliivejä.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys, turvallisuus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koira", "ampumatilanne"]
+  },
+  {
+    "id": "turvallisuus-016",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miten veneeseen noustaan ja siitä poistutaan vesilinnustuksessa?",
+    "answers": [
+      { "text": "Aina ase lataamattomana", "correct": true },
+      { "text": "Ase ladattuna, jotta voidaan puolustautua", "correct": false },
+      { "text": "Ase olkapäällä osoittaen eteenpäin", "correct": false },
+      { "text": "Riippuu säästä", "correct": false }
+    ],
+    "explanation": "Veneeseen nousu ja veneestä poistuminen tehdään aina ase lataamattomana. Veneessä liikkuminen ladatun aseen kanssa on vakava vaaratilanne.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnustus", "vene"]
+  },
+  {
+    "id": "turvallisuus-017",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Miksi matalalle ja veteen suuntautuvia laukauksia tulee välttää vesilinnustuksessa?",
+    "answers": [
+      { "text": "Kaislikossa voi olla metsästäjiä, joiden sijaintia ei tiedetä; korvaavilla hauleilla kimmokevaara on suuri", "correct": true },
+      { "text": "Veteen osuva laukaus likaantuu veden vuoksi", "correct": false },
+      { "text": "Se on kiellettyä, koska kala saattaa loukkaantua", "correct": false },
+      { "text": "Vesi hidastaa laukauksen voimaa liikaa", "correct": false }
+    ],
+    "explanation": "Suosituilla vesilinnustuspaikoilla kaislikossa voi olla metsästäjiä, joiden sijaintia ei tiedetä. Siksi matalalle ja veteen suunnattavia laukauksia on vältettävä. Korvaavilla hauleilla ammuttaessa kimmokevaara on suuri.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnustus", "laukaus"]
+  },
+  {
+    "id": "turvallisuus-018",
+    "category": "turvallisuus",
+    "difficulty": 1,
+    "question": "Mitä haulikolla ampumisen enimmäisetäisyydeksi suositellaan?",
+    "answers": [
+      { "text": "Korkeintaan 30 metriä", "correct": true },
+      { "text": "Korkeintaan 100 metriä", "correct": false },
+      { "text": "Korkeintaan 150 metriä", "correct": false },
+      { "text": "Ei enimmäisrajaa", "correct": false }
+    ],
+    "explanation": "Riistakeskus suosittelee ampumista haulikolla korkeintaan 30 metrin ja kiväärillä enintään 150 metrin matkalta. Näin haavoittumisriski pysyy pienenä.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ampumamatka", "haulikko"]
+  },
+  {
+    "id": "turvallisuus-019",
+    "category": "turvallisuus",
+    "difficulty": 2,
+    "question": "Mikä on kiväärillä ampumisen enimmäisetäisyys Riistakeskuksen suosituksen mukaan?",
+    "answers": [
+      { "text": "Enintään 150 metriä", "correct": true },
+      { "text": "Enintään 50 metriä", "correct": false },
+      { "text": "Enintään 500 metriä", "correct": false },
+      { "text": "Rajaa ei ole, jos tausta on näkyvissä", "correct": false }
+    ],
+    "explanation": "Kiväärillä suositeltu enimmäisetäisyys on 150 metriä. Luodin kantomatka on kuitenkin useita kilometrejä, joten taustan turvallisuus on aina varmistettava.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ampumamatka", "kivääri"]
+  },
+  {
+    "id": "turvallisuus-020",
+    "category": "turvallisuus",
+    "difficulty": 3,
+    "question": "Mihin vesilinnustuksen saalis kannattaa kiinnittää erityistä huomiota lämpimällä säällä?",
+    "answers": [
+      { "text": "Saaliin säilytykseen metsästyksen aikana", "correct": true },
+      { "text": "Saaliin kuljettamiseen vain autoissa", "correct": false },
+      { "text": "Saaliin puhdistamiseen vasta kotona", "correct": false },
+      { "text": "Sään lämpötila ei vaikuta saaliiseen", "correct": false }
+    ],
+    "explanation": "Lämpimällä säällä kiinnitetään erityistä huomiota saaliin säilytykseen metsästyksen aikana. Lintusaalis pilaantuu nopeasti, ja huono käsittely heikentää lihan laatua.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saaliin käsittely", "hygienia"]
+  }
+]

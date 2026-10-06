@@ -1,0 +1,182 @@
+[
+  {
+    "id": "riistaekologia-001",
+    "category": "riistaekologia",
+    "difficulty": 1,
+    "question": "Mitä riistanhoito tarkoittaa?",
+    "answers": [
+      { "text": "Toimia, joilla parannetaan riistaeläinten elinoloja ja kantoja kestävästi", "correct": true },
+      { "text": "Riistaeläinten kasvattamista tarhassa", "correct": false },
+      { "text": "Metsästyksen kieltämistä", "correct": false },
+      { "text": "Saaliin myymistä eteenpäin", "correct": false }
+    ],
+    "explanation": "Riistanhoito on elinympäristöjen hoitoa, ruokintaa, petokantojen ja metsästyksen suunnittelua sekä seurantaa. Tavoitteena on elinvoimainen ja kestävä riistakanta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistanhoito", "perusteet"]
+  },
+  {
+    "id": "riistaekologia-002",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Mikä ympäristö on tyypillisin metson elinympäristö?",
+    "answers": [
+      { "text": "Varttuneet ja vanhat havupuuvaltaiset metsät", "correct": true },
+      { "text": "Avoimet peltoaukeat", "correct": false },
+      { "text": "Kosteikot ja järvien rannat", "correct": false },
+      { "text": "Tunturien lakialueet", "correct": false }
+    ],
+    "explanation": "Metso viihtyy erityisesti vanhoissa, varttuneissa havumetsissä, joissa on ravinnoksi sopivia neulasia ja rauhallisia soidinpaikkoja.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metso", "elinympäristö"]
+  },
+  {
+    "id": "riistaekologia-003",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa kestävä verotus riistakantojen hoidossa?",
+    "answers": [
+      { "text": "Vain sellainen saalismäärä, jonka kanta kestää ilman että se pienenee pysyvästi", "correct": true },
+      { "text": "Kaikkien eläinten poistaminen alueelta", "correct": false },
+      { "text": "Rauhoitusaikojen noudattamatta jättäminen", "correct": false },
+      { "text": "Metsästyksen lisääminen vuosittain", "correct": false }
+    ],
+    "explanation": "Kestävä verotus mitoitetaan kannan tuoton, ei pelkän koon, mukaan. Kantaa seurataan ja verotusta säädetään havaintojen perusteella.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kestävyys", "kantaseuranta"]
+  },
+  {
+    "id": "riistaekologia-004",
+    "category": "riistaekologia",
+    "difficulty": 3,
+    "question": "Millä perusteella metsästysseura voi arvioida hirvikannan kokoa?",
+    "answers": [
+      { "text": "Aktiivisella havainnoinnilla, kanta-arvioilla ja lumijälkilaskennalla", "correct": true },
+      { "text": "Pelkästään metsästäjien mielipiteillä", "correct": false },
+      { "text": "Sääennusteiden perusteella", "correct": false },
+      { "text": "Ainoastaan saalismäärän perusteella", "correct": false }
+    ],
+    "explanation": "Kantaa seurataan mm. lumijälkilaskennalla, maastohavainnoilla ja viranomaisten kanta-arvioilla. Seura sopeuttaa verotuksen näiden tietojen perusteella.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvi", "kantaseuranta"]
+  },
+  {
+    "id": "riistaekologia-005",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miksi riistan ruokinta voi olla ongelmallista?",
+    "answers": [
+      { "text": "Se voi koota eläimet tarpeettoman tiheästi, levittää tauteja ja muuttaa käyttäytymistä", "correct": true },
+      { "text": "Se on aina kiellettyä", "correct": false },
+      { "text": "Se ei vaikuta metsästettävyyteen", "correct": false },
+      { "text": "Se parantaa aina koko ekosysteemin tilaa", "correct": false }
+    ],
+    "explanation": "Ruokinta on suunniteltava taloudellisesti ja ekologisesti. Liian tiheä kokoontuminen lisää tautiriskiä ja voi vahingoittaa ympäristöä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ruokinta", "taudit"]
+  },
+  {
+    "id": "riistaekologia-006",
+    "category": "riistaekologia",
+    "difficulty": 3,
+    "question": "Mitkä tekijät voivat aiheuttaa voimakasta vaihtelua kanalintukannassa?",
+    "answers": [
+      { "text": "Sää, petojen määrä ja ravintotilanne", "correct": true },
+      { "text": "Pelkästään metsästäjien määrä", "correct": false },
+      { "text": "Ainoastaan metsän ikä", "correct": false },
+      { "text": "Vain tieliikenne", "correct": false }
+    ],
+    "explanation": "Kanalintukannat vaihtelevat luontaisesti mm. pesinnän onnistumisen, säiden ja petojen runsauden mukaan. Metsästys mitoitetaan suhteessa kannan tilaan.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kanalinnut", "kannavaihtelu"]
+  },
+  {
+    "id": "riistaekologia-007",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miksi vieraslajien, kuten supikoiran ja kanadanhanhen, metsästystä pyritään helpottamaan?",
+    "answers": [
+      { "text": "Ne voivat haitata alkuperäistä lajistoa ja levittää tauteja", "correct": true },
+      { "text": "Ne ovat kotimaisia lajeja, joita halutaan suojella", "correct": false },
+      { "text": "Ne eivät lisäänny Suomessa", "correct": false },
+      { "text": "Ne ovat kaikki rauhoitettuja", "correct": false }
+    ],
+    "explanation": "Supikoira levittää esimerkiksi vakavia tauteja. Vieraslajien pyyntiä helpotetaan haittojen rajoittamiseksi.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vieraslajit", "supikoira"]
+  },
+  {
+    "id": "riistaekologia-008",
+    "category": "riistaekologia",
+    "difficulty": 3,
+    "question": "Mitä ekologista roolia haaskansyöjät ja raadonsyöjät, kuten varis, toteuttavat ekosysteemissä?",
+    "answers": [
+      { "text": "Ne poistavat kuolleita eläimiä ja hillitsevät tautien leviämistä", "correct": true },
+      { "text": "Ne eivät vaikuta ekosysteemiin lainkaan", "correct": false },
+      { "text": "Ne ovat ainoastaan haitallisia", "correct": false },
+      { "text": "Ne kilpailevat ravinnosta vain petojen kanssa", "correct": false }
+    ],
+    "explanation": "Raadonsyöjät ja monenlaiset haaskansyöjät poistavat raatoja ja siten ehkäisevät tautien leviämistä. Niiden rooli on ekosysteemissä merkityksellinen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ekosysteemi", "ravintoketju"]
+  },
+  {
+    "id": "riistaekologia-009",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa metsästyksen suunnittelu seuratasolla?",
+    "answers": [
+      { "text": "Tavoitteiden asettamista, saalisseurantaa ja metsästyksen mitoittamista kestävästi", "correct": true },
+      { "text": "Ainoastaan metsästysretkien aikatauluttamista", "correct": false },
+      { "text": "Sitä, että kaikki saavat ampua vapaasti", "correct": false },
+      { "text": "Ainoastaan aseiden tarkistamista", "correct": false }
+    ],
+    "explanation": "Suunnittelu kattaa tavoitteet, seurannan, saaliskiintiöt, lupakäytännöt ja riistanhoidon toimet. Sen avulla verotus on perusteltua ja kestävää.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["suunnittelu", "seuratoiminta"]
+  },
+  {
+    "id": "riistaekologia-010",
+    "category": "riistaekologia",
+    "difficulty": 1,
+    "question": "Mitä riistaeläimellä tarkoitetaan?",
+    "answers": [
+      { "text": "Lajia, jota saa metsästää metsästyslain mukaan", "correct": true },
+      { "text": "Kaikkia luonnonvaraisia eläimiä", "correct": false },
+      { "text": "Ainoastaan suurriistaa", "correct": false },
+      { "text": "Ainoastaan tarhattavia eläimiä", "correct": false }
+    ],
+    "explanation": "Riistaeläimiksi katsotaan lajit, jotka metsästyslaissa on määritelty riistaeläimiksi. Kaikki luonnonvaraiset eläimet eivät ole riistaeläimiä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistaeläin", "määritelmät"]
+  }
+]

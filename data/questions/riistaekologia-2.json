@@ -1,0 +1,182 @@
+[
+  {
+    "id": "riistaekologia-011",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miten kanalintukantojen kehitystä seurataan Suomessa?",
+    "answers": [
+      { "text": "Riistakolmiolaskennoilla ja kannanarvioinneilla", "correct": true },
+      { "text": "Laskemalla metsästetyt linnut jälkikäteen", "correct": false },
+      { "text": "Satelliittiseurannalla", "correct": false },
+      { "text": "Kanalintuja ei seurata mitenkään", "correct": false }
+    ],
+    "explanation": "Riistakolmiolaskennoista ja havaintojärjestelmistä saadaan tieto kanalintukantojen kehityksestä. Tietoja käytetään metsästysaikojen ja saaliskiintiöiden suunnitteluun.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistakolmio", "kanalinnut", "seuranta"]
+  },
+  {
+    "id": "riistaekologia-012",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miksi haahkan, allin ja punasotkan metsästystä on rajoitettu?",
+    "answers": [
+      { "text": "Ne ovat taantuneita lajeja, joiden kannat ovat vähentyneet pitkäjänteisesti", "correct": true },
+      { "text": "Ne ovat vieraslajeja", "correct": false },
+      { "text": "Ne levittävät lintuinfluenssaa ihmisiin", "correct": false },
+      { "text": "Ne eivät sovi ihmisravinnoksi", "correct": false }
+    ],
+    "explanation": "Useat vesilinnut (haahka, alli, punasotka, tukkakoskelo) ovat taantuneet, minkä vuoksi niiden metsästysaikoja ja kiintiöitä on rajattu. Metsästäjän on tunnistettava myös taantuneet lajit ja ammuttava vain luvallisia lajeja.",
+    "source": { "title": "Suomen riistakeskus – Tunnista taantuneet vesilinnut (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "taantuneet lajit"]
+  },
+  {
+    "id": "riistaekologia-013",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miksi vesilintunaaraiden säästäminen on tärkeää kantojen kannalta?",
+    "answers": [
+      { "text": "Naaraat ovat paikkakollisia pesijöitä ja palaavat todennäköisesti samalle vesistölle", "correct": true },
+      { "text": "Naaraat ovat koiraita arvokkaampia trofeina", "correct": false },
+      { "text": "Naaraslintuja ei saa lainkaan ampua missä lajissa", "correct": false },
+      { "text": "Naaraat levittävät tautia pesäpoikueisiin", "correct": false }
+    ],
+    "explanation": "Vesilintunaaraat ovat paikkakollisia pesijöitä, jotka palaavat suurella todennäköisyydellä pesimään samalle vesistölle seuraavana vuonna. Siksi naaraiden säästäminen vaikuttaa suoraan tuleviin pesintöihin.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "naaraat", "kannanhoito"]
+  },
+  {
+    "id": "riistaekologia-014",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miten pienpetopyynti vaikuttaa vesilintujen ja kanalintujen pesintämenestykseen?",
+    "answers": [
+      { "text": "Se parantaa pesintämenestystä vähentämällä pesärosvojen painetta", "correct": true },
+      { "text": "Se vähentää pesintämenestystä", "correct": false },
+      { "text": "Sillä ei ole mitään vaikutusta", "correct": false },
+      { "text": "Se vain siirtää pedot toisille alueille pysyvästi", "correct": false }
+    ],
+    "explanation": "Pienpetopyynnillä (esim. minkki, supikoira, kettu) voidaan edesauttaa vesilintujen ja kanalintujen pesintämenestystä vähentämällä munia ja poikasia syövien petojen painetta.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["pienpetopyynti", "riistanhoito"]
+  },
+  {
+    "id": "riistaekologia-015",
+    "category": "riistaekologia",
+    "difficulty": 1,
+    "question": "Mitkä lajit kuuluvat Suomen haitallisiin vieraslajeihin, joita pyydetään?",
+    "answers": [
+      { "text": "Minkki, supikoira, piisami ja kanadanmajava", "correct": true },
+      { "text": "Saukko, näätä ja mäyrä", "correct": false },
+      { "text": "Karhu, susi ja ilves", "correct": false },
+      { "text": "Metso, teeri ja pyy", "correct": false }
+    ],
+    "explanation": "Haitallisia vieraslajeja ovat mm. minkki, supikoira, piisami ja kanadanmajava. Niiden pyyntiä suositaan, koska ne haittaavat alkuperäistä luontoa.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vieraslajit"]
+  },
+  {
+    "id": "riistaekologia-016",
+    "category": "riistaekologia",
+    "difficulty": 3,
+    "question": "Mitä euroopanmajavan pyynnistä on säädetty?",
+    "answers": [
+      { "text": "Pyynti edellyttää Riistakeskuksen myöntämää pyyntilupaa tai poikkeuslupaa", "correct": true },
+      { "text": "Sitä saa pyytää vapaasti ilman lupia", "correct": false },
+      { "text": "Se on kokonaan rauhoitettu eikä pyyntiä ole", "correct": false },
+      { "text": "Sitä pyydetään vain petolupana", "correct": false }
+    ],
+    "explanation": "Euroopanmajava on riistanisäkäs, mutta sen pyynti edellyttää joko Riistakeskuksen metsästyslain 10 §:n mukaista pyyntilupaa tai 41 §:n mukaista poikkeuslupaa. Kanadanmajava sen sijaan on haitallinen vieraslaji.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["majava", "pyyntilupa"]
+  },
+  {
+    "id": "riistaekologia-017",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Mihin tietoihin hirvikannan suunnittelu ja verotus perustuvat?",
+    "answers": [
+      { "text": "Saalisseurantaan, havaintoihin ja laskentoihin, joita tehdään Oma riista -palvelussa", "correct": true },
+      { "text": "Vain metsästäjien omaan tunteeseen", "correct": false },
+      { "text": "Vain naapurimaiden tietoihin", "correct": false },
+      { "text": "Hirvikannan suunnitteluun ei ole tietoja saatavilla", "correct": false }
+    ],
+    "explanation": "Hirvieläinten kannanhoito perustuu Oma riista -palvelussa tehtävään saalisseurantaan ja riistahavaintoihin. Niiden avulla arvioidaan kannan kehitystä ja mitoitetaan verotus kestäväksi.",
+    "source": { "title": "Suomen riistakeskus – Saalisseuranta (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvi", "saalisseuranta", "oma riista"]
+  },
+  {
+    "id": "riistaekologia-018",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Miksi vesilintulaskennoissa tarvitaan vapaaehtoisia?",
+    "answers": [
+      { "text": "Kantojen vuosittainen seuranta perustuu laskentapisteisiin, joita vapaaehtoiset hoitavat", "correct": true },
+      { "text": "Laskentoja ei tarvita lainkaan", "correct": false },
+      { "text": "Laskennat hoitaa vain valtion virkamiehikäinen henkilöstö", "correct": false },
+      { "text": "Laskennat tehdään vain satelliittikuvista", "correct": false }
+    ],
+    "explanation": "Vesilintukantojen vuosittainen seuranta edellyttää laskentapisteitä, joita vapaaehtoiset hoitavat. Laskentapisteen perustaminen ja laskeminen eivät vie paljon aikaa, mutta ne ovat edellytys kantojen seurannalle.",
+    "source": { "title": "Suomen riistakeskus – Vesilintulaskennat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "laskennat"]
+  },
+  {
+    "id": "riistaekologia-019",
+    "category": "riistaekologia",
+    "difficulty": 3,
+    "question": "Mihin kuusipeura ja japaninpeura ovat asettuneet Suomessa?",
+    "answers": [
+      { "text": "Kuusipeura Lounais- ja Etelä-Suomeen; japaninpeura lounaisrannikolle ja saaristoon", "correct": true },
+      { "text": "Molemmat vain Lappiin", "correct": false },
+      { "text": "Vain Itä-Suomeen ja Pohjois-Karjalaan", "correct": false },
+      { "text": "Kumpaakaan lajia ei esiinny Suomessa", "correct": false }
+    ],
+    "explanation": "Kuusipeura on kotiutettu erityisesti Lounais- ja Etelä-Suomeen. Japaninpeura esiintyy lounaisrannikolla ja saaristossa. Molemmat ovat luvanvaraisia riistaeläimiä.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kuusipeura", "japaninpeura"]
+  },
+  {
+    "id": "riistaekologia-020",
+    "category": "riistaekologia",
+    "difficulty": 2,
+    "question": "Mitä riistanhoitoyhdistys (rhy) tekee?",
+    "answers": [
+      { "text": "Järjestää mm. metsästäjätutkintoja, valvoo metsästystä alueellaan ja tukee riistanhoitoa", "correct": true },
+      { "text": "Myöntää ampuma-aseluvat", "correct": false },
+      { "text": "Myy metsästyskortteja kaupoissa", "correct": false },
+      { "text": "Hallinnoi valtion maita", "correct": false }
+    ],
+    "explanation": "Riistanhoitoyhdistykset järjestävät mm. metsästäjätutkintoja ja ampumakokeita, antavat riistanhoitoneuvontaa ja tukevat seurojen riistanhoitotyötä alueellaan.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistanhoitoyhdistys", "organisaatio"]
+  }
+]

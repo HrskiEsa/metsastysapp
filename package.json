@@ -1,0 +1,29 @@
+{
+  "name": "metsastaja-akatemia",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Metsästäjätutkintoon valmentautumiseen tarkoitettu fullstack-sovellus (teoria, lajintunnistus, harjoituskoe, tilastot, spaced repetition)",
+  "type": "module",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "postinstall": "node scripts/build-data.mjs",
+    "data": "node scripts/build-data.mjs",
+    "images": "node scripts/fetch-species-images.mjs",
+    "dev": "concurrently -n server,client -c blue,green \"npm run dev -w server\" \"npm run dev -w client\"",
+    "dev:server": "npm run dev -w server",
+    "dev:client": "npm run dev -w client",
+    "build": "npm run data && npm run build -w client && npm run build -w server",
+    "start": "npm run start -w server",
+    "typecheck": "npm run typecheck -w server && npm run typecheck -w client",
+    "test": "node --test \"test/**/*.test.mjs\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

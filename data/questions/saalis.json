@@ -1,0 +1,182 @@
+[
+  {
+    "id": "saalis-001",
+    "category": "saalis",
+    "difficulty": 1,
+    "question": "Mikä on ensimmäinen toimenpide riistaeläimen kuoltua?",
+    "answers": [
+      { "text": "Veren laskeminen eli verestäminen", "correct": true },
+      { "text": "Karvat pois", "correct": false },
+      { "text": "Vatsan avaaminen", "correct": false },
+      { "text": "Kuvien ottaminen", "correct": false }
+    ],
+    "explanation": "Veren laskeminen mahdollisimman pian eläimen kuoltua parantaa lihan laatua ja säilyvyyttä. Eläin on lisäksi varmistettava varmasti kuolleeksi ennen käsittelyä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saaliin käsittely", "verestäminen"]
+  },
+  {
+    "id": "saalis-002",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Miksi saalis on jäähdytettävä nopeasti?",
+    "answers": [
+      { "text": "Lämpimässä lihassa bakteerit lisääntyvät nopeasti ja liha pilaantuu", "correct": true },
+      { "text": "Jäähdytys helpottaa nylkemistä", "correct": false },
+      { "text": "Jäähdytys parantaa lihan makua", "correct": false },
+      { "text": "Jäähdytys vähentää painoa", "correct": false }
+    ],
+    "explanation": "Nopea jäähdytys hidastaa bakteerien kasvua. Erityisesti suurriista on saatava jäähtymään mahdollisimman pian suolistuksen jälkeen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hygienia", "jäähdytys"]
+  },
+  {
+    "id": "saalis-003",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mikä on suolistuksen tarkoitus?",
+    "answers": [
+      { "text": "Poistaa sisäelimet, jotka pilaantuvat nopeimmin ja heikentävät lihan laatua", "correct": true },
+      { "text": "Pienentää kuljetuksen painoa", "correct": false },
+      { "text": "Helpottaa nylkemistä", "correct": false },
+      { "text": "Parantaa lihan väriä", "correct": false }
+    ],
+    "explanation": "Suolistus poistaa nopeimmin pilaantuvat sisäelimet ja varmistaa lihan laadun säilymisen. Se tehdään mahdollisimman pian lopetuksen jälkeen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["suolistus", "hygienia"]
+  },
+  {
+    "id": "saalis-004",
+    "category": "saalis",
+    "difficulty": 3,
+    "question": "Mitä erityistä on huomioitava hirvieläimen käsittelyssä ja kuljetuksessa?",
+    "answers": [
+      { "text": "Eläin on ripustettava ja jäähdytettävä nopeasti, ja se on kuljetettava puhtaasti suojattuna", "correct": true },
+      { "text": "Eläin voidaan jättää maastoon tunniksi lämpimään", "correct": false },
+      { "text": "Eläin on kuljetettava avoimesti lava-auton lavalla ilman peittämistä", "correct": false },
+      { "text": "Eläin on säilytettävä lämpimässä autotallissa", "correct": false }
+    ],
+    "explanation": "Hirvieläin on saatava nopeasti jäähtymään ja kuljetettava suojattuna. Lihan hygienia edellyttää puhdasta käsittelyä ja kuljetusta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvieläin", "kuljetus"]
+  },
+  {
+    "id": "saalis-005",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Miksi käsien ja välineiden puhtaus on tärkeää saalista käsiteltäessä?",
+    "answers": [
+      { "text": "Estää bakteerien ja tautien leviämisen sekä ihmisiin että lihaan", "correct": true },
+      { "text": "Nopeuttaa nylkemistä", "correct": false },
+      { "text": "Parantaa lihan makua", "correct": false },
+      { "text": "Pienentää jätteen määrää", "correct": false }
+    ],
+    "explanation": "Puhdas käsittely ehkäisee sekä lihan pilaantumista että tautien leviämistä ihmisiin. Kädet ja välineet puhdistetaan säännöllisesti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hygienia", "taudit"]
+  },
+  {
+    "id": "saalis-006",
+    "category": "saalis",
+    "difficulty": 3,
+    "question": "Mitä tulee tehdä, jos saalis vaikuttaa sairaalta?",
+    "answers": [
+      { "text": "Olla käyttämättä lihaa ja ilmoittaa asiasta viranomaiselle ohjeiden mukaan", "correct": true },
+      { "text": "Käyttää liha normaalisti", "correct": false },
+      { "text": "Myydä liha eteenpäin", "correct": false },
+      { "text": "Jättää eläin metsään ilman ilmoitusta", "correct": false }
+    ],
+    "explanation": "Sairas tai epäilyttävä saalis jätetään käyttämättä ja ohjeistetaan viranomaista. Näin estetään tautien leviäminen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["taudit", "viranomaiset"]
+  },
+  {
+    "id": "saalis-007",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa riistalihan 'riiputtaminen'?",
+    "answers": [
+      { "text": "Lihan kypsyttäminen ja mureuttaminen hallitussa jäähdytyksessä ripustettuna", "correct": true },
+      { "text": "Lihan kuivaaminen auringossa", "correct": false },
+      { "text": "Lihan jäädyttäminen", "correct": false },
+      { "text": "Lihan savustaminen", "correct": false }
+    ],
+    "explanation": "Riiputtaminen tarkoittaa lihan kypsyttämistä hallitussa kylmässä, jolloin liha mureutuu. Lämpötila ja aika on hallittava hygieniavaatimusten mukaisesti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riiputtaminen", "liha"]
+  },
+  {
+    "id": "saalis-008",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Miten lintusaalis käsitellään oikein?",
+    "answers": [
+      { "text": "Kynitään ja suolistetaan mahdollisimman pian, jäähdytetään nopeasti", "correct": true },
+      { "text": "Jätetään kokonaiseksi ja käsitellään seuraavana päivänä", "correct": false },
+      { "text": "Kynitään vasta viikon kuluttua", "correct": false },
+      { "text": "Säilytetään lämpimässä autossa", "correct": false }
+    ],
+    "explanation": "Lintusaalis kynitään ja suolistetaan pian, jotta liha pysyy hyvänä. Nopea jäähdytys on keskeistä myös lintujen kohdalla.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["lintu", "käsittely"]
+  },
+  {
+    "id": "saalis-009",
+    "category": "saalis",
+    "difficulty": 1,
+    "question": "Mikä on saaliin käsittelyn tärkein tavoite?",
+    "answers": [
+      { "text": "Turvata lihan laatu, turvallisuus ja eettinen hyödyntäminen", "correct": true },
+      { "text": "Nopeuttaa metsästystä", "correct": false },
+      { "text": "Kasvattaa saalismäärää", "correct": false },
+      { "text": "Vähentää kuluja", "correct": false }
+    ],
+    "explanation": "Saaliin käsittelyn tavoite on hyvä ja turvallinen liha sekä riistan arvostava hyödyntäminen ilman haaskausta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saaliin käsittely", "laatu"]
+  },
+  {
+    "id": "saalis-010",
+    "category": "saalis",
+    "difficulty": 3,
+    "question": "Mitä tulee ottaa huomioon elintarvikkeeksi käytettävän riistalihan osalta?",
+    "answers": [
+      { "text": "Lihan jäljitettävyys ja hygieniavaatimukset, ja tarvittaessa eläintautiviranomaisen ohjeet", "correct": true },
+      { "text": "Riistalihaa ei saa koskaan käyttää elintarvikkeena", "correct": false },
+      { "text": "Riistalihaa saa myydä vapaasti ilman ehtoja", "correct": false },
+      { "text": "Lihan käsittelyä ei valvota", "correct": false }
+    ],
+    "explanation": "Elintarvikkeeksi käytettävälle riistalihalle on hygieniavaatimukset ja jäljitettävyys. Eläintautien yhteydessä noudatetaan viranomaisohjeita.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["elintarvike", "jäljitettävyys"]
+  }
+]

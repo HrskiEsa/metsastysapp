@@ -1,0 +1,54 @@
+{
+  "$comment": "Kaikki kokeen rakennetta koskevat luvut ovat konfiguroitavia (ohje kohta 11). Viralliset vaatimukset voivat muuttua, joten älä kovakoodaa näitä käyttöliittymään.",
+  "disclaimer": "Tämä on harjoituskoe. Se EI ole virallinen metsästäjätutkinto eikä anna tutkintosuoritusta.",
+  "officialExam": {
+    "source": "Suomen riistakeskus, riista.fi (luettu 10/2026)",
+    "totalQuestions": 60,
+    "speciesQuestions": 15,
+    "theoryQuestions": 45,
+    "speciesTimeSeconds": 900,
+    "totalTimeSeconds": 5400,
+    "maxWrongAnswers": 8,
+    "minCorrectAnswers": 52,
+    "feeEuro": 20,
+    "languages": ["fi", "sv", "smn", "en"],
+    "note": "Suoritus hyväksytään, mikäli vääriä vastauksia on enintään 8. Riistanhoitomaksun maksamatta jättäminen viitenä peräkkäisenä vuonna vanhentaa tutkinnon."
+  },
+  "full": {
+    "id": "full",
+    "label": "Täysi koe",
+    "description": "Virallisen tutkinnon rakenne: 15 lajintuntemustehtävää aluksi + 45 teoriakysymystä. Läpi: enintään 8 väärää.",
+    "theoryCount": 45,
+    "speciesCount": 15,
+    "totalQuestions": 60,
+    "speciesTimeSeconds": 900,
+    "totalTimeSeconds": 5400,
+    "passPercent": 87
+  },
+  "quick": {
+    "id": "quick",
+    "label": "Pikakoe",
+    "description": "Nopea tarkistus: 15 kysymystä samaan tapaan rakennettuna. Läpi: enintään 2 väärää.",
+    "theoryCount": 11,
+    "speciesCount": 4,
+    "totalQuestions": 15,
+    "speciesTimeSeconds": 300,
+    "totalTimeSeconds": 1200,
+    "passPercent": 87
+  },
+  "distribution": {
+    "$comment": "Teoriakysymysten jakauma aihealueittain täydessä kokeessa. Summan on oltava = full.theoryCount.",
+    "lainsaadanto": 8,
+    "riistaekologia": 7,
+    "etiikka": 6,
+    "aseet": 7,
+    "turvallisuus": 7,
+    "pyyntimenetelmat": 6,
+    "saalis": 4
+  },
+  "speciesDistribution": {
+    "$comment": "Montako lajintunnistustehtävää kustakin lajiryhmästä. Summan on oltava = full.speciesCount.",
+    "lintu": 9,
+    "nisakas": 6
+  }
+}

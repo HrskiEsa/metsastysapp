@@ -1,0 +1,254 @@
+[
+  {
+    "id": "lainsaadanto-013",
+    "category": "lainsaadanto",
+    "difficulty": 1,
+    "question": "Milloin metsästäjätutkinto hyväksytään Riistakeskuksen säännön mukaan?",
+    "answers": [
+      { "text": "Kun vääriä vastauksia on enintään 8 (eli vähintään 52/60 oikein)", "correct": true },
+      { "text": "Kun vähintään puolet vastauksista on oikein", "correct": false },
+      { "text": "Kun lajintuntemusosiossa ei tee yhtään virhettä", "correct": false },
+      { "text": "Kun vähintään 90 % vastauksista on oikein", "correct": false }
+    ],
+    "explanation": "Suoritus hyväksytään, mikäli vääriä vastauksia on kahdeksan tai vähemmän. Hyväksytyn kokeen tuloksen voi nähdä heti kokeen päätyttyä.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["tutkinto", "hyväksymisraja"]
+  },
+  {
+    "id": "lainsaadanto-014",
+    "category": "lainsaadanto",
+    "difficulty": 1,
+    "question": "Millainen on virallisen metsästäjätutkinnon rakenne?",
+    "answers": [
+      { "text": "60 kysymystä: 15 lajintuntemustehtävää aluksi ja 45 sanallista monivalintatehtävää", "correct": true },
+      { "text": "40 kysymystä, joista puolet suullisia", "correct": false },
+      { "text": "50 kysymystä ilman lajintuntemusosaa", "correct": false },
+      { "text": "70 kysymystä, joista lajiosa lopuksi", "correct": false }
+    ],
+    "explanation": "Kokeessa on 60 kysymystä: 15 lajintuntemustehtävää tehdään ensin (enintään 15 min) ja sen jälkeen 45 sanallista monivalintatehtävää. Koko kokeeseen on aikaa enintään 1,5 tuntia.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["tutkinto", "rakenne"]
+  },
+  {
+    "id": "lainsaadanto-015",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Paljonko metsästäjätutkinnosta perittävä maksu on koekerralta?",
+    "answers": [
+      { "text": "20 euroa", "correct": true },
+      { "text": "50 euroa", "correct": false },
+      { "text": "Maksua ei peritä", "correct": false },
+      { "text": "100 euroa", "correct": false }
+    ],
+    "explanation": "Metsästäjätutkinnosta perittävä maksu on 20 euroa koekerralta. Tutkintoja järjestävät riistanhoitoyhdistykset.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["tutkinto", "maksu"]
+  },
+  {
+    "id": "lainsaadanto-016",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Milloin suoritettu metsästäjätutkinto vanhenee?",
+    "answers": [
+      { "text": "Jos riistanhoitomaksua ei makseta viitenä vuotena peräkkäin", "correct": true },
+      { "text": "Tutkinto vanhenee viidessä vuodessa aina", "correct": false },
+      { "text": "Tutkinto on voimassa elinikäisenä eikä vanhene koskaan", "correct": false },
+      { "text": "Tutkinto vanhenee, jos metsästyskorttia ei uusi kahdessa vuodessa", "correct": false }
+    ],
+    "explanation": "Riistanhoitomaksu maksetaan jokaiselta metsästysvuodelta erikseen. Jos maksua ei suoriteta viitenä vuotena peräkkäin, tutkinto vanhenee ja se on suoritettava uudelleen.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistanhoitomaksu", "tutkinto"]
+  },
+  {
+    "id": "lainsaadanto-017",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Millä kielillä metsästäjätutkinnon voi suorittaa?",
+    "answers": [
+      { "text": "Suomeksi, ruotsiksi, saameksi tai englanniksi", "correct": true },
+      { "text": "Vain suomeksi tai ruotsiksi", "correct": false },
+      { "text": "Vain suomeksi", "correct": false },
+      { "text": "Millä tahansa EU-kielellä", "correct": false }
+    ],
+    "explanation": "Kysymyksiin voi vastata suomeksi, ruotsiksi, saameksi tai englanniksi. Suorituskieli valitaan ilmoittauduttaessa tutkintotilaisuuteen.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["tutkinto", "kielet"]
+  },
+  {
+    "id": "lainsaadanto-018",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Mitä vesilintujen hämärämetsästyksestä säädetään?",
+    "answers": [
+      { "text": "Ampumisen saa aloittaa tuntia ennen auringonnousua ja lopettaa tuntia auringonlaskun jälkeen", "correct": true },
+      { "text": "Ampuminen on sallittua vain kirkkaassa päivänvalossa", "correct": false },
+      { "text": "Ampuminen on sallittua koko vuorokauden", "correct": false },
+      { "text": "Ampuminen saa alkaa kaksi tuntia ennen auringonnousua", "correct": false }
+    ],
+    "explanation": "Vesilintujen hämärämetsästys: ampumisen saa aloittaa aikaisintaan tuntia ennen auringonnousua ja se on lopetettava viimeistään tuntia auringonlaskun jälkeen. Ajankohdat voi tarkistaa Oma riista -sovelluksesta tai Ilmatieteen laitoksen sivuilta.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "hämärämetsästys"]
+  },
+  {
+    "id": "lainsaadanto-019",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Milloin fasaanin metsästysaika on nykyisten aikataulujen mukaan?",
+    "answers": [
+      { "text": "1.9.–28.2.", "correct": true },
+      { "text": "20.8.–31.12.", "correct": false },
+      { "text": "10.9.–31.1.", "correct": false },
+      { "text": "Ympäri vuoden", "correct": false }
+    ],
+    "explanation": "Fasaanin metsästysaika koko maassa on 1.9.–28.2. Aikataulut kannattaa aina tarkistaa Riistakeskuksen ajantasaisesta metsästysajat-palvelusta.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["fasaani", "metsästysajat"]
+  },
+  {
+    "id": "lainsaadanto-020",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Mitä haahkan metsästyksestä säädetään nykyisin?",
+    "answers": [
+      { "text": "Vain uroshaahkaa saa metsästää lyhyenä kevätkautena määritellyllä rannikkoalueella", "correct": true },
+      { "text": "Haahkaa saa metsästää vapaasti koko maassa koko syksyn", "correct": false },
+      { "text": "Vain naarashaahkoja saa ampua", "correct": false },
+      { "text": "Haahka on kokonaan rauhoitettu eikä pyyntiä ole", "correct": false }
+    ],
+    "explanation": "Taantuneen haahkan metsästys on rajattu: metsästysaika on lyhyt (kesäkuun alku), koskee vain uroshaahkaa ja vain maa- ja metsätalousministeriön asetuksen karttaan merkityllä rannikkoalueella.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haahka", "metsästysajat"]
+  },
+  {
+    "id": "lainsaadanto-021",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Missä allia saa metsästää ja mitä erityisvaatimuksia pyyntiin liittyy?",
+    "answers": [
+      { "text": "Vain merialueilla; metsästäjäkohtainen kiintiö on 5 allia vuorokaudessa ja saalis on ilmoitettava", "correct": true },
+      { "text": "Sisävesillä ja merialueilla ilman rajoituksia", "correct": false },
+      { "text": "Vain Lapin maakunnassa", "correct": false },
+      { "text": "Allin metsästys on kokonaan kielletty", "correct": false }
+    ],
+    "explanation": "Alli on taantunut laji: metsästys sallitaan vain merialueilla, metsästäjäkohtainen kiintiö on 5 allia vuorokaudessa ja saalis on ilmoitettava lakisääteisenä saalisilmoituksena.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["alli", "kiintiö", "saalisilmoitus"]
+  },
+  {
+    "id": "lainsaadanto-022",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Millä perusteella harmaahylkeen eli hallin metsästys tapahtuu?",
+    "answers": [
+      { "text": "Riistakeskuksen myöntämällä alueellisella pyyntiluvalla kiintiöiden puitteissa", "correct": true },
+      { "text": "Vapaaasti koko maassa metsästysaikojen aikana", "correct": false },
+      { "text": "Halli on kokonaan rauhoitettu", "correct": false },
+      { "text": "Vain puolustusvoimien toimeksiannosta", "correct": false }
+    ],
+    "explanation": "Hallin metsästys tapahtuu metsästyslain 10 §:n nojalla annettujen alueellisten kiintiöiden eli pyyntilupien puitteissa. Kiiniöt määritellään kannan mukaan ja ne julkaistaan vuosittain.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["halli", "hylkeet", "pyyntilupa"]
+  },
+  {
+    "id": "lainsaadanto-023",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Missä korpin metsästys on sallittua?",
+    "answers": [
+      { "text": "Vain poronhoitoalueella; muualla Suomessa korppi on rauhoitettu", "correct": true },
+      { "text": "Koko maassa ympäri vuoden", "correct": false },
+      { "text": "Vain valtion mailla", "correct": false },
+      { "text": "Korppia ei saa metsästää missään", "correct": false }
+    ],
+    "explanation": "Korppi kuuluu rauhoittamattomiin lintuihin vain poronhoitoalueella. Muualla Suomessa se on rauhoitettu.",
+    "source": { "title": "Suomen riistakeskus – Riistalajit (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["korppi", "rauhoitus"]
+  },
+  {
+    "id": "lainsaadanto-024",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa hirven kiimarauhoitus?",
+    "answers": [
+      { "text": "Aika syyskauden alkupuolella, jolloin hirvenmetsästys keskeytyy kiima-ajan häiriöiden välttämiseksi", "correct": true },
+      { "text": "Aika, jolloin vain naarashirviä saa ampua", "correct": false },
+      { "text": "Talven rauhoitusaika helmikuussa", "correct": false },
+      { "text": "Koiran käytön yleinen kieltoaika koko maassa", "correct": false }
+    ],
+    "explanation": "Pohjois-Suomessa hirvenmetsästys keskeytyy syyskauden alkupuolella kiimarauhoitukseen (noin 21.9.–2.10.), jotta kiima ei häiriinny. Kausi jatkuu kiimarauhoituksen jälkeen.",
+    "source": { "title": "Suomen riistakeskus – Metsästys- ja pyyntiajat (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvi", "kiimarauhoitus"]
+  },
+  {
+    "id": "lainsaadanto-025",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Mihin saalisilmoitukset ja riistahavainnot ilmoitetaan?",
+    "answers": [
+      { "text": "Oma riista -palveluun", "correct": true },
+      { "text": "Paikallispoliisille", "correct": false },
+      { "text": "Metsähallitukselle kirjeitse", "correct": false },
+      { "text": "Ilmoitusvelvollisuutta ei ole", "correct": false }
+    ],
+    "explanation": "Saalisilmoitukset (mm. monet vesilinnut, hilleri) ja riistahavainnot tehdään Oma riista -palvelussa verkossa tai maastosovelluksella. Tietoja käytetään kannanhoitoon ja tutkimukseen.",
+    "source": { "title": "Suomen riistakeskus – Saalisilmoitukset (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["oma riista", "saalisilmoitus"]
+  },
+  {
+    "id": "lainsaadanto-026",
+    "category": "lainsaadanto",
+    "difficulty": 1,
+    "question": "Mitä riistanhoitomaksu sisältää?",
+    "answers": [
+      { "text": "Metsästäjävakuutuksen kyseiselle metsästysvuodelle", "correct": true },
+      { "text": "Ampuma-aseluvan", "correct": false },
+      { "text": "Metsästyskortin tilalle pysyvän lupakortin", "correct": false },
+      { "text": "Vain riistanhoitotyön rahoituksen, ei vakuutusta", "correct": false }
+    ],
+    "explanation": "Riistanhoitomaksu maksetaan joka metsästysvuodelta ja se sisältää metsästäjävakuutuksen kyseiselle metsästysvuodelle. Maksun voi suorittaa vasta tutkinnon suorittamisen jälkeen.",
+    "source": { "title": "Suomen riistakeskus – Metsästäjätutkinto (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistanhoitomaksu", "vakuutus"]
+  }
+]

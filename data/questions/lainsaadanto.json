@@ -1,0 +1,218 @@
+[
+  {
+    "id": "lainsaadanto-001",
+    "category": "lainsaadanto",
+    "difficulty": 1,
+    "question": "Mikä laki muodostaa metsästyksen keskeisen lainsäädännöllisen perustan Suomessa?",
+    "answers": [
+      { "text": "Metsästyslaki", "correct": true },
+      { "text": "Luonnonsuojelulaki", "correct": false },
+      { "text": "Eläinsuojelulaki", "correct": false },
+      { "text": "Maastoliikennelaki", "correct": false }
+    ],
+    "explanation": "Metsästyslaki säätää muun muassa metsästysoikeudesta, metsästysajoista, rauhoituksesta, metsästyskortista ja pyyntivälineistä. Asetuksella tarkennetaan esimerkiksi aikoja ja sallittuja menetelmiä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästyslaki", "perusteet"]
+  },
+  {
+    "id": "lainsaadanto-002",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Kenelle metsästysoikeus Suomessa pääsääntöisesti kuuluu?",
+    "answers": [
+      { "text": "Kiinteistön omistajalle, jonka alueella metsästys tapahtuu", "correct": true },
+      { "text": "Kunnalle, jossa metsästys tapahtuu", "correct": false },
+      { "text": "Valtiolle kaikkialla Suomessa", "correct": false },
+      { "text": "Metsästysseuralle, joka on rekisteröity alueelle", "correct": false }
+    ],
+    "explanation": "Metsästysoikeus kuuluu lähtökohtaisesti maanomistajalle. Metsästäjä tarvitsee siis joko itse omistaa maan tai saada oikeuden maanomistajalta (esim. metsästysseuran kautta) tai valtion mailla Riistakeskuksen luvan.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästysoikeus", "luvat"]
+  },
+  {
+    "id": "lainsaadanto-003",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Mikä on metsästyskortin edellytys täysi-ikäiselle henkilölle?",
+    "answers": [
+      { "text": "Hyväksytysti suoritettu metsästäjätutkinto ja maksettu riistanhoitomaksu", "correct": true },
+      { "text": "Pelkkä riistanhoitomaksun maksaminen", "correct": false },
+      { "text": "Metsästysseuran jäsenyys", "correct": false },
+      { "text": "Ampuma-aselupa ja metsästysseuran jäsenyys", "correct": false }
+    ],
+    "explanation": "Metsästyskortti edellyttää suoritettua metsästäjätutkintoa sekä vuosittaista riistanhoitomaksua. Metsästyskortti on voitava esittää pyydettäessä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästyskortti", "riistanhoitomaksu"]
+  },
+  {
+    "id": "lainsaadanto-004",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Kuinka vanha henkilön on vähintään oltava voidakseen suorittaa metsästäjätutkinnon?",
+    "answers": [
+      { "text": "15 vuotta", "correct": true },
+      { "text": "16 vuotta", "correct": false },
+      { "text": "18 vuotta", "correct": false },
+      { "text": "12 vuotta", "correct": false }
+    ],
+    "explanation": "Metsästäjätutkinto voidaan suorittaa 15 vuotta täytettyään. Alle 18-vuotiaalta edellytetään huoltajan suostumus metsästyskortin saamiseksi.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästäjätutkinto", "ikäraja"]
+  },
+  {
+    "id": "lainsaadanto-005",
+    "category": "lainsaadanto",
+    "difficulty": 1,
+    "question": "Mitä rauhoitus tarkoittaa metsästyslaissa?",
+    "answers": [
+      { "text": "Aikaa, jolloin riistaeläintä ei saa metsästää eikä ottaa pyydystysvälineillä", "correct": true },
+      { "text": "Sitä, että riistaeläin on siirrettävä toiselle alueelle", "correct": false },
+      { "text": "Sitä, että metsästys vaatii aina viranomaisen luvan", "correct": false },
+      { "text": "Sitä, että metsästysalue on suljettu muilta kuin maanomistajalta", "correct": false }
+    ],
+    "explanation": "Rauhoitusajalla tarkoitetaan ajanjaksoa, jolloin lajia saa metsästää. Rauhoitusajan ulkopuolella laji on rauhoitettu eli metsästys on kiellettyä. Rauhoitusajat ovat lajikohtaisia ja niistä säädetään asetuksella.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["rauhoitus", "metsästysajat"]
+  },
+  {
+    "id": "lainsaadanto-006",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Mitä tarkoittaa metsästyslain mukainen 'rauhoittamaton' eläin?",
+    "answers": [
+      { "text": "Eläintä, jota saa metsästää metsästysaikojen puitteissa ilman erityislupaa", "correct": true },
+      { "text": "Eläintä, jota ei saa metsästää lainkaan", "correct": false },
+      { "text": "Eläintä, jonka metsästykseen tarvitaan aina poikkeuslupa", "correct": false },
+      { "text": "Kotieläintä", "correct": false }
+    ],
+    "explanation": "Rauhoittamaton eläin voidaan metsästää kyseisen lajin metsästysaikoja ja menetelmiä koskevia säännöksiä noudattaen. Rauhoitettu laji sen sijaan edellyttää poikkeuslupaa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["rauhoitus", "luvat"]
+  },
+  {
+    "id": "lainsaadanto-007",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Saako vieraan valtion henkilö metsästää Suomessa?",
+    "answers": [
+      { "text": "Saa, jos hänellä on metsästysoikeus ja Suomessa kelpaava metsästyskortti tai vastaava muodollisuus", "correct": true },
+      { "text": "Ei koskaan", "correct": false },
+      { "text": "Saa vain Suomen kansalainen", "correct": false },
+      { "text": "Saa vain valtion mailla", "correct": false }
+    ],
+    "explanation": "Ulkomaalainen tarvitsee metsästysoikeuden lisäksi metsästyskortin tai sitä vastaavan todistuksen. Käytännössä ulkomaan kansalaisen on osoitettava riittävä osaaminen ja voimassa oleva lupa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästyskortti", "ulkomaalaiset"]
+  },
+  {
+    "id": "lainsaadanto-008",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Kuka valvoo metsästyslain noudattamista käytännössä?",
+    "answers": [
+      { "text": "Poliisi sekä riistanhoitoviranomaiset ja erätarkastajat", "correct": true },
+      { "text": "Ainoastaan kunnaneläinlääkäri", "correct": false },
+      { "text": "Metsähallitus yksinään", "correct": false },
+      { "text": "Metsästysseuran puheenjohtaja", "correct": false }
+    ],
+    "explanation": "Valvontaa suorittavat poliisi sekä riistahallinnon viranomaiset ja muut tehtävään valtuutetut. Valvontaan kuuluu esimerkiksi metsästyskorttien ja lupien tarkistaminen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["valvonta", "viranomaiset"]
+  },
+  {
+    "id": "lainsaadanto-009",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Mitä metsästyslain mukaan tarkoittaa rauhoitusajan noudattaminen vesilintujen kohdalla?",
+    "answers": [
+      { "text": "Vesilintuja saa metsästää vain kullekin lajille tai lajiryhmälle määrättynä aikana, joka alkaa syksyllä", "correct": true },
+      { "text": "Vesilintuja saa metsästää ympäri vuoden", "correct": false },
+      { "text": "Vesilintuja saa metsästää vain keväällä", "correct": false },
+      { "text": "Vesilintujen metsästys on kokonaan kielletty", "correct": false }
+    ],
+    "explanation": "Vesilintujen yleinen metsästysaika alkaa elokuun 20. päivänä klo 12 ja jatkuu vuoden loppuun, ellei asetuksella toisin säädetä. Rauhoitusaikojen tarkistaminen ajantasaisesta asetuksesta on aina metsästäjän vastuulla.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästysajat", "vesilinnut"]
+  },
+  {
+    "id": "lainsaadanto-010",
+    "category": "lainsaadanto",
+    "difficulty": 2,
+    "question": "Mitä metsästäjän on tehtävä, jos hän havaitsee haavoittuneen eläimen metsästyksen yhteydessä?",
+    "answers": [
+      { "text": "Pyrittävä lopettamaan tai tarvittaessa jäljitettävä eläin viipymättä", "correct": true },
+      { "text": "Jätettävä eläin paikoilleen ja ilmoitettava asiasta myöhemmin", "correct": false },
+      { "text": "Odottava, että eläin kuolee itsestään", "correct": false },
+      { "text": "Odotettava seuraavaa päivää", "correct": false }
+    ],
+    "explanation": "Metsästäjä on velvollinen viipymättä lopettamaan haavoittuneen riistaeläimen tai jäljittämään sen. Eläimen tarpeeton kärsimys on estettävä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haavoittunut", "jäljitys"]
+  },
+  {
+    "id": "lainsaadanto-011",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Voiko metsästyslain säännöksistä poiketa, jos riistaeläin aiheuttaa vakavaa vahinkoa?",
+    "answers": [
+      { "text": "Voi vain poikkeusluvalla viranomaisen myöntämänä", "correct": true },
+      { "text": "Voi aina ilman lupaa", "correct": false },
+      { "text": "Voi, jos metsästäjä on kokenut", "correct": false },
+      { "text": "Ei koskaan missään tilanteessa", "correct": false }
+    ],
+    "explanation": "Vahinkojen torjunta ja poikkeukset edellyttävät viranomaisen myöntämää poikkeus- tai vahinkolupaa. Omavaltainen poikkeaminen säännöksistä ei ole sallittua.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["poikkeuslupa", "vahingontorjunta"]
+  },
+  {
+    "id": "lainsaadanto-012",
+    "category": "lainsaadanto",
+    "difficulty": 3,
+    "question": "Mitä metsästäjä tekee havaitsemansa rikkomuksen osalta?",
+    "answers": [
+      { "text": "Ilmoittaa siitä viranomaiselle", "correct": true },
+      { "text": "Puuttuu asiaan vain, jos rikkoja on oma seuralainen", "correct": false },
+      { "text": "Jättää ilmoittamatta, koska se ei kuulu hänelle", "correct": false },
+      { "text": "Ratkaisee asian itse sakottamalla", "correct": false }
+    ],
+    "explanation": "Metsästäjä on vastuullinen toimija ja ilmoittaa havaitsemistaan rikkomuksista viranomaiselle. Rikkomuksista seuraa rangaistusvastuu.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["rikkomukset", "vastuu"]
+  }
+]

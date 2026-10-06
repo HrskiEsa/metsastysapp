@@ -1,0 +1,3514 @@
+[
+  {
+    "id": "metso",
+    "nameFi": "Metso",
+    "nameSv": "Tjäder",
+    "nameEn": "Western Capercaillie",
+    "scientific": "Tetrao urogallus",
+    "type": "lintu",
+    "group": "Metsäkanalinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Suurin kanalintumme. Koiras (ukko) on mustanruskea, rinnassa vihertävä kiilto, pyrstö viuhkamainen ja höyhenpuku tumma. Naaras (kana) on ruskeankirjava ja muistuttaa teertä, mutta on selvästi suurempi ja pyrstön kärki on pyöreä, ei haarautunut. Elää vanhoissa havumetsissä.",
+    "identificationTips": "Koko ja pyrstön muoto: ukolla viuhkamainen pyrstö, kanalla pyöreäpäinen pyrstö. Kanan erottaa teerestä koolla ja pään kuvioinnilla.",
+    "images": [
+      {
+        "image_url": "/images/species/metso.jpg",
+        "thumbnail_url": "/images/species/metso.jpg",
+        "photographer": "Simon Bailey",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus,_Glenfeshie,_Scotland_1.jpg",
+        "attribution": "Simon Bailey / CC BY 2.0",
+        "file_name": "Tetrao_urogallus,_Glenfeshie,_Scotland_1.jpg"
+      },
+      {
+        "image_url": "/images/species/metso-1.jpg",
+        "thumbnail_url": "/images/species/metso-1.jpg",
+        "file_name": "Tetrao urogallus (mating display) (26738644457).jpg",
+        "photographer": "Tero Laakso from Hyvinkää, Finland",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tetrao_urogallus_(mating_display)_(26738644457).jpg",
+        "attribution": "Tero Laakso from Hyvinkää, Finland / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/metso-2.jpg",
+        "thumbnail_url": "/images/species/metso-2.jpg",
+        "file_name": "Grand Tétra MHNT.jpg",
+        "photographer": "Didier Descouens",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grand_T%C3%A9tra_MHNT.jpg",
+        "attribution": "Didier Descouens / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "teeri",
+    "nameFi": "Teeri",
+    "nameSv": "Orre",
+    "nameEn": "Black Grouse",
+    "scientific": "Lyrurus tetrix",
+    "type": "lintu",
+    "group": "Metsäkanalinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Koiras on musta, siivissä valkoinen peililaikku ja pyrstö lyyramainen ulospäin kiertyvin sulkapäin. Naaras on ruskeankirjava, hieman metsoa pienempi, ja pyrstön kärki on selvästi haarautunut (matala lovi), kun metsokanalla se on pyöreä.",
+    "identificationTips": "Koiras: musta höyhenpuku ja lyyrapyrstö. Naaras: pienempi kuin metso, pyrstön kärki haarautuu.",
+    "images": [
+      {
+        "image_url": "/images/species/teeri.jpg",
+        "thumbnail_url": "/images/species/teeri.jpg",
+        "photographer": "Aconcagua ( talk )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Black_Grouse_Nationalpark_Bayerischer_Wald.jpg",
+        "attribution": "Aconcagua ( talk ) / CC BY-SA 3.0",
+        "file_name": "Black_Grouse_Nationalpark_Bayerischer_Wald.jpg"
+      },
+      {
+        "image_url": "/images/species/teeri-2.jpg",
+        "thumbnail_url": "/images/species/teeri-2.jpg",
+        "file_name": "016 Wild Black Grouse Riederalp Switzerland Photo by Giles Laurent.jpg",
+        "photographer": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:016_Wild_Black_Grouse_Riederalp_Switzerland_Photo_by_Giles_Laurent.jpg",
+        "attribution": "Giles Laurent / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/teeri-1.jpg",
+        "thumbnail_url": "/images/species/teeri-1.jpg",
+        "file_name": "Teeri.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Teeri.jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "pyy",
+    "nameFi": "Pyy",
+    "nameSv": "Järpe",
+    "nameEn": "Hazel Grouse",
+    "scientific": "Tetrastes bonasia",
+    "type": "lintu",
+    "group": "Metsäkanalinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Pieni, pulleahko kanalintu. Höyhenpuku on harmaanruskean kirjava, ja pyrstön kärjessä on leveä tumma juova. Päässä on selvästi erottuva töyhtö. Käyttäytyy luottavaisesti ja lähtee usein lentoon vasta aivan läheltä.",
+    "identificationTips": "Pieni koko, pään töyhtö ja pyrstön kärjen tumma poikkijuova erottavat muista metsäkanalinnuista.",
+    "images": [
+      {
+        "image_url": "/images/species/pyy.jpg",
+        "thumbnail_url": "/images/species/pyy.jpg",
+        "photographer": "John Gould",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gelinotte.jpg",
+        "attribution": "John Gould / Public domain",
+        "file_name": "Gelinotte.jpg"
+      },
+      {
+        "image_url": "/images/species/pyy-1.jpg",
+        "thumbnail_url": "/images/species/pyy-1.jpg",
+        "file_name": "Tetrastes bonasia.jpg",
+        "photographer": "kallerna",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tetrastes_bonasia.jpg",
+        "attribution": "kallerna / Public domain"
+      },
+      {
+        "image_url": "/images/species/pyy-2.jpg",
+        "thumbnail_url": "/images/species/pyy-2.jpg",
+        "file_name": "Hazel Grouse imported from iNaturalist photo 116195913 on 11 June 2024.jpg",
+        "photographer": "(c) Ilkka Tuunainen, some rights reserved (CC BY-SA)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hazel_Grouse_imported_from_iNaturalist_photo_116195913_on_11_June_2024.jpg",
+        "attribution": "(c) Ilkka Tuunainen, some rights reserved (CC BY-SA) / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "riekko",
+    "nameFi": "Riekko",
+    "nameSv": "Dalripa",
+    "nameEn": "Willow Ptarmigan",
+    "scientific": "Lagopus lagopus",
+    "type": "lintu",
+    "group": "Metsäkanalinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Kesällä punaruskean ja mustan kirjava, talvella valkoinen. Nokka on lyhyt ja tanakka. Erottuu kiirunasta jonkin verran suurempana ja kookkaampana sekä höyhenpeitteisten varpaiden ja koon perusteella.",
+    "identificationTips": "Kesällä punertava sävy, talvella valkoinen höyhenpuku. Kiiruna on pienempi ja sen nokka on musta myös talvella.",
+    "images": [
+      {
+        "image_url": "/images/species/riekko.jpg",
+        "thumbnail_url": "/images/species/riekko.jpg",
+        "photographer": "Robbie Hannawacker",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_ptarmigan_(cc09ce00-060b-45a6-bb30-b857702266ce).jpg",
+        "attribution": "Robbie Hannawacker / Public domain",
+        "file_name": "A_ptarmigan_(cc09ce00-060b-45a6-bb30-b857702266ce).jpg"
+      },
+      {
+        "image_url": "/images/species/riekko-2.jpg",
+        "thumbnail_url": "/images/species/riekko-2.jpg",
+        "file_name": "Lagopus lagopus - adult (Denali, 2010).jpg",
+        "photographer": "Yathin S Krishnappa",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lagopus_lagopus_-_adult_(Denali,_2010).jpg",
+        "attribution": "Yathin S Krishnappa / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/riekko-1.jpg",
+        "thumbnail_url": "/images/species/riekko-1.jpg",
+        "file_name": "Denali National Park Ptarmigan.jpg",
+        "photographer": "Photo (c)2005 Derek Ramsey ( Ram-Man )",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Denali_National_Park_Ptarmigan.jpg",
+        "attribution": "Photo (c)2005 Derek Ramsey ( Ram-Man ) / CC BY-SA 2.5"
+      }
+    ]
+  },
+  {
+    "id": "kiiruna",
+    "nameFi": "Kiiruna",
+    "nameSv": "Fjällripa",
+    "nameEn": "Rock Ptarmigan",
+    "scientific": "Lagopus muta",
+    "type": "lintu",
+    "group": "Metsäkanalinnut",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Riekkoa hieman pienempi ja tanakampi tunturikanalintu. Kesällä harmaankirjava, talvella valkoinen. Koiraalla on silmän yläpuolella punainen heltta, joka erottuu kesäpuvussa. Musta nokka säilyy myös talvella.",
+    "identificationTips": "Vertaile riekkoon: kiiruna on pienempi, nokka on musta ympäri vuoden ja kesäpuvussa on harmaampi sävy.",
+    "images": [
+      {
+        "image_url": "/images/species/kiiruna.jpg",
+        "thumbnail_url": "/images/species/kiiruna.jpg",
+        "photographer": "Chme82",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lagopus_muta_(Bernese_Oberland).jpg",
+        "attribution": "Chme82 / CC BY-SA 4.0",
+        "file_name": "Lagopus_muta_(Bernese_Oberland).jpg"
+      },
+      {
+        "image_url": "/images/species/kiiruna-1.jpg",
+        "thumbnail_url": "/images/species/kiiruna-1.jpg",
+        "file_name": "Rock Ptarmigan (Lagopus Muta).jpg",
+        "photographer": "Jan Frode Haugseth",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rock_Ptarmigan_(Lagopus_Muta).jpg",
+        "attribution": "Jan Frode Haugseth / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/kiiruna-2.jpg",
+        "thumbnail_url": "/images/species/kiiruna-2.jpg",
+        "file_name": "Lagopus muta japonica Mount Tsubakuro.jpg",
+        "photographer": "Daisuke Tashiro",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lagopus_muta_japonica_Mount_Tsubakuro.jpg",
+        "attribution": "Daisuke Tashiro / CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "fasaani",
+    "nameFi": "Fasaani",
+    "nameSv": "Fasan",
+    "nameEn": "Common Pheasant",
+    "scientific": "Phasianus colchicus",
+    "type": "lintu",
+    "group": "Peltolinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Koiras on erittäin värikäs: kuparinpunainen vartalo, vihreä pää, punainen heltta ja hyvin pitkä, vaakaraitainen pyrstö. Naaras on vaatimattoman ruskeankirjava ja pitkäpyrstöinen, helposti erotettavissa muista kanalinnuista pitkän pyrstön ansiosta.",
+    "identificationTips": "Koiras: kirkkaat värit ja pitkä pyrstö. Naaras: pitkä, suippeneva, raitainen pyrstö erottaa kanalinnuista.",
+    "images": [
+      {
+        "image_url": "/images/species/fasaani.jpg",
+        "thumbnail_url": "/images/species/fasaani.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phasianus_colchicus_2_tom_(Lukasz_Lukasik).jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0",
+        "file_name": "Phasianus_colchicus_2_tom_(Lukasz_Lukasik).jpg"
+      },
+      {
+        "image_url": "/images/species/fasaani-1.jpg",
+        "thumbnail_url": "/images/species/fasaani-1.jpg",
+        "file_name": "Phasianus colchicus karpowi male.jpg",
+        "photographer": "Kim MyoungSung",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phasianus_colchicus_karpowi_male.jpg",
+        "attribution": "Kim MyoungSung / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/fasaani-2.jpg",
+        "thumbnail_url": "/images/species/fasaani-2.jpg",
+        "file_name": "Fagiano 1.jpg",
+        "photographer": "Ferdinando sacchetti",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fagiano_1.jpg",
+        "attribution": "Ferdinando sacchetti / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "peltopyy",
+    "nameFi": "Peltopyy",
+    "nameSv": "Rapphöna",
+    "nameEn": "Grey Partridge",
+    "scientific": "Perdix perdix",
+    "type": "lintu",
+    "group": "Peltolinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tanakka, harmaanruskea peltolintu, jolla on oranssinruskea pää ja kaula. Koiras poikkeaa naaraasta mm. vatsan tumman hevosenkengän muotoisen kuvion perusteella. Liikkuu parvissa pelloilla ja pensaikoissa.",
+    "identificationTips": "Kanamainen olemus, oranssihtava pää ja peltoympäristö. Muistuttaa nuorta fasaanikanaa mutta on selvästi pienempi ja pyrstö on lyhyt.",
+    "images": [
+      {
+        "image_url": "/images/species/peltopyy.jpg",
+        "thumbnail_url": "/images/species/peltopyy.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_(Marek_Szczepanek).jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0",
+        "file_name": "Perdix_perdix_(Marek_Szczepanek).jpg"
+      },
+      {
+        "image_url": "/images/species/peltopyy-1.jpg",
+        "thumbnail_url": "/images/species/peltopyy-1.jpg",
+        "file_name": "Perdix perdix MHNT.ZOO.2010.11.5.10.jpg",
+        "photographer": "Roger Culos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Perdix_perdix_MHNT.ZOO.2010.11.5.10.jpg",
+        "attribution": "Roger Culos / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/peltopyy-2.jpg",
+        "thumbnail_url": "/images/species/peltopyy-2.jpg",
+        "file_name": "Grey Partridge Perdix perdix, Netherlands 1.jpg",
+        "photographer": "Bernard Stam",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grey_Partridge_Perdix_perdix,_Netherlands_1.jpg",
+        "attribution": "Bernard Stam / CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "sinisorsa",
+    "nameFi": "Sinisorsa",
+    "nameSv": "Gräsand",
+    "nameEn": "Mallard",
+    "scientific": "Anas platyrhynchos",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Yleisin sorsalintumme. Koiras: vihreä pää, valkoinen kaularengas, harmaa vartalo, ruskea rinta ja keltaiset jalat. Naaras on ruskeankirjava ja oranssinruskean nokan ansiosta erotettavissa muista naarassorsista. Sininen siipipeili näkyy lennossa.",
+    "identificationTips": "Koiras helppo. Naaraalla oranssi nokka ja sininen siipipeili.",
+    "images": [
+      {
+        "image_url": "/images/species/sinisorsa.jpg",
+        "thumbnail_url": "/images/species/sinisorsa.jpg",
+        "photographer": "Diliff",
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ducks_in_plymouth,_massachusetts.jpg",
+        "attribution": "Diliff / CC BY 2.5",
+        "file_name": "Ducks_in_plymouth,_massachusetts.jpg"
+      },
+      {
+        "image_url": "/images/species/sinisorsa-1.jpg",
+        "thumbnail_url": "/images/species/sinisorsa-1.jpg",
+        "file_name": "Anas platyrhynchos (Male) on the ground.jpg",
+        "photographer": "Commonists",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_(Male)_on_the_ground.jpg",
+        "attribution": "Commonists / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/sinisorsa-2.jpg",
+        "thumbnail_url": "/images/species/sinisorsa-2.jpg",
+        "file_name": "Anas platyrhynchos near City Lake, Ivano-Frankivsk.jpg",
+        "photographer": "Tetiana.iefimenko",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_near_City_Lake,_Ivano-Frankivsk.jpg",
+        "attribution": "Tetiana.iefimenko / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "tavi",
+    "nameFi": "Tavi",
+    "nameSv": "Kricka",
+    "nameEn": "Eurasian Teal",
+    "scientific": "Anas crecca",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Pienin eurooppalainen sorsamme, selvästi sinisorsaa pienempi. Koiraalla on punaruskea pää ja leveä vihreä silmänaamaraita. Lentää nopeasti ja kääntyilee usein parvina.",
+    "identificationTips": "Pieni koko ja koiraan vihreä silmänaamaraita. Nopea, kiemurteleva lentotapa.",
+    "images": [
+      {
+        "image_url": "/images/species/tavi.jpg",
+        "thumbnail_url": "/images/species/tavi.jpg",
+        "photographer": "Christophe Eyquem",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sarcelleh_1.jpg",
+        "attribution": "Christophe Eyquem / CC BY 3.0",
+        "file_name": "Sarcelleh_1.jpg"
+      },
+      {
+        "image_url": "/images/species/tavi-1.jpg",
+        "thumbnail_url": "/images/species/tavi-1.jpg",
+        "file_name": "Krickente.jpg",
+        "photographer": "FokusNatur",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Krickente.jpg",
+        "attribution": "FokusNatur / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/tavi-2.jpg",
+        "thumbnail_url": "/images/species/tavi-2.jpg",
+        "file_name": "Eurasian Teal Anas crecca, RSPB Titchwell, Norfolk (33675784246).jpg",
+        "photographer": "gailhampshire from Cradley, Malvern, U.K",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Teal_Anas_crecca,_RSPB_Titchwell,_Norfolk_(33675784246).jpg",
+        "attribution": "gailhampshire from Cradley, Malvern, U.K / CC BY 2.0"
+      }
+    ]
+  },
+  {
+    "id": "haapana",
+    "nameFi": "Haapana",
+    "nameSv": "Bläsand",
+    "nameEn": "Eurasian Wigeon",
+    "scientific": "Mareca penelope",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Keskikokoinen sorsa. Koiraalla punaruskea pää ja vaalea, lähes valkoinen otsa ja päälaki (ns. valkoinen läikkä). Vartalo harmaa, rinta punertava. Naaras on muiden naarassorsien kaltainen, tunnistetaan parhaiten seurasta ja koiraan viheltävästä äänestä.",
+    "identificationTips": "Koiraan valkoinen otsaläikkä ja punainen pää. Muista poikkeava, hieman pilliä muistuttava vihellys.",
+    "images": [
+      {
+        "image_url": "/images/species/haapana.jpg",
+        "thumbnail_url": "/images/species/haapana.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Haapanat.jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0",
+        "file_name": "Haapanat.jpg"
+      },
+      {
+        "image_url": "/images/species/haapana-1.jpg",
+        "thumbnail_url": "/images/species/haapana-1.jpg",
+        "file_name": "Eurasian Wigeon - male.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Wigeon_-_male.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5"
+      },
+      {
+        "image_url": "/images/species/haapana-2.jpg",
+        "thumbnail_url": "/images/species/haapana-2.jpg",
+        "file_name": "Mareca penelope female s2.jpg",
+        "photographer": "Alpsdake",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mareca_penelope_female_s2.jpg",
+        "attribution": "Alpsdake / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "jouhisorsa",
+    "nameFi": "Jouhisorsa",
+    "nameSv": "Stjärtand",
+    "nameEn": "Northern Pintail",
+    "scientific": "Anas acuta",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Hoikka, pitkäkaulainen sorsa. Koiraalla on erittäin pitkä, teräväkärkinen pyrstö ja valkoinen juova kaulan sivulla. Naaras on vaaleanruskea ja hoikka, kaula on pitkä ja nokka sinertävänharmaa.",
+    "identificationTips": "Hoikka rakenne ja koiraan pitkä neulamainen pyrstö.",
+    "images": [
+      {
+        "image_url": "/images/species/jouhisorsa.jpg",
+        "thumbnail_url": "/images/species/jouhisorsa.jpg",
+        "photographer": "David Menke",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_acuta_FWS.jpg",
+        "attribution": "David Menke / Public domain",
+        "file_name": "Anas_acuta_FWS.jpg"
+      },
+      {
+        "image_url": "/images/species/jouhisorsa-1.jpg",
+        "thumbnail_url": "/images/species/jouhisorsa-1.jpg",
+        "file_name": "Male northern pintail at Llano Seco.jpg",
+        "photographer": "Frank Schulenburg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Male_northern_pintail_at_Llano_Seco.jpg",
+        "attribution": "Frank Schulenburg / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/jouhisorsa-2.jpg",
+        "thumbnail_url": "/images/species/jouhisorsa-2.jpg",
+        "file_name": "Northern pintail at Taudaha Kathmandu.jpg",
+        "photographer": "Prasan Shrestha",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Northern_pintail_at_Taudaha_Kathmandu.jpg",
+        "attribution": "Prasan Shrestha / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "telkka",
+    "nameFi": "Telkkä",
+    "nameSv": "Knipa",
+    "nameEn": "Common Goldeneye",
+    "scientific": "Bucephala clangula",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Keskikokoinen, tanakka sukeltajasorsa. Koiraalla on mustavalkoinen höyhenpuku ja pyöreä valkoinen poskiläikkä sekä keltaiset silmät. Naaras on harmahtava, ruskeapäinen ja valkokurkuinen. Pesii puunkolossa.",
+    "identificationTips": "Koiraan pyöreä valkoinen poskiläikkä on varma tuntomerkki.",
+    "images": [
+      {
+        "image_url": "/images/species/telkka.jpg",
+        "thumbnail_url": "/images/species/telkka.jpg",
+        "photographer": "Maga-chan",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_ja_01.jpg",
+        "attribution": "Maga-chan / CC BY-SA 2.5",
+        "file_name": "Bucephala_clangula_ja_01.jpg"
+      },
+      {
+        "image_url": "/images/species/telkka-1.jpg",
+        "thumbnail_url": "/images/species/telkka-1.jpg",
+        "file_name": "Common Goldeneye (Bucephala clangula).jpg",
+        "photographer": "https://www.flickr.com/photos/sbern/",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Common_Goldeneye_(Bucephala_clangula).jpg",
+        "attribution": "https://www.flickr.com/photos/sbern/ / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/telkka-2.jpg",
+        "thumbnail_url": "/images/species/telkka-2.jpg",
+        "file_name": "Bucephala clangula female.jpg",
+        "photographer": "Francis C. Franklin",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bucephala_clangula_female.jpg",
+        "attribution": "Francis C. Franklin / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "tukkasotka",
+    "nameFi": "Tukkasotka",
+    "nameSv": "Vigg",
+    "nameEn": "Tufted Duck",
+    "scientific": "Aythya fuligula",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Sukeltajasorsa. Koiraalla on musta pää ja selkä, valkoiset kyljet ja niskaan laskeutuva töyhtö. Naaras on tummanruskea ja sen kyljissä voi olla vaaleaa. Kirkas keltainen silmä erottaa muista sotkista.",
+    "identificationTips": "Koiraan niskatöyhtö ja valkoiset kyljet. Erotus esim. harvinaisemmista sotkalajeista töyhdön ja siipijuovan perusteella.",
+    "images": [
+      {
+        "image_url": "/images/species/tukkasotka.jpg",
+        "thumbnail_url": "/images/species/tukkasotka.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tufted-Duck-male-female.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5",
+        "file_name": "Tufted-Duck-male-female.jpg"
+      },
+      {
+        "image_url": "/images/species/tukkasotka-1.jpg",
+        "thumbnail_url": "/images/species/tukkasotka-1.jpg",
+        "file_name": "Tufted Duck Aythya fuligula Male by Dr. Raju Kasambe DSCN9795 (17).jpg",
+        "photographer": "Dr. Raju Kasambe",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tufted_Duck_Aythya_fuligula_Male_by_Dr._Raju_Kasambe_DSCN9795_(17).jpg",
+        "attribution": "Dr. Raju Kasambe / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/tukkasotka-2.jpg",
+        "thumbnail_url": "/images/species/tukkasotka-2.jpg",
+        "file_name": "Tufted duck flaps its wings in Nagadaha lake, Nepal - (Drinking games).jpg",
+        "photographer": "Prasan Shrestha",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tufted_duck_flaps_its_wings_in_Nagadaha_lake,_Nepal_-_(Drinking_games).jpg",
+        "attribution": "Prasan Shrestha / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "merihanhi",
+    "nameFi": "Merihanhi",
+    "nameSv": "Grågås",
+    "nameEn": "Greylag Goose",
+    "scientific": "Anser anser",
+    "type": "lintu",
+    "group": "Hanhet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Suuri, harmaanruskea hanhi, jolla on paksu oranssi nokka ja vaaleanpunaiset jalat. Etusiiven yläpuoli on vaaleanharmaa. Esi-isä monille kesyhanhille.",
+    "identificationTips": "Oranssi, paksu nokka ja vaaleanpunaiset jalat. Erotus metsähanheen siiven värityksellä.",
+    "images": [
+      {
+        "image_url": "/images/species/merihanhi.jpg",
+        "thumbnail_url": "/images/species/merihanhi.jpg",
+        "photographer": "Jdforrester",
+        "license": "CC BY 1.0",
+        "license_url": "https://creativecommons.org/licenses/by/1.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Greylag_Goose_(Anser_anser).jpg",
+        "attribution": "Jdforrester / CC BY 1.0",
+        "file_name": "Greylag_Goose_(Anser_anser).jpg"
+      },
+      {
+        "image_url": "/images/species/merihanhi-1.jpg",
+        "thumbnail_url": "/images/species/merihanhi-1.jpg",
+        "file_name": "00 3688 Graugans (Anser anser).jpg",
+        "photographer": "W. Bulach",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:00_3688_Graugans_(Anser_anser).jpg",
+        "attribution": "W. Bulach / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/merihanhi-2.jpg",
+        "thumbnail_url": "/images/species/merihanhi-2.jpg",
+        "file_name": "Graugans Anser Anser.jpg",
+        "photographer": "H005 , denoised by Pro2",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Graugans_Anser_Anser.jpg",
+        "attribution": "H005 , denoised by Pro2 / Public domain"
+      }
+    ]
+  },
+  {
+    "id": "metsahanhi",
+    "nameFi": "Metsähanhi",
+    "nameSv": "Sädgås",
+    "nameEn": "Taiga Bean Goose",
+    "scientific": "Anser fabalis",
+    "type": "lintu",
+    "group": "Hanhet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tumma, suurikokoinen hanhi. Nokka on musta ja siinä on oranssi juova nokan keskiosassa. Jalat ovat oranssit. Esiintyy muuttoaikoina suurina parhaina peltoaukeilla.",
+    "identificationTips": "Mustanokan oranssi juova ja oranssit jalat erottavat merihanhesta.",
+    "images": [
+      {
+        "image_url": "/images/species/metsahanhi.jpg",
+        "thumbnail_url": "/images/species/metsahanhi.jpg",
+        "photographer": "Adrian Pingstone",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bean.goose.600pix.jpg",
+        "attribution": "Adrian Pingstone / Public domain",
+        "file_name": "Bean.goose.600pix.jpg"
+      },
+      {
+        "image_url": "/images/species/metsahanhi-1.jpg",
+        "thumbnail_url": "/images/species/metsahanhi-1.jpg",
+        "file_name": "Anser fabalis fabalis (Taiga Bean Goose), Naturschutzgebiet Schellbruch, Lübeck, Germany.jpg",
+        "photographer": "Hobbyfotowiki",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anser_fabalis_fabalis_(Taiga_Bean_Goose),_Naturschutzgebiet_Schellbruch,_L%C3%BCbeck,_Germany.jpg",
+        "attribution": "Hobbyfotowiki / CC0"
+      },
+      {
+        "image_url": "/images/species/metsahanhi-2.jpg",
+        "thumbnail_url": "/images/species/metsahanhi-2.jpg",
+        "file_name": "Anser fabalis MHNT.ZOO.2010.11.14.7.jpg",
+        "photographer": "Roger Culos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anser_fabalis_MHNT.ZOO.2010.11.14.7.jpg",
+        "attribution": "Roger Culos / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "kanadanhanhi",
+    "nameFi": "Kanadanhanhi",
+    "nameSv": "Kanadagås",
+    "nameEn": "Canada Goose",
+    "scientific": "Branta canadensis",
+    "type": "lintu",
+    "group": "Hanhet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin (vieraslaji)",
+    "description": "Suuri hanhi, jolla on musta pää ja kaula sekä selvästi erottuva valkoinen poskilaikku, joka jatkuu 'leukanauhana' kurkun alle. Vartalo on ruskea. Vieraslaji, jonka metsästys on sallittua rauhoitusaikojen puitteissa.",
+    "identificationTips": "Musta kaula ja valkoinen poskiläikkä – helppo tunnistaa.",
+    "images": [
+      {
+        "image_url": "/images/species/kanadanhanhi.jpg",
+        "thumbnail_url": "/images/species/kanadanhanhi.jpg",
+        "photographer": "Chuck Szmurlo",
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canada-Goose-Szmurlo.jpg",
+        "attribution": "Chuck Szmurlo / CC BY 2.5",
+        "file_name": "Canada-Goose-Szmurlo.jpg"
+      },
+      {
+        "image_url": "/images/species/kanadanhanhi-1.jpg",
+        "thumbnail_url": "/images/species/kanadanhanhi-1.jpg",
+        "file_name": "Canadagoose.jpg",
+        "photographer": "Karrackoo",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canadagoose.jpg",
+        "attribution": "Karrackoo / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/kanadanhanhi-2.jpg",
+        "thumbnail_url": "/images/species/kanadanhanhi-2.jpg",
+        "file_name": "Dülmen, Kirchspiel, Börnste, Felder und Bäume -- 2017 -- 3238.jpg",
+        "photographer": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_B%C3%B6rnste,_Felder_und_B%C3%A4ume_--_2017_--_3238.jpg",
+        "attribution": "Dietmar Rabich / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "kurki",
+    "nameFi": "Kurki",
+    "nameSv": "Trana",
+    "nameEn": "Common Crane",
+    "scientific": "Grus grus",
+    "type": "lintu",
+    "group": "Muut riistalinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Hyvin suuri, harmaa lintu, jolla on pitkä kaula ja pitkät jalat. Päässä on punainen läikkä ja musta-valkoinen kuviointi. Lentää kaula ojennettuna, toisin kuin harmaahaikara, joka lentää kaula koukussa.",
+    "identificationTips": "Suuri koko ja lentäessä ojennettu kaula erottavat haikarasta.",
+    "images": [
+      {
+        "image_url": "/images/species/kurki.jpg",
+        "thumbnail_url": "/images/species/kurki.jpg",
+        "photographer": "Marek Szczepanek",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grus_grus_2_(Marek_Szczepanek).jpg",
+        "attribution": "Marek Szczepanek / CC BY-SA 3.0",
+        "file_name": "Grus_grus_2_(Marek_Szczepanek).jpg"
+      },
+      {
+        "image_url": "/images/species/kurki-1.jpg",
+        "thumbnail_url": "/images/species/kurki-1.jpg",
+        "file_name": "Grus grus - Common Crane 04.jpg",
+        "photographer": "Zeynel Cebeci",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grus_grus_-_Common_Crane_04.jpg",
+        "attribution": "Zeynel Cebeci / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/kurki-2.jpg",
+        "thumbnail_url": "/images/species/kurki-2.jpg",
+        "file_name": "Grus grus MHNT.ZOO.2010.11.65.5.jpg",
+        "photographer": "Roger Culos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grus_grus_MHNT.ZOO.2010.11.65.5.jpg",
+        "attribution": "Roger Culos / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "taivaanvuohi",
+    "nameFi": "Taivaanvuohi",
+    "nameSv": "Enkelbeckasin",
+    "nameEn": "Common Snipe",
+    "scientific": "Gallinago gallinago",
+    "type": "lintu",
+    "group": "Kahlaajat",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Ruskeankirjava, pitkänokkainen kahlaaja, joka kätkeytyy erinomaisesti kosteikon ruohikkoon. Erottuu lehtokurpasta selvästi pienemmän kokonsa, lyhyemmän nokan ja silmän läpi kulkevan tumman juovan perusteella. Ääntelee lennossa surisevasti.",
+    "identificationTips": "Pieni kahlaaja, pitkä suora nokka, silmäjuova. Vertaa lehtokurppaan: pienempi.",
+    "images": [
+      {
+        "image_url": "/images/species/taivaanvuohi.jpg",
+        "thumbnail_url": "/images/species/taivaanvuohi.jpg",
+        "photographer": "Marek Szczepanek",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gallinago_gallinago_1_(Marek_Szczepanek).jpg",
+        "attribution": "Marek Szczepanek / CC BY-SA 3.0",
+        "file_name": "Gallinago_gallinago_1_(Marek_Szczepanek).jpg"
+      },
+      {
+        "image_url": "/images/species/taivaanvuohi-1.jpg",
+        "thumbnail_url": "/images/species/taivaanvuohi-1.jpg",
+        "file_name": "Gallinago gallinago a1.JPG",
+        "photographer": "Alpsdake",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gallinago_gallinago_a1.JPG",
+        "attribution": "Alpsdake / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/taivaanvuohi-2.jpg",
+        "thumbnail_url": "/images/species/taivaanvuohi-2.jpg",
+        "file_name": "Bécassine des marais Ichkeul002.jpg",
+        "photographer": "El Golli Mohamed",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:B%C3%A9cassine_des_marais_Ichkeul002.jpg",
+        "attribution": "El Golli Mohamed / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "lehtokurppa",
+    "nameFi": "Lehtokurppa",
+    "nameSv": "Morkulla",
+    "nameEn": "Eurasian Woodcock",
+    "scientific": "Scolopax rusticola",
+    "type": "lintu",
+    "group": "Kahlaajat",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tanakka, metsässä elävä kahlaaja. Höyhenpuku on punaruskean ja mustan kuvioima, pään poikkijuovat ovat pystysuorat. Silmät ovat sijoitettu poikkeuksellisen ylös ja taakse. Nokka on hyvin pitkä ja suora.",
+    "identificationTips": "Pystysuorat juovat päässä ja silmien sijainti korkealla. Suurempi ja tanakempi kuin taivaanvuohi.",
+    "images": [
+      {
+        "image_url": "/images/species/lehtokurppa.jpg",
+        "thumbnail_url": "/images/species/lehtokurppa.jpg",
+        "photographer": "Ronald Slabke",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Woodcock_earthworm.jpg",
+        "attribution": "Ronald Slabke / CC BY-SA 3.0",
+        "file_name": "Woodcock_earthworm.jpg"
+      },
+      {
+        "image_url": "/images/species/lehtokurppa-1.jpg",
+        "thumbnail_url": "/images/species/lehtokurppa-1.jpg",
+        "file_name": "Waldschnepfe (scolopax rusticola) - Spiekeroog, Nationalpark Niedersächsisches Wattenmeer.jpg",
+        "photographer": "Stephan Sprinz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Waldschnepfe_(scolopax_rusticola)_-_Spiekeroog,_Nationalpark_Nieders%C3%A4chsisches_Wattenmeer.jpg",
+        "attribution": "Stephan Sprinz / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/lehtokurppa-2.png",
+        "thumbnail_url": "/images/species/lehtokurppa-2.png",
+        "file_name": "ScolopaxRusticolaIUCNver2019-2.png",
+        "photographer": "SanoAK : Alexander Kürthy",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:ScolopaxRusticolaIUCNver2019-2.png",
+        "attribution": "SanoAK : Alexander Kürthy / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "sepelkyyhky",
+    "nameFi": "Sepelkyyhky",
+    "nameSv": "Ringduva",
+    "nameEn": "Common Wood Pigeon",
+    "scientific": "Columba palumbus",
+    "type": "lintu",
+    "group": "Kyyhkyt",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Suurin kyyhkylajimme. Siivissä on selvästi erottuvat valkoiset juovat ja kaulassa valkoinen 'sepel' eli kaulaläikkä. Varastoi ruokaa kupuun ja ryhmä lentää usein suoraviivaisesti.",
+    "identificationTips": "Kaulan valkoinen sepel ja siipien valkoiset juovat.",
+    "images": [
+      {
+        "image_url": "/images/species/sepelkyyhky.jpg",
+        "thumbnail_url": "/images/species/sepelkyyhky.jpg",
+        "photographer": "M62",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_1.JPG",
+        "attribution": "M62 / CC BY-SA 3.0",
+        "file_name": "Columba_palumbus_1.JPG"
+      },
+      {
+        "image_url": "/images/species/sepelkyyhky-1.jpg",
+        "thumbnail_url": "/images/species/sepelkyyhky-1.jpg",
+        "file_name": "Columba palumbus -garden post-8.jpg",
+        "photographer": "Tristan Ferne from UK",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_-garden_post-8.jpg",
+        "attribution": "Tristan Ferne from UK / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/sepelkyyhky-2.jpg",
+        "thumbnail_url": "/images/species/sepelkyyhky-2.jpg",
+        "file_name": "Columba palumbus ssp. palumbus.jpg",
+        "photographer": "Don Loarie",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_ssp._palumbus.jpg",
+        "attribution": "Don Loarie / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "varis",
+    "nameFi": "Varis",
+    "nameSv": "Kråka",
+    "nameEn": "Hooded Crow",
+    "scientific": "Corvus cornix",
+    "type": "lintu",
+    "group": "Varislinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tummansinertävän harmaa varis, jolla on musta pää, kurkku, siivet ja pyrstö. Erottuu korpista värityksensä perusteella. Sallittu metsästettävä rauhoitusajoista riippuen.",
+    "identificationTips": "Harmaa vartalo ja musta pää – helppo erottaa korpista.",
+    "images": [
+      {
+        "image_url": "/images/species/varis.jpg",
+        "thumbnail_url": "/images/species/varis.jpg",
+        "photographer": "Matti Virtala",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_corone_Oulu_Finland_2020-09-20.jpg",
+        "attribution": "Matti Virtala / CC0",
+        "file_name": "Corvus_corone_Oulu_Finland_2020-09-20.jpg"
+      },
+      {
+        "image_url": "/images/species/varis-1.jpg",
+        "thumbnail_url": "/images/species/varis-1.jpg",
+        "file_name": "Corvus cornix (33515567265).jpg",
+        "photographer": "Donald Hobern from Copenhagen, Denmark",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_cornix_(33515567265).jpg",
+        "attribution": "Donald Hobern from Copenhagen, Denmark / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/varis-2.jpg",
+        "thumbnail_url": "/images/species/varis-2.jpg",
+        "file_name": "Corvus cornix in Locarno.jpg",
+        "photographer": "Commonists",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_cornix_in_Locarno.jpg",
+        "attribution": "Commonists / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "harakka",
+    "nameFi": "Harakka",
+    "nameSv": "Skata",
+    "nameEn": "Eurasian Magpie",
+    "scientific": "Pica pica",
+    "type": "lintu",
+    "group": "Varislinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Mustavalkoinen, hyvin pitkäpyrstöinen varislintu, jonka vihreänsinisessä höyhenpuvussa on metallikiilto. Liikkuu äänekkäästi ja rakentaa katollisen pesän.",
+    "identificationTips": "Pitkä pyrstö ja mustavalkoinen väritys.",
+    "images": [
+      {
+        "image_url": "/images/species/harakka.jpg",
+        "thumbnail_url": "/images/species/harakka.jpg",
+        "photographer": "Skarabeusz",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sroka_Pica_Pica_II.jpg",
+        "attribution": "Skarabeusz / CC BY-SA 2.5",
+        "file_name": "Sroka_Pica_Pica_II.jpg"
+      },
+      {
+        "image_url": "/images/species/harakka-1.jpg",
+        "thumbnail_url": "/images/species/harakka-1.jpg",
+        "file_name": "Eurasian magpie 2024 03 03 02.jpg",
+        "photographer": "Alexis Lours",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_2024_03_03_02.jpg",
+        "attribution": "Alexis Lours / CC BY 4.0"
+      },
+      {
+        "image_url": "/images/species/harakka-2.jpg",
+        "thumbnail_url": "/images/species/harakka-2.jpg",
+        "file_name": "Pica pica perched on branch 2.jpg",
+        "photographer": "Magnus Hagdorn",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pica_pica_perched_on_branch_2.jpg",
+        "attribution": "Magnus Hagdorn / CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "naakka",
+    "nameFi": "Naakka",
+    "nameSv": "Kaja",
+    "nameEn": "Western Jackdaw",
+    "scientific": "Coloeus monedula",
+    "type": "lintu",
+    "group": "Varislinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Pieni varislintu, jolla on harmaa niska ja takaraivo sekä vaalea silmä. Pää on musta. Liikkuu usein parvissa ja suosii kulttuuriympäristöjä ja rakennuksia.",
+    "identificationTips": "Pieni koko, vaalea silmä ja harmaa niska.",
+    "images": [
+      {
+        "image_url": "/images/species/naakka.jpg",
+        "thumbnail_url": "/images/species/naakka.jpg",
+        "photographer": "Dion Art",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B0%D0%BB%D0%BA%D0%B0_(Corvus_monedula),_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE.jpg",
+        "attribution": "Dion Art / CC BY-SA 4.0",
+        "file_name": "Галка_(Corvus_monedula),_Царицыно.jpg"
+      },
+      {
+        "image_url": "/images/species/naakka-2.jpg",
+        "thumbnail_url": "/images/species/naakka-2.jpg",
+        "file_name": "Western Jackdaw 2025 05 23 03.jpg",
+        "photographer": "Alexis Lours",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Western_Jackdaw_2025_05_23_03.jpg",
+        "attribution": "Alexis Lours / CC BY 4.0"
+      },
+      {
+        "image_url": "/images/species/naakka-1.jpg",
+        "thumbnail_url": "/images/species/naakka-1.jpg",
+        "file_name": "Kaja (Corvus monedula).jpg",
+        "photographer": "Calle Eklund/ V-wolf",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kaja_(Corvus_monedula).jpg",
+        "attribution": "Calle Eklund/ V-wolf / CC BY 3.0"
+      }
+    ]
+  },
+  {
+    "id": "narhi",
+    "nameFi": "Närhi",
+    "nameSv": "Nötskrika",
+    "nameEn": "Eurasian Jay",
+    "scientific": "Garrulus glandarius",
+    "type": "lintu",
+    "group": "Varislinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Punaruskea varislintu, jolla on valkea yläperä ja siiven pienet sinimustaraitaiset peitinhöyhenet sekä valkoinen laikku. Lentää hieman raskaasti metsässä.",
+    "identificationTips": "Siiven sininen raitakuvio ja valkoinen yläperä.",
+    "images": [
+      {
+        "image_url": "/images/species/narhi.jpg",
+        "thumbnail_url": "/images/species/narhi.jpg",
+        "photographer": "Luc Viatour",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg",
+        "attribution": "Luc Viatour / CC BY-SA 3.0",
+        "file_name": "Garrulus_glandarius_1_Luc_Viatour.jpg"
+      },
+      {
+        "image_url": "/images/species/narhi-1.jpg",
+        "thumbnail_url": "/images/species/narhi-1.jpg",
+        "file_name": "Garrulus glandarius - Eurasian Jay 01.jpg",
+        "photographer": "Zeynel Cebeci",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_-_Eurasian_Jay_01.jpg",
+        "attribution": "Zeynel Cebeci / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/narhi-2.jpg",
+        "thumbnail_url": "/images/species/narhi-2.jpg",
+        "file_name": "075 Wild Eurasian jay in flight at the Parc naturel régional Jura vaudois Photo by Giles Laurent.jpg",
+        "photographer": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:075_Wild_Eurasian_jay_in_flight_at_the_Parc_naturel_r%C3%A9gional_Jura_vaudois_Photo_by_Giles_Laurent.jpg",
+        "attribution": "Giles Laurent / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "merilokki",
+    "nameFi": "Merilokki",
+    "nameSv": "Havstrut",
+    "nameEn": "Great Black-backed Gull",
+    "scientific": "Larus marinus",
+    "type": "lintu",
+    "group": "Lokit",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Maailman suurin lokki. Selkä ja siivet ovat hyvin tumman harmaat, lähes mustat, ja nokka on tukeva. Erottuu harmaalokista tummempien siipien ja kookkaamman nokan perusteella.",
+    "identificationTips": "Koko ja hyvin tummat siivet. Nuoret linnut ovat täplikkäitä ja vaikeampia tunnistaa.",
+    "images": [
+      {
+        "image_url": "/images/species/merilokki.jpg",
+        "thumbnail_url": "/images/species/merilokki.jpg",
+        "photographer": "Burkhard.Plache",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Larus_marinus_watching.jpg",
+        "attribution": "Burkhard.Plache / CC BY-SA 3.0",
+        "file_name": "Larus_marinus_watching.jpg"
+      },
+      {
+        "image_url": "/images/species/merilokki-1.jpg",
+        "thumbnail_url": "/images/species/merilokki-1.jpg",
+        "file_name": "Great Black-backed Gull Larus marinus.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Great_Black-backed_Gull_Larus_marinus.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5"
+      },
+      {
+        "image_url": "/images/species/merilokki-2.jpg",
+        "thumbnail_url": "/images/species/merilokki-2.jpg",
+        "file_name": "Larus marinus MHNT.ZOO.2010.11.127.9.jpg",
+        "photographer": "Roger Culos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Larus_marinus_MHNT.ZOO.2010.11.127.9.jpg",
+        "attribution": "Roger Culos / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "harmaalokki",
+    "nameFi": "Harmaalokki",
+    "nameSv": "Gråtrut",
+    "nameEn": "European Herring Gull",
+    "scientific": "Larus argentatus",
+    "type": "lintu",
+    "group": "Lokit",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Yleinen, suurikokoinen lokki. Aikuisella on vaaleanharmaa selkä, valkoinen vartalo, keltainen nokka (jossa punainen täplä) ja vaaleanpunaiset jalat. Nuoret linnut ovat ruskeankirjavia ja tunnistetaan usein vaikeasti.",
+    "identificationTips": "Vaaleanharmaat siivet ja keltainen, punatäpläinen nokka. Vertaa merilokkiin: vaaleampi.",
+    "images": [
+      {
+        "image_url": "/images/species/harmaalokki.jpg",
+        "thumbnail_url": "/images/species/harmaalokki.jpg",
+        "photographer": "Wojsyl",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Seagull1.jpg",
+        "attribution": "Wojsyl / CC BY-SA 3.0",
+        "file_name": "Seagull1.jpg"
+      },
+      {
+        "image_url": "/images/species/harmaalokki-1.jpg",
+        "thumbnail_url": "/images/species/harmaalokki-1.jpg",
+        "file_name": "Larus argentatus01.jpg",
+        "photographer": "Kulac",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Larus_argentatus01.jpg",
+        "attribution": "Kulac / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/harmaalokki-2.jpg",
+        "thumbnail_url": "/images/species/harmaalokki-2.jpg",
+        "file_name": "Silbermöwe auf Eis - Spiekeroog, Nationalpark niedersächsisches Wattenmeer.jpg",
+        "photographer": "Stephan Sprinz",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Silberm%C3%B6we_auf_Eis_-_Spiekeroog,_Nationalpark_nieders%C3%A4chsisches_Wattenmeer.jpg",
+        "attribution": "Stephan Sprinz / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "hirvi",
+    "nameFi": "Hirvi",
+    "nameSv": "Älg",
+    "nameEn": "Eurasian Elk (Moose)",
+    "scientific": "Alces alces",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Suurin hirvieläimemme. Koiraalla (härkä) on lapionmuotoiset sarvet. Selässä on selvästi erottuva kyttyrä, kaula on lyhyt ja jalat pitkät. Väritys on tummanruskea, jalat vaaleammat. Vasalla on vaaleanruskea väritys ja selvä selkäjuova.",
+    "identificationTips": "Kyttyräinen selkä, pitkät jalat ja koiraan lapiosarvet. Vasalla ei sarvia.",
+    "images": [
+      {
+        "image_url": "/images/species/hirvi.jpg",
+        "thumbnail_url": "/images/species/hirvi.jpg",
+        "photographer": "Ott Rebane",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2018-07-06_Sinine_silm.jpg",
+        "attribution": "Ott Rebane / CC BY 2.0",
+        "file_name": "2018-07-06_Sinine_silm.jpg"
+      },
+      {
+        "image_url": "/images/species/hirvi-1.jpg",
+        "thumbnail_url": "/images/species/hirvi-1.jpg",
+        "file_name": "Moose superior.jpg",
+        "photographer": "USDA Forest Service",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Moose_superior.jpg",
+        "attribution": "USDA Forest Service / Public domain"
+      },
+      {
+        "image_url": "/images/species/hirvi-2.jpg",
+        "thumbnail_url": "/images/species/hirvi-2.jpg",
+        "file_name": "Moose in Grand Teton National Park 3 (8007698498).jpg",
+        "photographer": "Tony Hisgett from Birmingham, UK",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Moose_in_Grand_Teton_National_Park_3_(8007698498).jpg",
+        "attribution": "Tony Hisgett from Birmingham, UK / CC BY 2.0"
+      }
+    ]
+  },
+  {
+    "id": "valkohantapeura",
+    "nameFi": "Valkohäntäpeura",
+    "nameSv": "Vitsvanshjort",
+    "nameEn": "White-tailed Deer",
+    "scientific": "Odocoileus virginianus",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Keskikokoinen hirvieläin. Selvimpia tuntomerkkejä ovat valkoinen kurkku ja vatsa sekä pyrstö, joka on yläpuolelta ruskea ja alapuolelta valkoinen ja joka kohotetaan pystyyn pakoaikoina (ns. lippu). Koiralla on haarautuvat sarvet.",
+    "identificationTips": "Valkoinen pyrstön alaosa ja pystyyn nostettava 'lippu'. Vertaa metsäkauriiseen: selvästi suurempi.",
+    "images": [
+      {
+        "image_url": "/images/species/valkohantapeura.jpg",
+        "thumbnail_url": "/images/species/valkohantapeura.jpg",
+        "photographer": "USDA photo by Scott Bauer",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:White-tailed_deer.jpg",
+        "attribution": "USDA photo by Scott Bauer / Public domain",
+        "file_name": "White-tailed_deer.jpg"
+      },
+      {
+        "image_url": "/images/species/valkohantapeura-1.jpg",
+        "thumbnail_url": "/images/species/valkohantapeura-1.jpg",
+        "file_name": "20250130 white tailed deer cedar hill cemetery PD204650.jpg",
+        "photographer": "Paul Danese",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20250130_white_tailed_deer_cedar_hill_cemetery_PD204650.jpg",
+        "attribution": "Paul Danese / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/valkohantapeura-2.jpg",
+        "thumbnail_url": "/images/species/valkohantapeura-2.jpg",
+        "file_name": "20250130 white tailed deer cedar hill cemetery PD204707.jpg",
+        "photographer": "Paul Danese",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20250130_white_tailed_deer_cedar_hill_cemetery_PD204707.jpg",
+        "attribution": "Paul Danese / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "metsakauris",
+    "nameFi": "Metsäkauris",
+    "nameSv": "Rådjur",
+    "nameEn": "Roe Deer",
+    "scientific": "Capreolus capreolus",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Pieni, siro hirvieläin. Türki on kesällä punaruskea, talvella harmahtava, ja takamuksessa on kirkkaan valkoinen, pyöreä täplä (ns. pakaraläikkä). Koiralla (pukki) on lyhyet, kolmipiikkiset sarvet. Liikkuu usein yksin tai pienissä ryhmissä.",
+    "identificationTips": "Pieni koko ja valkoinen pakaraläikkä erottavat valkohäntäpeurasta.",
+    "images": [
+      {
+        "image_url": "/images/species/metsakauris.jpg",
+        "thumbnail_url": "/images/species/metsakauris.jpg",
+        "photographer": "No machine-readable author provided. Jojo assumed (based on copyright claims).",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Capreolus_capreolus_2_Jojo.jpg",
+        "attribution": "No machine-readable author provided. Jojo assumed (based on copyright claims). / CC BY-SA 3.0",
+        "file_name": "Capreolus_capreolus_2_Jojo.jpg"
+      },
+      {
+        "image_url": "/images/species/metsakauris-1.jpg",
+        "thumbnail_url": "/images/species/metsakauris-1.jpg",
+        "file_name": "Capreolus (js)11.jpg",
+        "photographer": "Jerzystrzelecki",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Capreolus_(js)11.jpg",
+        "attribution": "Jerzystrzelecki / CC BY 3.0"
+      },
+      {
+        "image_url": "/images/species/metsakauris-2.jpg",
+        "thumbnail_url": "/images/species/metsakauris-2.jpg",
+        "file_name": "Capreolus capreolus Wien Zentralfriedhof 20221021 06.jpg",
+        "photographer": "Uoaei1",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Capreolus_capreolus_Wien_Zentralfriedhof_20221021_06.jpg",
+        "attribution": "Uoaei1 / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "metsapeura",
+    "nameFi": "Metsäpeura",
+    "nameSv": "Skogsren",
+    "nameEn": "Finnish Forest Reindeer",
+    "scientific": "Rangifer tarandus fennicus",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 4,
+    "huntable": false,
+    "status": "Erityisesti suojeltava, rauhoitettu",
+    "description": "Poro lajinsa luonnonvarainen metsäkanta. Selvästi poroa varovaisempi ja jaloempi, jalat ovat pidemmät ja ruumis solakampi. Sarvet ovat yleensä ohuemmat ja kapeammat kuin porolla. Esiintyy itäisessä Suomessa (mm. Kainuu). Rauhoitettu – ei metsästettävä.",
+    "identificationTips": "Solakampi ja korkeajalkaisempi kuin poro. Erehtymisen vaara: ALÄ ammu – metsäpeura on rauhoitettu.",
+    "images": [
+      {
+        "image_url": "/images/species/metsapeura.jpg",
+        "thumbnail_url": "/images/species/metsapeura.jpg",
+        "photographer": "Uusijani",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rangifer_tarandus_fennicus_(juvenile_and_two_adults).jpg",
+        "attribution": "Uusijani / CC0",
+        "file_name": "Rangifer_tarandus_fennicus_(juvenile_and_two_adults).jpg"
+      },
+      {
+        "image_url": "/images/species/metsapeura-1.jpg",
+        "thumbnail_url": "/images/species/metsapeura-1.jpg",
+        "file_name": "Rangifer tarandus fennicus 279676776.jpg",
+        "photographer": "Petr Knotek",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rangifer_tarandus_fennicus_279676776.jpg",
+        "attribution": "Petr Knotek / CC BY 4.0"
+      },
+      {
+        "image_url": "/images/species/metsapeura-2.jpg",
+        "thumbnail_url": "/images/species/metsapeura-2.jpg",
+        "file_name": "Rangifer tarandus fennicus 245142390.jpg",
+        "photographer": "Pentti Impiö",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rangifer_tarandus_fennicus_245142390.jpg",
+        "attribution": "Pentti Impiö / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "poro",
+    "nameFi": "Poro",
+    "nameSv": "Ren",
+    "nameEn": "Reindeer",
+    "scientific": "Rangifer tarandus",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 2,
+    "huntable": false,
+    "status": "Kotieläin (ei riistaeläin)",
+    "description": "Lapissa kotieläimenä pidettävä hirvieläin, kuuluu poronhoitolain piiriin. Käytännössä maidon tuotannossa ja teurastuksessa hallittu, ei metsästettävä. Voidaan erehtyä luulemaan villieläimeksi; runsaslukuiset porot on tunnistettava.",
+    "identificationTips": "Korvissa on usein omistajan merkkireikä tai -leike. Poro ei ole riistaeläin, jota saisi metsästää.",
+    "images": [
+      {
+        "image_url": "/images/species/poro.jpg",
+        "thumbnail_url": "/images/species/poro.jpg",
+        "photographer": "Ximonic (Simo Räsänen)",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Reindeer_on_Salen,_Hammerfest,_Troms_og_Finnmark,_Norway,_2022_August_-_5.jpg",
+        "attribution": "Ximonic (Simo Räsänen) / CC BY-SA 4.0",
+        "file_name": "Reindeer_on_Salen,_Hammerfest,_Troms_og_Finnmark,_Norway,_2022_August_-_5.jpg"
+      },
+      {
+        "image_url": "/images/species/poro-2.jpg",
+        "thumbnail_url": "/images/species/poro-2.jpg",
+        "file_name": "20070818-0001-strolling reindeer.jpg",
+        "photographer": "Alexandre Buisse ( Nattfodd )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20070818-0001-strolling_reindeer.jpg",
+        "attribution": "Alexandre Buisse ( Nattfodd ) / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/poro-1.jpg",
+        "thumbnail_url": "/images/species/poro-1.jpg",
+        "file_name": "Warriors of Lapland.jpg",
+        "photographer": "Sot.virk. Oswald Hedenström",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Warriors_of_Lapland.jpg",
+        "attribution": "Sot.virk. Oswald Hedenström / Public domain"
+      }
+    ]
+  },
+  {
+    "id": "villisika",
+    "nameFi": "Villisika",
+    "nameSv": "Vildsvin",
+    "nameEn": "Wild Boar",
+    "scientific": "Sus scrofa",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin (vieraslaji)",
+    "description": "Tukeva, tumma, karkeakarvainen eläin, jolla on pitkä, liikkuva kuono ja pystyssä sojottavat korvat. Porsaat ovat raidallisia. Elää ryhmissä (lauma) ja liikkuu enimmäkseen hämärässä ja yöllä. Voimakas, voi olla vaarallinen haavoitettuna.",
+    "identificationTips": "Karhumainen olemus mutta selvästi pitkä kuono ja sorkat, ja porsaiden raidat ovat tunnusmerkki.",
+    "images": [
+      {
+        "image_url": "/images/species/villisika.jpg",
+        "thumbnail_url": "/images/species/villisika.jpg",
+        "photographer": "Valentin Panzirsch",
+        "license": "CC BY-SA 3.0 at",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wildschwein,_N%C3%A4he_Pulverstampftor_(cropped).jpg",
+        "attribution": "Valentin Panzirsch / CC BY-SA 3.0 at",
+        "file_name": "Wildschwein,_Nähe_Pulverstampftor_(cropped).jpg"
+      },
+      {
+        "image_url": "/images/species/villisika-1.jpg",
+        "thumbnail_url": "/images/species/villisika-1.jpg",
+        "file_name": "Wild Boar Habbitat 3.jpg",
+        "photographer": "Richard Bartz, Munich Makro Freak",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Boar_Habbitat_3.jpg",
+        "attribution": "Richard Bartz, Munich Makro Freak / CC BY-SA 2.5"
+      },
+      {
+        "image_url": "/images/species/villisika-2.jpg",
+        "thumbnail_url": "/images/species/villisika-2.jpg",
+        "file_name": "Wild Boar Habbitat 2.jpg",
+        "photographer": "Richard Bartz, Munich Makro Freak",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wild_Boar_Habbitat_2.jpg",
+        "attribution": "Richard Bartz, Munich Makro Freak / CC BY-SA 2.5"
+      }
+    ]
+  },
+  {
+    "id": "metsajanis",
+    "nameFi": "Metsäjänis",
+    "nameSv": "Skogshare",
+    "nameEn": "Mountain Hare",
+    "scientific": "Lepus timidus",
+    "type": "nisakas",
+    "group": "Jäniseläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Muuttuu talvella kokonaan valkoiseksi; kesällä ruskeanharmaa. Korvat ovat selvästi rusakon korvia lyhyemmät ja niiden kärjet pysyvät mustina. Elää metsissä ja tuntureilla.",
+    "identificationTips": "Lyhyemmät korvat kuin rusakolla ja talvella kokonaan valkoinen turkki.",
+    "images": [
+      {
+        "image_url": "/images/species/metsajanis.jpg",
+        "thumbnail_url": "/images/species/metsajanis.jpg",
+        "photographer": "en:User:A.C.Easton",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lepus_timidus_01.jpg",
+        "attribution": "en:User:A.C.Easton / Public domain",
+        "file_name": "Lepus_timidus_01.jpg"
+      },
+      {
+        "image_url": "/images/species/metsajanis-1.jpg",
+        "thumbnail_url": "/images/species/metsajanis-1.jpg",
+        "file_name": "Lepus timidus in Volgograd Oblast.jpg",
+        "photographer": "Правительство Волгоградской области",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lepus_timidus_in_Volgograd_Oblast.jpg",
+        "attribution": "Правительство Волгоградской области / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/metsajanis-2.png",
+        "thumbnail_url": "/images/species/metsajanis-2.png",
+        "file_name": "Почтовая открытка СССР \"C Новым годом\", худ. А. Исаков, С, Гордищев, 1987, лицевая сторона.png",
+        "photographer": "Ministry of Communications of the USSR",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0_%22C_%D0%9D%D0%BE%D0%B2%D1%8B%D0%BC_%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC%22,_%D1%85%D1%83%D0%B4._%D0%90._%D0%98%D1%81%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%A1,_%D0%93%D0%BE%D1%80%D0%B4%D0%B8%D1%89%D0%B5%D0%B2,_1987,_%D0%BB%D0%B8%D1%86%D0%B5%D0%B2%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B0.png",
+        "attribution": "Ministry of Communications of the USSR / Public domain"
+      }
+    ]
+  },
+  {
+    "id": "rusakko",
+    "nameFi": "Rusakko",
+    "nameSv": "Fälthare",
+    "nameEn": "European Hare",
+    "scientific": "Lepus europaeus",
+    "type": "nisakas",
+    "group": "Jäniseläimet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Metsäjänistä suurempi ja pitkäkorvaisempi. Talvella turkki ei muutu kokonaan valkoiseksi vaan säilyy harmaanruskeana. Elää peltoaukeilla ja viljelysmalla. Korvien kärjet ovat mustat.",
+    "identificationTips": "Pitkät korvat ja talvella harmahtava, ei kokonaan valkoinen turkki.",
+    "images": [
+      {
+        "image_url": "/images/species/rusakko.jpg",
+        "thumbnail_url": "/images/species/rusakko.jpg",
+        "photographer": "Nagusb",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hare_portrait.jpg",
+        "attribution": "Nagusb / CC BY-SA 4.0",
+        "file_name": "Hare_portrait.jpg"
+      },
+      {
+        "image_url": "/images/species/rusakko-1.jpg",
+        "thumbnail_url": "/images/species/rusakko-1.jpg",
+        "file_name": "Zając szarak (Lepus europaeus) 3.jpg",
+        "photographer": "Iwona Kałuzińska",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Zaj%C4%85c_szarak_(Lepus_europaeus)_3.jpg",
+        "attribution": "Iwona Kałuzińska / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/rusakko-2.jpg",
+        "thumbnail_url": "/images/species/rusakko-2.jpg",
+        "file_name": "Feldhase.jpg",
+        "photographer": "de:User:Fmickan",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Feldhase.jpg",
+        "attribution": "de:User:Fmickan / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "orava",
+    "nameFi": "Orava",
+    "nameSv": "Ekorre",
+    "nameEn": "Red Squirrel",
+    "scientific": "Sciurus vulgaris",
+    "type": "nisakas",
+    "group": "Jyrsijät",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Punaruskea, tuuheahäntäinen orava, jolla on korvatupsut (etenkin talvipuvussa) ja valkea vatsa. Liikkuu puissa, kätkee pähkinöitä ja käpyjä.",
+    "identificationTips": "Tuuhea häntä ja punaruskea väri; talvella korvatupsut ovat selvät.",
+    "images": [
+      {
+        "image_url": "/images/species/orava.jpg",
+        "thumbnail_url": "/images/species/orava.jpg",
+        "photographer": "Matti Parkkonen",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:MattiParkkonen_Orava.jpg",
+        "attribution": "Matti Parkkonen / Public domain",
+        "file_name": "MattiParkkonen_Orava.jpg"
+      },
+      {
+        "image_url": "/images/species/orava-2.jpg",
+        "thumbnail_url": "/images/species/orava-2.jpg",
+        "file_name": "Red squirrel (21808).jpg",
+        "photographer": "Rhododendrites",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red_squirrel_(21808).jpg",
+        "attribution": "Rhododendrites / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/orava-1.jpg",
+        "thumbnail_url": "/images/species/orava-1.jpg",
+        "file_name": "Sciurus vulgaris 186868985.jpg",
+        "photographer": "Сергей Неклюдов",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sciurus_vulgaris_186868985.jpg",
+        "attribution": "Сергей Неклюдов / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "majava",
+    "nameFi": "Majava",
+    "nameSv": "Bäver",
+    "nameEn": "Eurasian Beaver",
+    "scientific": "Castor fiber",
+    "type": "nisakas",
+    "group": "Jyrsijät",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Suuri jyrsijä, jolla on litteä, suomupintainen häntä ja tumma, vedenkestävä turkki. Rakentaa patoja ja pesiä. Näkyy usein vedessä uimassa tai hampaiden jälkinä kaadetuissa puissa.",
+    "identificationTips": "Litteä, leveä häntä ja kaadetut puut sekä padot.",
+    "images": [
+      {
+        "image_url": "/images/species/majava.jpg",
+        "thumbnail_url": "/images/species/majava.jpg",
+        "photographer": "Dion Art",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B1%D0%BE%D0%B1%D1%80_(Castor_fiber),_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5-%D0%A1%D1%82%D1%80%D0%B5%D1%88%D0%BD%D0%B5%D0%B2%D0%BE.jpg",
+        "attribution": "Dion Art / CC BY-SA 4.0",
+        "file_name": "Обыкновенный_бобр_(Castor_fiber),_Покровское-Стрешнево.jpg"
+      },
+      {
+        "image_url": "/images/species/majava-2.jpg",
+        "thumbnail_url": "/images/species/majava-2.jpg",
+        "file_name": "Річковий бобер (Castor fiber).jpg",
+        "photographer": "Ryzhkov Sergey",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A0%D1%96%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D0%BE%D0%B1%D0%B5%D1%80_(Castor_fiber).jpg",
+        "attribution": "Ryzhkov Sergey / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/majava-1.jpg",
+        "thumbnail_url": "/images/species/majava-1.jpg",
+        "file_name": "Castor fiber vistulanus2.jpg",
+        "photographer": "Klaudiusz Muchowski",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Castor_fiber_vistulanus2.jpg",
+        "attribution": "Klaudiusz Muchowski / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "piisami",
+    "nameFi": "Piisami",
+    "nameSv": "Bisamråtta",
+    "nameEn": "Muskrat",
+    "scientific": "Ondatra zibethicus",
+    "type": "nisakas",
+    "group": "Jyrsijät",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (vieraslaji)",
+    "description": "Majavaa muistuttava mutta selvästi pienempi, tummanruskea vesijyrsijä, jonka häntä on sivulta litistynyt ja lähes karvaton. Esiintyy kosteikoissa ja ojissa.",
+    "identificationTips": "Pienempi kuin majava, sivulta litistynyt ja lähes karvaton häntä.",
+    "images": [
+      {
+        "image_url": "/images/species/piisami.jpg",
+        "thumbnail_url": "/images/species/piisami.jpg",
+        "photographer": "David Menke",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ondatra_zibethicus_FWS.jpg",
+        "attribution": "David Menke / Public domain",
+        "file_name": "Ondatra_zibethicus_FWS.jpg"
+      },
+      {
+        "image_url": "/images/species/piisami-1.jpg",
+        "thumbnail_url": "/images/species/piisami-1.jpg",
+        "file_name": "Muskrat Foraging.JPG",
+        "photographer": "Jumpingmaniac",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Muskrat_Foraging.JPG",
+        "attribution": "Jumpingmaniac / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/piisami-2.jpg",
+        "thumbnail_url": "/images/species/piisami-2.jpg",
+        "file_name": "Ondatra zibethicus CT.jpg",
+        "photographer": "Cephas",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ondatra_zibethicus_CT.jpg",
+        "attribution": "Cephas / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "kettu",
+    "nameFi": "Kettu",
+    "nameSv": "Räv",
+    "nameEn": "Red Fox",
+    "scientific": "Vulpes vulpes",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Punaruskea, tuuheahäntäinen koiraeläin, jonka hännän kärki on valkoinen ja korvat mustakärkiset. Liikkuu usein hämärässä ja yksin.",
+    "identificationTips": "Punaruskea väritys ja valkokärkinen, tuuhea häntä.",
+    "images": [
+      {
+        "image_url": "/images/species/kettu.jpg",
+        "thumbnail_url": "/images/species/kettu.jpg",
+        "photographer": "caroline legg",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%27On_the_prowl!%27_(50902738712).jpg",
+        "attribution": "caroline legg / CC BY 2.0",
+        "file_name": "'On_the_prowl!'_(50902738712).jpg"
+      },
+      {
+        "image_url": "/images/species/kettu-1.png",
+        "thumbnail_url": "/images/species/kettu-1.png",
+        "file_name": "Red Fox Portrait.png",
+        "photographer": "Chuck Homler, Focus On Wildlife",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red_Fox_Portrait.png",
+        "attribution": "Chuck Homler, Focus On Wildlife / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/kettu-2.jpg",
+        "thumbnail_url": "/images/species/kettu-2.jpg",
+        "file_name": "Vulpes vulpes laying in snow.jpg",
+        "photographer": "Shiretoko-Shari Tourist Association",
+        "license": "Attribution",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vulpes_vulpes_laying_in_snow.jpg",
+        "attribution": "Shiretoko-Shari Tourist Association / Attribution"
+      }
+    ]
+  },
+  {
+    "id": "supikoira",
+    "nameFi": "Supikoira",
+    "nameSv": "Mårdhund",
+    "nameEn": "Raccoon Dog",
+    "scientific": "Nyctereutes procyonoides",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (vieraslaji, haitallinen)",
+    "description": "Tukeva, lyhytjalkainen koiraeläin, jolla on pyöreä pää, leveä musta naamariomena ja paksu, harmaanruskea turkki. Esiintyy kosteikoilla ja metsänreunoissa. Vieraslaji, jota suositellaan pyydettäväksi.",
+    "identificationTips": "Naamari-kuviointi ja lyhyet jalat; muistuttaa hieman mäyrää mutta naamari on tumma eikä valkoinen raita.",
+    "images": [
+      {
+        "image_url": "/images/species/supikoira.jpg",
+        "thumbnail_url": "/images/species/supikoira.jpg",
+        "photographer": "Manfred Dohmen",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Marderhund.jpg",
+        "attribution": "Manfred Dohmen / CC BY-SA 3.0",
+        "file_name": "Marderhund.jpg"
+      },
+      {
+        "image_url": "/images/species/supikoira-2.jpg",
+        "thumbnail_url": "/images/species/supikoira-2.jpg",
+        "file_name": "Єнотовидний собака (Nyctereutes procyonoides).jpg",
+        "photographer": "Ryzhkov Sergey",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%84%D0%BD%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_(Nyctereutes_procyonoides).jpg",
+        "attribution": "Ryzhkov Sergey / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/supikoira-1.jpg",
+        "thumbnail_url": "/images/species/supikoira-1.jpg",
+        "file_name": "Nyctereutes procyonoides 379771229.jpg",
+        "photographer": "Марина Садыкова",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nyctereutes_procyonoides_379771229.jpg",
+        "attribution": "Марина Садыкова / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "mayra",
+    "nameFi": "Mäyrä",
+    "nameSv": "Grävling",
+    "nameEn": "Eurasian Badger",
+    "scientific": "Meles meles",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tanakka, matalajalkainen eläin, jolla on harmaa selkä, tumma vatsa ja päässä selvät mustavalkoiset raidat. Kaivaa pesäluolastoja.",
+    "identificationTips": "Pään mustavalkoiset raidat ja matala, leveä vartalo.",
+    "images": [
+      {
+        "image_url": "/images/species/mayra.jpg",
+        "thumbnail_url": "/images/species/mayra.jpg",
+        "photographer": "BadgerHero",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Badger-badger.jpg",
+        "attribution": "BadgerHero / CC BY-SA 3.0",
+        "file_name": "Badger-badger.jpg"
+      },
+      {
+        "image_url": "/images/species/mayra-1.jpg",
+        "thumbnail_url": "/images/species/mayra-1.jpg",
+        "file_name": "European badger (Meles meles taxus) Drenthe 2.jpg",
+        "photographer": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe_2.jpg",
+        "attribution": "Charles J. Sharp / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/mayra-2.jpg",
+        "thumbnail_url": "/images/species/mayra-2.jpg",
+        "file_name": "Grevling (Meles meles).jpg",
+        "photographer": "Trond Sætre Stegarud",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Grevling_(Meles_meles).jpg",
+        "attribution": "Trond Sætre Stegarud / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "naata",
+    "nameFi": "Näätä",
+    "nameSv": "Skogsmård",
+    "nameEn": "Pine Marten",
+    "scientific": "Martes martes",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Solakka, puissa liikkuva näätäeläin, jolla on tummanruskea turkki ja kellertävä kurkkulaikku. Häntä on pitkä ja tuuhea. Liikkuu öisin.",
+    "identificationTips": "Kellertävä kurkkuläikkä ja pitkä häntä; muistuttaa supikoiraa mutta on solakampi.",
+    "images": [
+      {
+        "image_url": "/images/species/naata.jpg",
+        "thumbnail_url": "/images/species/naata.jpg",
+        "photographer": "Dani Kropivnik",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Martes_martes_crop.jpg",
+        "attribution": "Dani Kropivnik / CC BY-SA 3.0",
+        "file_name": "Martes_martes_crop.jpg"
+      },
+      {
+        "image_url": "/images/species/naata-1.jpg",
+        "thumbnail_url": "/images/species/naata-1.jpg",
+        "file_name": "Martes martes crop (cropped).jpg",
+        "photographer": "Dani Kropivnik",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Martes_martes_crop_(cropped).jpg",
+        "attribution": "Dani Kropivnik / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/naata-2.jpg",
+        "thumbnail_url": "/images/species/naata-2.jpg",
+        "file_name": "European pine marten (Martes martes) Drenthe 2.jpg",
+        "photographer": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:European_pine_marten_(Martes_martes)_Drenthe_2.jpg",
+        "attribution": "Charles J. Sharp / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "karppa",
+    "nameFi": "Kärppä",
+    "nameSv": "Hermelin",
+    "nameEn": "Stoat",
+    "scientific": "Mustela erminea",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Pieni, pitkulainen näätäeläin. Kesällä selkä on ruskea ja vatsa valkoinen; talvella turkki muuttuu valkoiseksi ja hännän kärki pysyy mustana. Erottuu lumikosta hännän mustan kärjen perusteella.",
+    "identificationTips": "Talvella valkoinen mutta hännän kärki on aina musta (erotuksena lumikko).",
+    "images": [
+      {
+        "image_url": "/images/species/karppa.jpg",
+        "thumbnail_url": "/images/species/karppa.jpg",
+        "photographer": "James Lindsey",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mustela.erminea.jpg",
+        "attribution": "James Lindsey / CC BY-SA 3.0",
+        "file_name": "Mustela.erminea.jpg"
+      },
+      {
+        "image_url": "/images/species/karppa-1.jpg",
+        "thumbnail_url": "/images/species/karppa-1.jpg",
+        "file_name": "Røyskatt (Mustela erminea erminea), Lista, Norway.jpg",
+        "photographer": "Marton Berntsen , crop by User:MPF",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%B8yskatt_(Mustela_erminea_erminea),_Lista,_Norway.jpg",
+        "attribution": "Marton Berntsen , crop by User:MPF / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/karppa-2.jpg",
+        "thumbnail_url": "/images/species/karppa-2.jpg",
+        "file_name": "Mustela erminea nippon.jpg",
+        "photographer": "Alpsdake",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mustela_erminea_nippon.jpg",
+        "attribution": "Alpsdake / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "karhu",
+    "nameFi": "Karhu",
+    "nameSv": "Brunbjörn",
+    "nameEn": "Brown Bear",
+    "scientific": "Ursus arctos",
+    "type": "nisakas",
+    "group": "Suurpedot",
+    "difficulty": 1,
+    "huntable": false,
+    "status": "Rauhoitettu (poikkeuslupa)",
+    "description": "Suurin maaeläimemme. Tukeva, tummanruskea, pyöreäkorvainen ja lyhythäntäinen. Selässä on usein kyttyrä. Rauhoitettu, metsästys vain viranomaisen myöntämällä poikkeusluvalla.",
+    "identificationTips": "Suuri koko, pyöreät korvat ja kyttyräinen selkä.",
+    "images": [
+      {
+        "image_url": "/images/species/karhu.jpg",
+        "thumbnail_url": "/images/species/karhu.jpg",
+        "photographer": "Frank Vassen from Brussels, Belgium",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Brown_bear_(Ursus_arctos),_Viiksimo,_Kainuu_region,_Finland,_16_June_2018_(43094873292).jpg",
+        "attribution": "Frank Vassen from Brussels, Belgium / CC BY 2.0",
+        "file_name": "Brown_bear_(Ursus_arctos),_Viiksimo,_Kainuu_region,_Finland,_16_June_2018_(43094873292).jpg"
+      },
+      {
+        "image_url": "/images/species/karhu-1.jpg",
+        "thumbnail_url": "/images/species/karhu-1.jpg",
+        "file_name": "Brown bear.jpg",
+        "photographer": "Marshmallow",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Brown_bear.jpg",
+        "attribution": "Marshmallow / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/karhu-2.jpg",
+        "thumbnail_url": "/images/species/karhu-2.jpg",
+        "file_name": "Kamchatka Brown Bear near Dvuhyurtochnoe on 2015-07-23.jpg",
+        "photographer": "Robert F. Tobler",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg",
+        "attribution": "Robert F. Tobler / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "susi",
+    "nameFi": "Susi",
+    "nameSv": "Varg",
+    "nameEn": "Grey Wolf",
+    "scientific": "Canis lupus",
+    "type": "nisakas",
+    "group": "Suurpedot",
+    "difficulty": 1,
+    "huntable": false,
+    "status": "Rauhoitettu (poikkeuslupa)",
+    "description": "Suuri, harmahtava koiraeläin, jolla on pystyt korvat ja suora, riippuva häntä. Liikkuu laumoina. Rauhoitettu, metsästys vain poikkeusluvalla.",
+    "identificationTips": "Harmaa turkki, riippuva suora häntä ja laumakäyttäytyminen; kookas koiraeläin.",
+    "images": [
+      {
+        "image_url": "/images/species/susi.jpg",
+        "thumbnail_url": "/images/species/susi.jpg",
+        "photographer": "Magnus Johansson",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Wolf_(30536902171).jpg",
+        "attribution": "Magnus Johansson / CC BY-SA 2.0",
+        "file_name": "The_Wolf_(30536902171).jpg"
+      },
+      {
+        "image_url": "/images/species/susi-1.jpg",
+        "thumbnail_url": "/images/species/susi-1.jpg",
+        "file_name": "Loups communs DSCF1607.jpg",
+        "photographer": "Musicaline",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Loups_communs_DSCF1607.jpg",
+        "attribution": "Musicaline / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/susi-2.jpg",
+        "thumbnail_url": "/images/species/susi-2.jpg",
+        "file_name": "Loup gris commun DSCF1575.jpg",
+        "photographer": "Musicaline",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Loup_gris_commun_DSCF1575.jpg",
+        "attribution": "Musicaline / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "ilves",
+    "nameFi": "Ilves",
+    "nameSv": "Lodjur",
+    "nameEn": "Eurasian Lynx",
+    "scientific": "Lynx lynx",
+    "type": "nisakas",
+    "group": "Suurpedot",
+    "difficulty": 2,
+    "huntable": false,
+    "status": "Rauhoitettu (poikkeuslupa)",
+    "description": "Keskikokoinen kissaeläin, jolla on korvatupsut, tuuhea 'poskiparta' ja lyhyt, mustakärkinen häntä. Turkki on täplikäs. Rauhoitettu, metsästys vain poikkeusluvalla.",
+    "identificationTips": "Korvatupsut ja lyhyt typisöity häntä erottavat muista suurpedoista.",
+    "images": [
+      {
+        "image_url": "/images/species/ilves.jpg",
+        "thumbnail_url": "/images/species/ilves.jpg",
+        "photographer": "Bernard Landgraf ( User:Baerni )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lynx_lynx_poing.jpg",
+        "attribution": "Bernard Landgraf ( User:Baerni ) / CC BY-SA 3.0",
+        "file_name": "Lynx_lynx_poing.jpg"
+      },
+      {
+        "image_url": "/images/species/ilves-2.jpg",
+        "thumbnail_url": "/images/species/ilves-2.jpg",
+        "file_name": "Lynx lynx-4.JPG",
+        "photographer": "This image was produced by me, David Castor ( user:dcastor ). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lynx_lynx-4.JPG",
+        "attribution": "This image was produced by me, David Castor ( user:dcastor ). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.) / Public domain"
+      },
+      {
+        "image_url": "/images/species/ilves-1.jpg",
+        "thumbnail_url": "/images/species/ilves-1.jpg",
+        "file_name": "Lynx lynx in Bogazici Zoo 01155 Nevit.jpg",
+        "photographer": "Nevit Dilmen ( talk )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lynx_lynx_in_Bogazici_Zoo_01155_Nevit.jpg",
+        "attribution": "Nevit Dilmen ( talk ) / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "ahma",
+    "nameFi": "Ahma",
+    "nameSv": "Järv",
+    "nameEn": "Wolverine",
+    "scientific": "Gulo gulo",
+    "type": "nisakas",
+    "group": "Suurpedot",
+    "difficulty": 3,
+    "huntable": false,
+    "status": "Rauhoitettu (poikkeuslupa)",
+    "description": "Tukeva, karhumainen näätäeläin, jolla on tummanruskea turkki ja kellertävän valkoinen juova kyljissä. Jalat ovat lyhyet ja leveät. Rauhoitettu.",
+    "identificationTips": "Kylkien vaalea juova ja tanakka, lyhytjalkainen olemus.",
+    "images": [
+      {
+        "image_url": "/images/species/ahma.jpg",
+        "thumbnail_url": "/images/species/ahma.jpg",
+        "photographer": "User:MatthiasKabel",
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gulo_gulo_01.jpg",
+        "attribution": "User:MatthiasKabel / CC BY 2.5",
+        "file_name": "Gulo_gulo_01.jpg"
+      },
+      {
+        "image_url": "/images/species/ahma-1.jpg",
+        "thumbnail_url": "/images/species/ahma-1.jpg",
+        "file_name": "Gulo gulo 2.jpg",
+        "photographer": "Zefram",
+        "license": "CC BY 2.5",
+        "license_url": "https://creativecommons.org/licenses/by/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gulo_gulo_2.jpg",
+        "attribution": "Zefram / CC BY 2.5"
+      },
+      {
+        "image_url": "/images/species/ahma-2.jpg",
+        "thumbnail_url": "/images/species/ahma-2.jpg",
+        "file_name": "Wolverine.jpg",
+        "photographer": "Jeffrey C. Lewis",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wolverine.jpg",
+        "attribution": "Jeffrey C. Lewis / Public domain"
+      }
+    ]
+  },
+  {
+    "id": "kuusipeura",
+    "nameFi": "Kuusipeura",
+    "nameSv": "Dovhjort",
+    "nameEn": "Fallow Deer",
+    "scientific": "Dama dama",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (pyyntilupavelvollinen)",
+    "wikiTitle": "Kuusipeura",
+    "description": "Keskikokoinen hirvieläin, joka on kotiutettu erityisesti Lounais-Suomeen 1930-luvulta alkaen. Uroksen lapionmuotoiset sarvet erottavat sen muista hirvieläimistä, ja kesäturkissa on vaaleita täpliä. Häntä on selvästi pidempi kuin metsäkauriilla, ja sen perä on mustarantainen.",
+    "identificationTips": "Lapionmuotoiset sarvet ja täplikäs kesäturkki. Erotuksena metsäkauriista: suurempi koko, pitkä häntä ja erilainen sarvirakenne.",
+    "images": [
+      {
+        "image_url": "/images/species/kuusipeura.jpg",
+        "thumbnail_url": "/images/species/kuusipeura.jpg",
+        "photographer": "Rob Bendall ( Highfields )",
+        "license": "Attribution",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:FallowDeer.jpg",
+        "attribution": "Rob Bendall ( Highfields ) / Attribution",
+        "file_name": "FallowDeer.jpg"
+      },
+      {
+        "image_url": "/images/species/kuusipeura-1.jpg",
+        "thumbnail_url": "/images/species/kuusipeura-1.jpg",
+        "file_name": "Fallow deer in field.jpg",
+        "photographer": "Johann-Nikolaus Andreae",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fallow_deer_in_field.jpg",
+        "attribution": "Johann-Nikolaus Andreae / CC BY-SA 2.0"
+      },
+      {
+        "image_url": "/images/species/kuusipeura-2.jpg",
+        "thumbnail_url": "/images/species/kuusipeura-2.jpg",
+        "file_name": "Fallow Deer in the German wood.jpg",
+        "photographer": "Michael Gäbler",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fallow_Deer_in_the_German_wood.jpg",
+        "attribution": "Michael Gäbler / CC BY 3.0"
+      }
+    ]
+  },
+  {
+    "id": "saksanhirvi",
+    "nameFi": "Saksanhirvi",
+    "nameSv": "Kronhjort",
+    "nameEn": "Red Deer",
+    "scientific": "Cervus elaphus",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (pyyntilupavelvollinen)",
+    "description": "Suurikokoinen hirvieläin, kotimaisten hirvieläinten joukossa hirven jälkeen kooltaan merkittävin. Uroksen sarvet ovat monihaaraiset ja pyöreähköt. Talviturkki on harmaanruskea, kesällä punertavampi, ja häntä on selvästi pidempi kuin muilla hirvieläimillämme.",
+    "identificationTips": "Pitkä häntä ja monihaaraiset sarvet erottavat hirvestä ja valkohäntäpeurasta. Koko selvästi valkohäntäpeuraa suurempi.",
+    "images": [
+      {
+        "image_url": "/images/species/saksanhirvi.jpg",
+        "thumbnail_url": "/images/species/saksanhirvi.jpg",
+        "photographer": "Tuntematon",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rothirsch.jpg",
+        "attribution": "Tuntematon / Public domain",
+        "file_name": "Rothirsch.jpg"
+      },
+      {
+        "image_url": "/images/species/saksanhirvi-1.jpg",
+        "thumbnail_url": "/images/species/saksanhirvi-1.jpg",
+        "file_name": "Red deer (Cervus elaphus) hind.jpg",
+        "photographer": "Charles J. Sharp",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red_deer_(Cervus_elaphus)_hind.jpg",
+        "attribution": "Charles J. Sharp / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/saksanhirvi-2.jpg",
+        "thumbnail_url": "/images/species/saksanhirvi-2.jpg",
+        "file_name": "Cervus elaphus Luc Viatour 6.jpg",
+        "photographer": "Lviatour",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cervus_elaphus_Luc_Viatour_6.jpg",
+        "attribution": "Lviatour / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "japaninpeura",
+    "nameFi": "Japaninpeura",
+    "nameSv": "Sikahjort",
+    "nameEn": "Sika Deer",
+    "scientific": "Cervus nippon",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (pyyntilupavelvollinen)",
+    "description": "Keskikokoinen hirvieläin, joka on kooltaan valkohäntäpeuran luokkaa. Kesäturkissa on selviä valkoisia täpliä. Kumpikin sukupuoli voi kantaa lyhyitä sarvia, ja talviturkki on tummempi. Elää erityisesti lounaisrannikon metsissä.",
+    "identificationTips": "Kesäpukun valkopilkkuinen turkki ja lyhyet sarvet. Peilikko on pyöreä ja valkoinen, ja häntä on lyhyt.",
+    "images": [
+      {
+        "image_url": "/images/species/japaninpeura.jpg",
+        "thumbnail_url": "/images/species/japaninpeura.jpg",
+        "photographer": "100yen 10:39, 8 October 2006 (UTC) derivative work: Nzrst1jx",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:C.n.yesoensis--modified.jpg",
+        "attribution": "100yen 10:39, 8 October 2006 (UTC) derivative work: Nzrst1jx / CC BY-SA 3.0",
+        "file_name": "C.n.yesoensis--modified.jpg"
+      },
+      {
+        "image_url": "/images/species/japaninpeura-1.jpg",
+        "thumbnail_url": "/images/species/japaninpeura-1.jpg",
+        "file_name": "SikaDeerM1.jpg",
+        "photographer": "James P. Henley Jr. ( DrHenley )",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:SikaDeerM1.jpg",
+        "attribution": "James P. Henley Jr. ( DrHenley ) / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/japaninpeura-2.jpg",
+        "thumbnail_url": "/images/species/japaninpeura-2.jpg",
+        "file_name": "Портрет оленя взимку.jpg",
+        "photographer": "Byrdyak",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BE%D0%BB%D0%B5%D0%BD%D1%8F_%D0%B2%D0%B7%D0%B8%D0%BC%D0%BA%D1%83.jpg",
+        "attribution": "Byrdyak / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "mufloni",
+    "nameFi": "Mufloni",
+    "nameSv": "Muflon",
+    "nameEn": "Mouflon",
+    "scientific": "Ovis aries musimon",
+    "type": "nisakas",
+    "group": "Sorkkaeläimet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (pyyntilupavelvollinen)",
+    "description": "Villilampaan villein muoto, joka on peräisin Välimeren alueelta. Uroksella on kaarevat, sivuille kääntyvät sarvet, ja selässä on vaalea satula. Talviturkki on tummanruskea, ja uroksella on valkoinen kylkijuova.",
+    "identificationTips": "Uroksen isot kaarevat sarvet ja vaalea selkäsatula tekevät tunnistamisesta varman. Muistuttaa lammas-vuohikantaa mutta on villimuotoinen.",
+    "images": [
+      {
+        "image_url": "/images/species/mufloni.jpg",
+        "thumbnail_url": "/images/species/mufloni.jpg",
+        "photographer": "Ovis_orientalis_musimon.jpg : Rabensteiner derivative work: Osado ( talk )",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mufl%C3%B3n.jpg",
+        "attribution": "Ovis_orientalis_musimon.jpg : Rabensteiner derivative work: Osado ( talk ) / Public domain",
+        "file_name": "Muflón.jpg"
+      },
+      {
+        "image_url": "/images/species/mufloni-2.jpg",
+        "thumbnail_url": "/images/species/mufloni-2.jpg",
+        "file_name": "Mouflon DSCF5180.jpg",
+        "photographer": "Musicaline",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mouflon_DSCF5180.jpg",
+        "attribution": "Musicaline / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/mufloni-1.jpg",
+        "thumbnail_url": "/images/species/mufloni-1.jpg",
+        "file_name": "Ovis orientalis gmelini, Palacio Real de Riofrío.jpg",
+        "photographer": "Jl FilpoC",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ovis_orientalis_gmelini,_Palacio_Real_de_Riofr%C3%ADo.jpg",
+        "attribution": "Jl FilpoC / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "villikani",
+    "nameFi": "Villikani",
+    "nameSv": "Villkanin",
+    "nameEn": "European Rabbit",
+    "scientific": "Oryctolagus cuniculus",
+    "type": "nisakas",
+    "group": "Jäniseläimet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (vieraslaji)",
+    "wikiTitle": "Kaniini",
+    "description": "Pieni, lyhytjalkainen ja lyhytkorvainen jäniseläin, joka elää kolonioissa maanalaisissa koloissa. Selvästi metsäjänistä ja rusakkoa pienempi. Yleinen erityisesti Lounais-Suomen rannikolla ja saaristossa.",
+    "identificationTips": "Pieni koko, lyhyet korvat ja pyöreämmät muodot erottavat jäniksistä. Pyrstön alapuoli on valkoinen, mutta pystyyn nostettu pyrstö ei ole niin suuri kuin jäniksellä.",
+    "images": [
+      {
+        "image_url": "/images/species/villikani.jpg",
+        "thumbnail_url": "/images/species/villikani.jpg",
+        "photographer": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Tasmania.jpg",
+        "attribution": "JJ Harrison ( https://www.jjharrison.com.au/ ) / CC BY-SA 3.0",
+        "file_name": "Oryctolagus_cuniculus_Tasmania.jpg"
+      },
+      {
+        "image_url": "/images/species/villikani-1.jpg",
+        "thumbnail_url": "/images/species/villikani-1.jpg",
+        "file_name": "Oryctolagus cuniculus Tasmania 2.jpg",
+        "photographer": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Tasmania_2.jpg",
+        "attribution": "JJ Harrison ( https://www.jjharrison.com.au/ ) / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/villikani-2.jpg",
+        "thumbnail_url": "/images/species/villikani-2.jpg",
+        "file_name": "Oryctolagus cuniculus Tasmania 2 (cropped).jpg",
+        "photographer": "JJ Harrison",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Tasmania_2_(cropped).jpg",
+        "attribution": "JJ Harrison / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "hilleri",
+    "nameFi": "Hilleri",
+    "nameSv": "Iller",
+    "nameEn": "Western Polecat",
+    "scientific": "Mustela putorius",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin",
+    "description": "Tumma näätäeläin, jolla on selvästi erottuva vaalea naamamaski silmien ympärillä. Vartalo on pitkulainen ja lyhytjalkainen, ja karvapeite on mustanruskea. Liikkuu enimmäkseen hämärällä ja yöllä.",
+    "identificationTips": "Tumma turkki ja vaalea naamamaski erottavat minkistä, jolla on vain valkoinen leukaläikkä.",
+    "images": [
+      {
+        "image_url": "/images/species/hilleri.jpg",
+        "thumbnail_url": "/images/species/hilleri.jpg",
+        "photographer": "Malene Thyssen",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ilder.jpg",
+        "attribution": "Malene Thyssen / CC BY-SA 3.0",
+        "file_name": "Ilder.jpg"
+      },
+      {
+        "image_url": "/images/species/hilleri-1.png",
+        "thumbnail_url": "/images/species/hilleri-1.png",
+        "file_name": "Ferret 2008.png",
+        "photographer": "Alfredo Gutiérrez",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ferret_2008.png",
+        "attribution": "Alfredo Gutiérrez / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/hilleri-2.jpg",
+        "thumbnail_url": "/images/species/hilleri-2.jpg",
+        "file_name": "Mustela putorius furo.jpg",
+        "photographer": "Tuntematon",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mustela_putorius_furo.jpg",
+        "attribution": "Tuntematon / Public domain"
+      }
+    ]
+  },
+  {
+    "id": "saukko",
+    "nameFi": "Saukko",
+    "nameSv": "Utter",
+    "nameEn": "Eurasian Otter",
+    "scientific": "Lutra lutra",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 3,
+    "huntable": false,
+    "status": "Riistanisäkäs, rauhoitettu",
+    "description": "Vesistöjen taitava uimari, jolla on paksuviiksinen kuono, tuuhea paksuhäntä ja vesitiivis turkki. Ui veden alla kaiverten ja pitää ilmahengityksessä pintaan noustessa tunnusomaisen pörähtävän äänen.",
+    "identificationTips": "Vedessä uiva, pitkänomainen ja tumma eläin. Erottaaksesi minkistä: saukko on selvästi suurempi ja sillä on tuuhea paksuhäntä.",
+    "images": [
+      {
+        "image_url": "/images/species/saukko.jpg",
+        "thumbnail_url": "/images/species/saukko.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fischotter_Lutra_lutra1.jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0",
+        "file_name": "Fischotter_Lutra_lutra1.jpg"
+      },
+      {
+        "image_url": "/images/species/saukko-1.jpg",
+        "thumbnail_url": "/images/species/saukko-1.jpg",
+        "file_name": "Saarmas Tartus Emajõel, Kaarsilla kõrval, tõenäoliselt jõesilmu närimas. 2019. aasta talv..jpg",
+        "photographer": "Sillerkiil",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Saarmas_Tartus_Emaj%C3%B5el,_Kaarsilla_k%C3%B5rval,_t%C3%B5en%C3%A4oliselt_j%C3%B5esilmu_n%C3%A4rimas._2019._aasta_talv..jpg",
+        "attribution": "Sillerkiil / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/saukko-2.jpg",
+        "thumbnail_url": "/images/species/saukko-2.jpg",
+        "file_name": "European otter 01.jpg",
+        "photographer": "Alexander Leisser",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:European_otter_01.jpg",
+        "attribution": "Alexander Leisser / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "minkki",
+    "nameFi": "Minkki",
+    "nameSv": "Mink",
+    "nameEn": "American Mink",
+    "scientific": "Neogale vison",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Haitallinen vieraslaji, pyydettävä",
+    "wikiTitle": "Minkki",
+    "description": "Pieni, tumma ja vesistöjen äärellä liikkuva näätäeläin, joka on paennut tarhoista luontoon ja levinnyt koko maahan. Pahoinpitelee vesilintupesiä ja aiheuttaa merkittävää haittaa alkuperäiselle luonnolle. Pyynti on sallittua ympäri vuoden.",
+    "identificationTips": "Tumma, pieni ja pitkulainen. Vain valkoinen leukaläikkä – ei naamamaskia (hilleri) eikä kellertävää kurkkuläikkää (näätä).",
+    "images": [
+      {
+        "image_url": "/images/species/minkki.jpg",
+        "thumbnail_url": "/images/species/minkki.jpg",
+        "photographer": "Patrick Reijnders",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:American_Mink.jpg",
+        "attribution": "Patrick Reijnders / CC BY-SA 3.0",
+        "file_name": "American_Mink.jpg"
+      },
+      {
+        "image_url": "/images/species/minkki-2.jpg",
+        "thumbnail_url": "/images/species/minkki-2.jpg",
+        "file_name": "American Mink, Centre Island, Toronto, ON (9371348505).jpg",
+        "photographer": "tsaiproject from Canada",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:American_Mink,_Centre_Island,_Toronto,_ON_(9371348505).jpg",
+        "attribution": "tsaiproject from Canada / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/minkki-1.jpg",
+        "thumbnail_url": "/images/species/minkki-1.jpg",
+        "file_name": "Pair of American Mink on a rocky shoreline.jpg",
+        "photographer": "Scornwel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pair_of_American_Mink_on_a_rocky_shoreline.jpg",
+        "attribution": "Scornwel / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "kanadanmajava",
+    "nameFi": "Kanadanmajava",
+    "nameSv": "Kanadabäver",
+    "nameEn": "North American Beaver",
+    "scientific": "Castor canadensis",
+    "type": "nisakas",
+    "group": "Jyrsijät",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Haitallinen vieraslaji, pyydettävä",
+    "description": "Muistuttaa euroopanmajavaa, mutta on yleensä hieman pienempi ja suomupintainen häntä on kapeammin profil. Pidettiin Suomessa aiemmin tarkoituksella luontoon, ja sen kannan kasvu haittaa euroopanmajavaa. Pyyntiä suositaan.",
+    "identificationTips": "Laji on maastossa vaikea erottaa euroopanmajavasta. Luotettavin tuntomerkki on hännän muoto ja pehmeämmän turkin ja huonomman uimataidon perusteella.",
+    "images": [
+      {
+        "image_url": "/images/species/kanadanmajava.jpg",
+        "thumbnail_url": "/images/species/kanadanmajava.jpg",
+        "photographer": "Steve from Washington, DC, USA",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:American_Beaver.jpg",
+        "attribution": "Steve from Washington, DC, USA / CC BY-SA 2.0",
+        "file_name": "American_Beaver.jpg"
+      },
+      {
+        "image_url": "/images/species/kanadanmajava-1.jpg",
+        "thumbnail_url": "/images/species/kanadanmajava-1.jpg",
+        "file_name": "North American Beaver, Humber River near Kleinburg, Ontario (39637607974).jpg",
+        "photographer": "Vlad Podvorny",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:North_American_Beaver,_Humber_River_near_Kleinburg,_Ontario_(39637607974).jpg",
+        "attribution": "Vlad Podvorny / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/kanadanmajava-2.jpg",
+        "thumbnail_url": "/images/species/kanadanmajava-2.jpg",
+        "file_name": "Castor canadensis MHNT.OST.3.jpg",
+        "photographer": "Didier Descouens",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Castor_canadensis_MHNT.OST.3.jpg",
+        "attribution": "Didier Descouens / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "halli",
+    "nameFi": "Harmaahylje eli halli",
+    "nameSv": "Gråsäl",
+    "nameEn": "Grey Seal",
+    "scientific": "Halichoerus grypus",
+    "type": "nisakas",
+    "group": "Hylkeet",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (kiintiömetsästys)",
+    "wikiTitle": "Harmaahylje",
+    "description": "Suurin Itämeren hylkeistä. Aikuisen uroksen kuono on pitkä ja selviästi kupera, ja turkki on tumma vaaleilla täplillä. Naaras on vaaleampi ja pienempi. Metsästys tapahtuu Riistakeskuksen alueellisten kiintiöiden puitteissa.",
+    "identificationTips": "Pitkä, kupera kuono ja suuri koko erottavat norpasta. Uroksen puku on tummempi kuin naaraan.",
+    "images": [
+      {
+        "image_url": "/images/species/halli.jpg",
+        "thumbnail_url": "/images/species/halli.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Halichoerus_grypus_He.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5",
+        "file_name": "Halichoerus_grypus_He.jpg"
+      },
+      {
+        "image_url": "/images/species/halli-2.jpg",
+        "thumbnail_url": "/images/species/halli-2.jpg",
+        "file_name": "Halichoerus grypus June 2014 01.jpg",
+        "photographer": "Arild Vågen",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Halichoerus_grypus_June_2014_01.jpg",
+        "attribution": "Arild Vågen / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/halli-1.jpg",
+        "thumbnail_url": "/images/species/halli-1.jpg",
+        "file_name": "Halichoerus grypus male.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Halichoerus_grypus_male.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5"
+      }
+    ]
+  },
+  {
+    "id": "itamerennorppa",
+    "nameFi": "Itämerennorppa",
+    "nameSv": "Vikare",
+    "nameEn": "Baltic Ringed Seal",
+    "scientific": "Pusa hispida botnica",
+    "type": "nisakas",
+    "group": "Hylkeet",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (kiintiömetsästys)",
+    "description": "Pieni, pyöreäpäinen hylje, jonka turkissa on renkaanmuotoisia vaaleita täpliä. Elää pääosin Pohjanlahden ja Pohjois-Itämeren jäätymisalueilla. Metsästys on kiintiöllä sallittua, mutta kannan seuranta on tiukkaa.",
+    "identificationTips": "Pieni koko, pyöreä pää ilman selvää kuonoa ja renkaita muistuttava kuvioinnin. Erottuakseen hallista: huomattavasti pienempi ja lyhytkuonoisempi.",
+    "images": [
+      {
+        "image_url": "/images/species/itamerennorppa.jpg",
+        "thumbnail_url": "/images/species/itamerennorppa.jpg",
+        "photographer": "Kennyannydenny",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Baltische_ringelrob.JPG",
+        "attribution": "Kennyannydenny / CC BY-SA 3.0",
+        "file_name": "Baltische_ringelrob.JPG"
+      },
+      {
+        "image_url": "/images/species/itamerennorppa-1.jpg",
+        "thumbnail_url": "/images/species/itamerennorppa-1.jpg",
+        "file_name": "Pusa hispida botnica Oulu 20150516 08.JPG",
+        "photographer": "Estormiz",
+        "license": "CC0",
+        "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pusa_hispida_botnica_Oulu_20150516_08.JPG",
+        "attribution": "Estormiz / CC0"
+      }
+    ]
+  },
+  {
+    "id": "kirjohylje",
+    "nameFi": "Kirjohylje",
+    "nameSv": "Knubbsäl",
+    "nameEn": "Harbour Seal",
+    "scientific": "Phoca vitulina",
+    "type": "nisakas",
+    "group": "Hylkeet",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin (kiintiömetsästys)",
+    "description": "Keskikokoinen hylje, joka on Itämeren hylkeistä harvalukuisin. Kuono on lyhyt ja suora, ja pään profiilista erottuvat selvästi erilliset kuono ja otsa. Turkki on täplikäs.",
+    "identificationTips": "Lyhyt, suora kuono ja pienempi koko erottavat hallista. Norpan kanssa vertailussa kirjohylje on suurempi ja pitkäkuonoisempi.",
+    "images": [
+      {
+        "image_url": "/images/species/kirjohylje.jpg",
+        "thumbnail_url": "/images/species/kirjohylje.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Common_Seal_Phoca_vitulina.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5",
+        "file_name": "Common_Seal_Phoca_vitulina.jpg"
+      },
+      {
+        "image_url": "/images/species/kirjohylje-2.jpg",
+        "thumbnail_url": "/images/species/kirjohylje-2.jpg",
+        "file_name": "Harbor seal (Phoca vitulina) at Magdalen fjord, Svalbard (1).jpg",
+        "photographer": "AWeith",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Harbor_seal_(Phoca_vitulina)_at_Magdalen_fjord,_Svalbard_(1).jpg",
+        "attribution": "AWeith / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/kirjohylje-1.jpg",
+        "thumbnail_url": "/images/species/kirjohylje-1.jpg",
+        "file_name": "021 Wild smiling harbor seal at Jökulsárlón (Iceland) Photo by Giles Laurent.jpg",
+        "photographer": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_(Iceland)_Photo_by_Giles_Laurent.jpg",
+        "attribution": "Giles Laurent / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "kultasakaali",
+    "nameFi": "Kultasakaali",
+    "nameSv": "Gyllensjakal",
+    "nameEn": "Golden Jackal",
+    "scientific": "Canis aureus",
+    "type": "nisakas",
+    "group": "Petoeläimet",
+    "difficulty": 4,
+    "huntable": false,
+    "status": "Rauhoitettu (havaintoilmoitus Oma riistaan)",
+    "description": "Itä-Euroopasta levittäytynyt pieni koiraeläin, joka muistuttaa kettua mutta on kookkaampi ja korkeajalkaisempi. Turkki on kellanharmaa ja häntä tuuhea. Havaitaan Suomessa satunnaisesti, ja laji on rauhoitettu.",
+    "identificationTips": "Suurempi ja pitkäjalkaisempi kuin kettu, turkki kellanharmaa, korvat lyhyemmät ja pyöreämmät. Ei ole susi, vaan selvästi pienempi.",
+    "images": [
+      {
+        "image_url": "/images/species/kultasakaali.jpg",
+        "thumbnail_url": "/images/species/kultasakaali.jpg",
+        "photographer": "Thimindu",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Canis_aureus_naria_-_Yala_December_2010_(1).jpg",
+        "attribution": "Thimindu / CC BY-SA 2.0",
+        "file_name": "Canis_aureus_naria_-_Yala_December_2010_(1).jpg"
+      },
+      {
+        "image_url": "/images/species/kultasakaali-1.jpg",
+        "thumbnail_url": "/images/species/kultasakaali-1.jpg",
+        "file_name": "001 Golden jackal and azureum flowers in Jim Corbett National Park Photo by Giles Laurent.jpg",
+        "photographer": "Giles Laurent",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:001_Golden_jackal_and_azureum_flowers_in_Jim_Corbett_National_Park_Photo_by_Giles_Laurent.jpg",
+        "attribution": "Giles Laurent / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/kultasakaali-2.jpg",
+        "thumbnail_url": "/images/species/kultasakaali-2.jpg",
+        "file_name": "Golden jackal in Kuldiha Wildlife Sanctuary January 2024 by Tisha Mukherjee 02.jpg",
+        "photographer": "Tisha Mukherjee",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Golden_jackal_in_Kuldiha_Wildlife_Sanctuary_January_2024_by_Tisha_Mukherjee_02.jpg",
+        "attribution": "Tisha Mukherjee / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "lapasorsa",
+    "nameFi": "Lapasorsa",
+    "nameSv": "Skedand",
+    "nameEn": "Northern Shoveler",
+    "scientific": "Spatula clypeata",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu)",
+    "description": "Koiralla on erittäin iso, lapamainen nokka, vihreä pää, valkoinen rinta ja ruostepunainen vatsa. Naaras on ruskeankirjava, ja sen isokokoinen nokka on tunnistettavissa. Suodattaa ravintonsa vedestä nokan avulla.",
+    "identificationTips": "Koiran iso lapamainen nokka on varma tuntomerkki. Vertaa taviin: lapasorsa on suurempi ja nokka selvästi kookkaampi.",
+    "images": [
+      {
+        "image_url": "/images/species/lapasorsa.jpg",
+        "thumbnail_url": "/images/species/lapasorsa.jpg",
+        "photographer": "Maga-chan",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_clypeata_jp_02.jpg",
+        "attribution": "Maga-chan / CC BY-SA 2.5",
+        "file_name": "Anas_clypeata_jp_02.jpg"
+      },
+      {
+        "image_url": "/images/species/lapasorsa-1.jpg",
+        "thumbnail_url": "/images/species/lapasorsa-1.jpg",
+        "file_name": "Northern shoveler pair in Marine Park (33233).jpg",
+        "photographer": "Rhododendrites",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Northern_shoveler_pair_in_Marine_Park_(33233).jpg",
+        "attribution": "Rhododendrites / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/lapasorsa-2.jpg",
+        "thumbnail_url": "/images/species/lapasorsa-2.jpg",
+        "file_name": "Spatula clypeata MHNT.ZOO.2010.11.18.2.jpg",
+        "photographer": "Roger Culos",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Spatula_clypeata_MHNT.ZOO.2010.11.18.2.jpg",
+        "attribution": "Roger Culos / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "heinatavi",
+    "nameFi": "Heinätavi",
+    "nameSv": "Årta",
+    "nameEn": "Garganey",
+    "scientific": "Spatula querquedula",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 4,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu, saalisilmoitus)",
+    "description": "Pieni sorsa, joka on tavin kokoinen. Koiralla on leveä valkoinen silmänympärysjuova ja pitkä, suora lento. Harvalukuinen pesimälinnu, joka muuttaa hyvin aikaisin syksyllä etelään.",
+    "identificationTips": "Koiran leveä valkoinen silmäjuova ja pieni koko. Erottaaksesi tavista: heinätavin juova on leveämpi ja lintu hieman pienempi ja hoikempi.",
+    "images": [
+      {
+        "image_url": "/images/species/heinatavi.jpg",
+        "thumbnail_url": "/images/species/heinatavi.jpg",
+        "photographer": "Ferran Pestaña from Barcelona, España",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_querquedula,_Viladecans,_Catalunya,_Spain_1.jpg",
+        "attribution": "Ferran Pestaña from Barcelona, España / CC BY-SA 2.0",
+        "file_name": "Anas_querquedula,_Viladecans,_Catalunya,_Spain_1.jpg"
+      },
+      {
+        "image_url": "/images/species/heinatavi-2.jpg",
+        "thumbnail_url": "/images/species/heinatavi-2.jpg",
+        "file_name": "Garganey ( Anas querquedula ) Drake ... South Yorkshire (53695451967).jpg",
+        "photographer": "peterichman",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Garganey_(_Anas_querquedula_)_Drake_..._South_Yorkshire_(53695451967).jpg",
+        "attribution": "peterichman / CC BY-SA 2.0"
+      },
+      {
+        "image_url": "/images/species/heinatavi-1.jpg",
+        "thumbnail_url": "/images/species/heinatavi-1.jpg",
+        "file_name": "Anas querquedula, Llobregat Delta, Barcelona 6.jpg",
+        "photographer": "Ferran Pestaña from Barcelona, España",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anas_querquedula,_Llobregat_Delta,_Barcelona_6.jpg",
+        "attribution": "Ferran Pestaña from Barcelona, España / CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "punasotka",
+    "nameFi": "Punasotka",
+    "nameSv": "Brunand",
+    "nameEn": "Common Pochard",
+    "scientific": "Aythya ferina",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu)",
+    "description": "Sukeltajasorsa. Koiralla on punaruskea pää, musta rinta ja harmaa selkä. Naaras on harmaaruskea, tummapäinen. Taantunut laji, jonka metsästystä on rajoitettu.",
+    "identificationTips": "Koiran punaruskea pää ja musta rinta. Erottaaksesi tukkasotkasta: punasotkalla ei ole niskatöyhtöä ja sen silmä on punainen.",
+    "images": [
+      {
+        "image_url": "/images/species/punasotka.jpg",
+        "thumbnail_url": "/images/species/punasotka.jpg",
+        "photographer": "Dion Art",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BD%D1%8B%D1%80%D0%BE%D0%BA_(Aythya_ferina,_mas),_%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.jpg",
+        "attribution": "Dion Art / CC BY-SA 4.0",
+        "file_name": "Красноголовый_нырок_(Aythya_ferina,_mas),_Белое_озеро.jpg"
+      },
+      {
+        "image_url": "/images/species/punasotka-1.jpg",
+        "thumbnail_url": "/images/species/punasotka-1.jpg",
+        "file_name": "Aythya ferina Sandwell 2.jpg",
+        "photographer": "Tony Hisgett from Birmingham, UK",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aythya_ferina_Sandwell_2.jpg",
+        "attribution": "Tony Hisgett from Birmingham, UK / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/punasotka-2.jpg",
+        "thumbnail_url": "/images/species/punasotka-2.jpg",
+        "file_name": "Common Pochard 2026 04 06 04.jpg",
+        "photographer": "Alexis Lours",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Common_Pochard_2026_04_06_04.jpg",
+        "attribution": "Alexis Lours / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "haahka",
+    "nameFi": "Haahka",
+    "nameSv": "Ejder",
+    "nameEn": "Common Eider",
+    "scientific": "Somateria mollissima",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (taantunut; metsästys rajoitettu)",
+    "description": "Suurin pohjolainen vesilintu. Koiraalla on valkoinen selkä ja vatsa, mustat takapuolet ja vihertävä niska. Naaras on ruskearaitainen. Pesii merenrannoilla ja on paikkakollinen. Taantunut laji, jonka metsästys on rajoitettu vain uroshaahkaan keväällä.",
+    "identificationTips": "Koiran valko-musta puku ja suuri koko. Naaras on ruskearaitainen, ja sen erottaa muista naarassorsista paksuhkoista muodostaan.",
+    "images": [
+      {
+        "image_url": "/images/species/haahka.jpg",
+        "thumbnail_url": "/images/species/haahka.jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Somateria_mollissima_male_female.jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5",
+        "file_name": "Somateria_mollissima_male_female.jpg"
+      },
+      {
+        "image_url": "/images/species/haahka-1.jpg",
+        "thumbnail_url": "/images/species/haahka-1.jpg",
+        "file_name": "Somateria mollissima male..jpg",
+        "photographer": "Andreas Trepte",
+        "license": "CC BY-SA 2.5",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Somateria_mollissima_male..jpg",
+        "attribution": "Andreas Trepte / CC BY-SA 2.5"
+      },
+      {
+        "image_url": "/images/species/haahka-2.jpg",
+        "thumbnail_url": "/images/species/haahka-2.jpg",
+        "file_name": "Common eider female at Jones Beach (04713).jpg",
+        "photographer": "Rhododendrites",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Common_eider_female_at_Jones_Beach_(04713).jpg",
+        "attribution": "Rhododendrites / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "alli",
+    "nameFi": "Alli",
+    "nameSv": "Alfågel",
+    "nameEn": "Long-tailed Duck",
+    "scientific": "Clangula hyemalis",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (vain merialueilla, kiintiö)",
+    "wikiTitle": "Alli (lintu)",
+    "description": "Taantunut, pikkuruinen merisukeltaja, jolla on pitkä, jäykkä pystypyrstö. Puku vaihtelee voimakkaasti kesän ja talven välillä. Taitava lentäjä, joka yleensä nousee vedestä suoraan ylös. Metsästys sallittu vain merialueilla ja saalisilmoitusvelvollinen.",
+    "identificationTips": "Pitkä pystyyn osoittava pyrstö ja pieni koko. Lento on nopeaa ja suoraviivaista, ja lintu nousee vedestä suoraan pystyyn.",
+    "images": [
+      {
+        "image_url": "/images/species/alli.jpg",
+        "thumbnail_url": "/images/species/alli.jpg",
+        "photographer": "Wolfgang Wander",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Long-tailed-duck_(cropped).jpg",
+        "attribution": "Wolfgang Wander / CC BY-SA 3.0",
+        "file_name": "Long-tailed-duck_(cropped).jpg"
+      },
+      {
+        "image_url": "/images/species/alli-1.jpg",
+        "thumbnail_url": "/images/species/alli-1.jpg",
+        "file_name": "Long-tailed-duck.jpg",
+        "photographer": "Wolfgang Wander",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Long-tailed-duck.jpg",
+        "attribution": "Wolfgang Wander / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/alli-2.jpg",
+        "thumbnail_url": "/images/species/alli-2.jpg",
+        "file_name": "Clangula-hyemalis-011.jpg",
+        "photographer": "No machine-readable author provided. Mdf assumed (based on copyright claims).",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Clangula-hyemalis-011.jpg",
+        "attribution": "No machine-readable author provided. Mdf assumed (based on copyright claims). / CC BY-SA 3.0"
+      }
+    ]
+  },
+  {
+    "id": "tukkakoskelo",
+    "nameFi": "Tukkakoskelo",
+    "nameSv": "Småskrake",
+    "nameEn": "Red-breasted Merganser",
+    "scientific": "Mergus serrator",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 3,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu)",
+    "description": "Keskikokoinen saukkosorsa, jolla on töyhtöinen tumma pää ja pitkä, kapea, hammastettu nokka. Koiralla on tumma pää, valkoinen kaularengas ja ruskearaitainen rinta. Naaras on harmaampi ja tummapäinen.",
+    "identificationTips": "Töyhtöinen pää, kapea nokka ja koiran valkoinen kaularengas. Vertaa isokoskeloon: tukkakoskelo on pienempi ja sen rinta on ruskearaitainen.",
+    "images": [
+      {
+        "image_url": "/images/species/tukkakoskelo.jpg",
+        "thumbnail_url": "/images/species/tukkakoskelo.jpg",
+        "photographer": "B.Folkstedt",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser.jpg",
+        "attribution": "B.Folkstedt / CC BY-SA 3.0",
+        "file_name": "Red-breasted_merganser.jpg"
+      },
+      {
+        "image_url": "/images/species/tukkakoskelo-1.jpg",
+        "thumbnail_url": "/images/species/tukkakoskelo-1.jpg",
+        "file_name": "Red-breasted merganser female in CP (40744).jpg",
+        "photographer": "Rhododendrites",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red-breasted_merganser_female_in_CP_(40744).jpg",
+        "attribution": "Rhododendrites / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/tukkakoskelo-2.jpg",
+        "thumbnail_url": "/images/species/tukkakoskelo-2.jpg",
+        "file_name": "Mergus serrator -New Jersey -USA -winter-8.jpg",
+        "photographer": "Peter Massas",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mergus_serrator_-New_Jersey_-USA_-winter-8.jpg",
+        "attribution": "Peter Massas / CC BY-SA 2.0"
+      }
+    ]
+  },
+  {
+    "id": "isokoskelo",
+    "nameFi": "Isokoskelo",
+    "nameSv": "Storskrake",
+    "nameEn": "Goosander",
+    "scientific": "Mergus merganser",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 2,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu)",
+    "description": "Suurin koskeloista. Koiras on yleensä valkoinen, ja sen selkä on musta ja vatsa vaaleanpunainen. Naaras on harmaa, ja sen pää on punaruskea ja töyhtöinen. Kalastaa jokien ja järvien vedessä.",
+    "identificationTips": "Suuri koko, koiran valkoinen ruumis ja musta selkä. Naaraan punaruskea pää ilman selviä raitoja erottaa tukkakoskelosta.",
+    "images": [
+      {
+        "image_url": "/images/species/isokoskelo.jpg",
+        "thumbnail_url": "/images/species/isokoskelo.jpg",
+        "photographer": "User HBD on de.wikipedia",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gaensesaeger.jpg",
+        "attribution": "User HBD on de.wikipedia / CC BY-SA 3.0",
+        "file_name": "Gaensesaeger.jpg"
+      },
+      {
+        "image_url": "/images/species/isokoskelo-1.jpg",
+        "thumbnail_url": "/images/species/isokoskelo-1.jpg",
+        "file_name": "Mergus merganser -Sandwell -England -male-8.jpg",
+        "photographer": "Tony Hisgett",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mergus_merganser_-Sandwell_-England_-male-8.jpg",
+        "attribution": "Tony Hisgett / CC BY 2.0"
+      },
+      {
+        "image_url": "/images/species/isokoskelo-2.jpg",
+        "thumbnail_url": "/images/species/isokoskelo-2.jpg",
+        "file_name": "Head of a Mergus merganser merganser (female) - Geneva lake - GT 2025.jpg",
+        "photographer": "Terragio67",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Head_of_a_Mergus_merganser_merganser_(female)_-_Geneva_lake_-_GT_2025.jpg",
+        "attribution": "Terragio67 / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "nokikana",
+    "nameFi": "Nokikana",
+    "nameSv": "Sothöna",
+    "nameEn": "Eurasian Coot",
+    "scientific": "Fulica atra",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin (vesilintu)",
+    "description": "Höyhenpeitteeltään musta, notkealiikkeinen vesilintu, jonka erottaa selvästi valkoinen otsakilpi ja nokka. Liikkuu vedessä nykimällä ja hyppää usein pintaan. Pesii järvillä ja rannikkovesillä.",
+    "identificationTips": "Kokonaan musta linnuista erottuu valkoinen otsakilpi ja nokka. Lennossa näkyy myös valkoiset peräpeili ja takaruumis.",
+    "images": [
+      {
+        "image_url": "/images/species/nokikana.jpg",
+        "thumbnail_url": "/images/species/nokikana.jpg",
+        "photographer": "Dion Art",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9B%D1%8B%D1%81%D1%83%D1%85%D0%B0_(Fulica_atra),_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+        "attribution": "Dion Art / CC BY-SA 4.0",
+        "file_name": "Лысуха_(Fulica_atra),_Калининград.jpg"
+      },
+      {
+        "image_url": "/images/species/nokikana-1.jpg",
+        "thumbnail_url": "/images/species/nokikana-1.jpg",
+        "file_name": "Eurasian Coot.jpg",
+        "photographer": "Noodle snacks",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Eurasian_Coot.jpg",
+        "attribution": "Noodle snacks / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/nokikana-2.jpg",
+        "thumbnail_url": "/images/species/nokikana-2.jpg",
+        "file_name": "Fulica atra - Common coot, Adana 2016-11-12 01-1.jpg",
+        "photographer": "Zeynel Cebeci",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Fulica_atra_-_Common_coot,_Adana_2016-11-12_01-1.jpg",
+        "attribution": "Zeynel Cebeci / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "merimetso",
+    "nameFi": "Merimetso",
+    "nameSv": "Storskarv",
+    "nameEn": "Great Cormorant",
+    "scientific": "Phalacrocorax carbo",
+    "type": "lintu",
+    "group": "Vesilinnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin (pyydettävä)",
+    "description": "Suuri, musta vesilintu, jolla on pitkä koukkukärkinen nokka ja sähköisen musta höyhenpuku. Istuu usein kivillä ja laiturilla siivet levällään kuivattelemassa. Kalastaa ahkerasti, ja sen metsästystä säännellään.",
+    "identificationTips": "Suuri musta lintu, pitkä koukkunokka ja siipien levittäminen kuivatuksessa. Lennossa kaula on ojossa.",
+    "images": [
+      {
+        "image_url": "/images/species/merimetso.jpg",
+        "thumbnail_url": "/images/species/merimetso.jpg",
+        "photographer": "Tuntematon",
+        "license": "CC BY-SA 3.0",
+        "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo02.jpg",
+        "attribution": "Tuntematon / CC BY-SA 3.0",
+        "file_name": "Phalacrocorax_carbo02.jpg"
+      },
+      {
+        "image_url": "/images/species/merimetso-1.jpg",
+        "thumbnail_url": "/images/species/merimetso-1.jpg",
+        "file_name": "Phalacrocorax carbo Vic.jpg",
+        "photographer": "JJ Harrison ( https://www.jjharrison.com.au/ )",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_Vic.jpg",
+        "attribution": "JJ Harrison ( https://www.jjharrison.com.au/ ) / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/merimetso-2.jpg",
+        "thumbnail_url": "/images/species/merimetso-2.jpg",
+        "file_name": "Phalacrocorax carbo (39763297602).jpg",
+        "photographer": "Rory from Glasgow, United Kingdom",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Phalacrocorax_carbo_(39763297602).jpg",
+        "attribution": "Rory from Glasgow, United Kingdom / CC BY 2.0"
+      }
+    ]
+  },
+  {
+    "id": "valkoposkihanhi",
+    "nameFi": "Valkoposkihanhi",
+    "nameSv": "Vitkindad gås",
+    "nameEn": "Barnacle Goose",
+    "scientific": "Branta leucopsis",
+    "type": "lintu",
+    "group": "Hanhet",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Riistaeläin (metsästysaika rajoitettu)",
+    "description": "Pieni, mustavalkoinen hanhi, jolla on musta niska ja rinta sekä valkoinen poski ja otsa. Esiintyy Suomessa runsaasti rannikoilla ja saaristossa, ja se pesii usein rakennuksissa. Metsästysaika on lyhyempi kuin muilla hanhilla.",
+    "identificationTips": "Valkoinen poski ja otsa, musta niska ja rinta. Pieni koko ja lyhyt nokka erottavat merihanhesta.",
+    "images": [
+      {
+        "image_url": "/images/species/valkoposkihanhi.jpg",
+        "thumbnail_url": "/images/species/valkoposkihanhi.jpg",
+        "photographer": "Andrey from Finland",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Branta_leucopsis_-standing_in_a_field-8.jpg",
+        "attribution": "Andrey from Finland / CC BY 2.0",
+        "file_name": "Branta_leucopsis_-standing_in_a_field-8.jpg"
+      },
+      {
+        "image_url": "/images/species/valkoposkihanhi-1.jpg",
+        "thumbnail_url": "/images/species/valkoposkihanhi-1.jpg",
+        "file_name": "Barnacle goose (Branta leucopsis).jpg",
+        "photographer": "Andreas Weith",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Barnacle_goose_(Branta_leucopsis).jpg",
+        "attribution": "Andreas Weith / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/valkoposkihanhi-2.jpg",
+        "thumbnail_url": "/images/species/valkoposkihanhi-2.jpg",
+        "file_name": "Barnacle goose 2024 02 17.jpg",
+        "photographer": "Alexis Lours",
+        "license": "CC BY 4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Barnacle_goose_2024_02_17.jpg",
+        "attribution": "Alexis Lours / CC BY 4.0"
+      }
+    ]
+  },
+  {
+    "id": "korppi",
+    "nameFi": "Korppi",
+    "nameSv": "Korp",
+    "nameEn": "Common Raven",
+    "scientific": "Corvus corax",
+    "type": "lintu",
+    "group": "Varislinnut",
+    "difficulty": 2,
+    "huntable": false,
+    "status": "Rauhoitettu (poronhoitoalueella rauhoittamaton)",
+    "wikiTitle": "Korppi",
+    "description": "Suurin varislintumme, jolla on voimakas, paksu nokka, kiilamainen pyrstö ja tasaantunut lento. Elää monipuolisesti metsistä tuntureille, ja se on älykäs ja sosiaalinen. Rauhoitettu muualla paitsi poronhoitoalueella, jossa sen pyynti on sallittua.",
+    "identificationTips": "Suuri koko, kiilamainen pyrstö ja paksu nokka erottavat variksesta ja naakasta. Lento on suoraviivainen ja voimakas.",
+    "images": [
+      {
+        "image_url": "/images/species/korppi.jpg",
+        "thumbnail_url": "/images/species/korppi.jpg",
+        "photographer": "Stolz, Gary M.",
+        "license": "Public domain",
+        "license_url": null,
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_corax_(FWS).jpg",
+        "attribution": "Stolz, Gary M. / Public domain",
+        "file_name": "Corvus_corax_(FWS).jpg"
+      },
+      {
+        "image_url": "/images/species/korppi-1.jpg",
+        "thumbnail_url": "/images/species/korppi-1.jpg",
+        "file_name": "Corvus corax ad berlin 090516.jpg",
+        "photographer": "Accipiter (R. Altenkamp, Berlin)",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_corax_ad_berlin_090516.jpg",
+        "attribution": "Accipiter (R. Altenkamp, Berlin) / CC BY-SA 3.0"
+      },
+      {
+        "image_url": "/images/species/korppi-2.jpg",
+        "thumbnail_url": "/images/species/korppi-2.jpg",
+        "file_name": "Corvus corax clarionensis, Point Reyes National Seashore.jpg",
+        "photographer": "Frank Schulenburg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Corvus_corax_clarionensis,_Point_Reyes_National_Seashore.jpg",
+        "attribution": "Frank Schulenburg / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "rakattirastas",
+    "nameFi": "Räkättirastas",
+    "nameSv": "Björktrast",
+    "nameEn": "Fieldfare",
+    "scientific": "Turdus pilaris",
+    "type": "lintu",
+    "group": "Muut linnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Rauhoittamaton lintu",
+    "description": "Keskikokoinen, harmaapäinen rastas, jolla on ruskorinta ja valkoinen vatsa. Liikkuu usein parvissa, ja se on rauhoittamaton lintu, jota saa metsästää metsästysajoista riippuen.",
+    "identificationTips": "Harmaa pää ja takaperä, ruskorinta ja valkoinen vatsa. Parvien liikkuminen on tyypillistä.",
+    "images": [
+      {
+        "image_url": "/images/species/rakattirastas.jpg",
+        "thumbnail_url": "/images/species/rakattirastas.jpg",
+        "photographer": "Adrian Grycuk",
+        "license": "CC BY-SA 3.0 pl",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kwiczo%C5%82_Turdus_pilaris_Warszawa_2017.jpg",
+        "attribution": "Adrian Grycuk / CC BY-SA 3.0 pl",
+        "file_name": "Kwiczoł_Turdus_pilaris_Warszawa_2017.jpg"
+      },
+      {
+        "image_url": "/images/species/rakattirastas-1.jpg",
+        "thumbnail_url": "/images/species/rakattirastas-1.jpg",
+        "file_name": "Björktrast (Turdus pilaris)-4.jpg",
+        "photographer": "Frankie Fouganthin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bj%C3%B6rktrast_(Turdus_pilaris)-4.jpg",
+        "attribution": "Frankie Fouganthin / CC BY-SA 4.0"
+      },
+      {
+        "image_url": "/images/species/rakattirastas-2.jpg",
+        "thumbnail_url": "/images/species/rakattirastas-2.jpg",
+        "file_name": "A fieldfare with a worm.jpg",
+        "photographer": "Alexey laa",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_fieldfare_with_a_worm.jpg",
+        "attribution": "Alexey laa / CC BY-SA 4.0"
+      }
+    ]
+  },
+  {
+    "id": "kesykyyhky",
+    "nameFi": "Kesykyyhky",
+    "nameSv": "Tamduva",
+    "nameEn": "Rock Dove (feral)",
+    "scientific": "Columba livia domestica",
+    "type": "lintu",
+    "group": "Muut linnut",
+    "difficulty": 1,
+    "huntable": true,
+    "status": "Rauhoittamaton lintu",
+    "description": "Villiyntynyt kesykyyhky, jonka väritys vaihtelee suuresti. Liikkuu kaupungeissa ja maaseudun rakennuksissa, ja se on rauhoittamaton lintu. Erottuu sepelkyyhkystä pienempänä ja ilman sepeläikkää.",
+    "identificationTips": "Pienempi kuin sepelkyyhky, ilman valkoista sepeläikkää. Väritys vaihtelee harmaasta mustaan ja punaruskeaan.",
+    "images": [
+      {
+        "image_url": "/images/species/kesykyyhky.jpg",
+        "thumbnail_url": "/images/species/kesykyyhky.jpg",
+        "photographer": "Docweird",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Columba_Livia_from_Finland-1.jpg",
+        "attribution": "Docweird / CC BY 3.0",
+        "file_name": "Columba_Livia_from_Finland-1.jpg"
+      },
+      {
+        "image_url": "/images/species/kesykyyhky-1.jpg",
+        "thumbnail_url": "/images/species/kesykyyhky-1.jpg",
+        "file_name": "Feral pigeon (Columba livia domestica), 2017-05-27.jpg",
+        "photographer": "Lewis Hulbert",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "Wikimedia Commons",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Feral_pigeon_(Columba_livia_domestica),_2017-05-27.jpg",
+        "attribution": "Lewis Hulbert / CC BY-SA 4.0"
+      }
+    ]
+  }
+]

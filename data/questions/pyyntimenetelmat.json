@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pyyntimenetelmat-001",
+    "category": "pyyntimenetelmat",
+    "difficulty": 1,
+    "question": "Mitä tarkoittaa metsästysmuoto?",
+    "answers": [
+      { "text": "Tiettyä tapaa ja välineistöä, jolla riistaa pyydetään", "correct": true },
+      { "text": "Metsästyslain kokonaisuutta", "correct": false },
+      { "text": "Riistaeläinten lukumäärää", "correct": false },
+      { "text": "Aseen kaliiperia", "correct": false }
+    ],
+    "explanation": "Metsästysmuotoja ovat esimerkiksi koiran käyttö, hirvijahti, linnustus, loukutus ja passitus. Kullekin lajille sallitut menetelmät on määritelty.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästysmuodot", "perusteet"]
+  },
+  {
+    "id": "pyyntimenetelmat-002",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mikä on ajavan koiran rooli hirvijahdissa?",
+    "answers": [
+      { "text": "Se etsii ja ajaa hirven liikkeelle passimiesten ulottuville", "correct": true },
+      { "text": "Se lopettaa saaliin", "correct": false },
+      { "text": "Se kuljettaa patruunat", "correct": false },
+      { "text": "Se ilmoittaa sääolosuhteet", "correct": false }
+    ],
+    "explanation": "Ajava koira etsii ja ajaa riistan liikkeelle kohti passimiehiä. Koiran tulee olla koulutettu eikä se saa vahingoittaa riistaa.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koira", "hirvijahti"]
+  },
+  {
+    "id": "pyyntimenetelmat-003",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mitä on otettava huomioon koiran käytössä metsästyslain näkökulmasta?",
+    "answers": [
+      { "text": "Koiran käyttö on sallittua vain säädettyinä aikoina ja tietyin rajoituksin", "correct": true },
+      { "text": "Koiraa saa käyttää aina ja missä tahansa", "correct": false },
+      { "text": "Koiraa ei saa käyttää lainkaan", "correct": false },
+      { "text": "Koiran käyttö on sallittua vain suurriistan metsästyksessä", "correct": false }
+    ],
+    "explanation": "Koiran käytölle on säädetty metsästysajat ja -rajoitukset lajikohtaisesti. Kennel- tai metsästyskoirarekisteriin liittyvät vaatimukset on myös huomioitava.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koira", "lainsäädäntö"]
+  },
+  {
+    "id": "pyyntimenetelmat-004",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Mitä tarkoittaa passitus metsästysmuotona?",
+    "answers": [
+      { "text": "Metsästäjä odottaa riistan liikkuvan ohi sovitussa paikassa", "correct": true },
+      { "text": "Metsästäjä kuljettaa saalista", "correct": false },
+      { "text": "Metsästäjä pesee aseen", "correct": false },
+      { "text": "Metsästäjä pystyttää telttaa", "correct": false }
+    ],
+    "explanation": "Passituksessa metsästäjä odottaa riistaa sovitussa paikassa ja ampuu sen. Passipaikat on sovittava turvallisesti ja ampumasektorit huomioiden.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["passitus", "metsästysmuodot"]
+  },
+  {
+    "id": "pyyntimenetelmat-005",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Mitä loukku ja ansa eroavat toisistaan?",
+    "answers": [
+      { "text": "Loukku on tappava tai elävänä pyytävä, ansa on yleensä tappava", "correct": true },
+      { "text": "Loukku ja ansa ovat sama asia", "correct": false },
+      { "text": "Loukku on tarkoitettu vain lintujen pyyntiin", "correct": false },
+      { "text": "Ansaa saa käyttää aina vapaasti", "correct": false }
+    ],
+    "explanation": "Pyyntivälineiden käyttö on tarkoin säänneltyä. Loukkujen ja ansojen on täytettävä eläinsuojeluvaatimukset, eikä niiden käyttö ole sallittua kaikkialla.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["pyyntivälineet", "loukut"]
+  },
+  {
+    "id": "pyyntimenetelmat-006",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mitä tulee huomioida vesilintujen metsästyksessä sorsaparan tai houkuttimen käytössä?",
+    "answers": [
+      { "text": "Houkuttimien ja valelintujen käyttöä on rajoitettu lajikohtaisesti", "correct": true },
+      { "text": "Niitä saa käyttää aina ilman rajoituksia", "correct": false },
+      { "text": "Ne ovat aina kiellettyjä", "correct": false },
+      { "text": "Niiden käyttö ei liity lainsäädäntöön", "correct": false }
+    ],
+    "explanation": "Houkuttimien ja valelintujen käyttöä voidaan rajoittaa lajikohtaisesti. On varmistettava nykyinen sääntely ennen käyttöä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["vesilinnut", "houkuttimet"]
+  },
+  {
+    "id": "pyyntimenetelmat-007",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mihin tarkoitukseen haavakko- eli jälkikoiraa käytetään?",
+    "answers": [
+      { "text": "Haavoittuneen eläimen jäljittämiseen ja löytämiseen", "correct": true },
+      { "text": "Riistan ajamiseen passimiehille", "correct": false },
+      { "text": "Riistan ruokintaan", "correct": false },
+      { "text": "Patruunoiden kuljettamiseen", "correct": false }
+    ],
+    "explanation": "Jälkikoiran tehtävä on löytää haavoittunut eläin mahdollisimman nopeasti. Hyvä jälkityö on eettisen metsästyksen kulmakivi.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["jälkikoira", "haavakko"]
+  },
+  {
+    "id": "pyyntimenetelmat-008",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Mikä on kiellettyä metsästyksessä koiran avulla?",
+    "answers": [
+      { "text": "Koiran käyttäminen kielletyllä lailla tai kiellettynä aikana", "correct": true },
+      { "text": "Koiran palkitseminen työstä", "correct": false },
+      { "text": "Koiran vesitys metsässä", "correct": false },
+      { "text": "Koiran kanssa liikkuminen maastossa", "correct": false }
+    ],
+    "explanation": "Koiran käyttö on sidottu laji- ja aikarajoituksiin. Kiellettynä aikana tapahtuva koiran käyttö on metsästysrikkomus.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["koira", "kielletty"]
+  },
+  {
+    "id": "pyyntimenetelmat-009",
+    "category": "pyyntimenetelmat",
+    "difficulty": 2,
+    "question": "Mitä tarkoittaa metsästys muun kuin koiran avulla?",
+    "answers": [
+      { "text": "Esim. passitus, houkuttelu ja pyydystäminen ilman koiraa", "correct": true },
+      { "text": "Ainoastaan ampuminen kiväärillä", "correct": false },
+      { "text": "Ainoastaan lentäen", "correct": false },
+      { "text": "Ainoastaan veneestä käsin", "correct": false }
+    ],
+    "explanation": "Metsästyksessä voi käyttää monia menetelmiä ilman koiraa, kuten passitusta ja houkuttelua. Menetelmän on oltava lajille sallittu.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsästysmuodot", "passitus"]
+  },
+  {
+    "id": "pyyntimenetelmat-010",
+    "category": "pyyntimenetelmat",
+    "difficulty": 3,
+    "question": "Miksi metsästysmuodon valinnalla on merkitystä turvallisuuden kannalta?",
+    "answers": [
+      { "text": "Eri menetelmissä on erilaiset riskit ja vaatimukset (esim. ampumasektorit ja koiran liikkuminen)", "correct": true },
+      { "text": "Menetelmällä ei ole vaikutusta turvallisuuteen", "correct": false },
+      { "text": "Kaikissa menetelmissä on samat säännöt", "correct": false },
+      { "text": "Turvallisuus riippuu vain aseesta", "correct": false }
+    ],
+    "explanation": "Menetelmäkohtaiset riskit on tunnistettava. Esimerkiksi ajavan koiran kanssa toimittaessa ampuma-alueet on sovittava erityisen huolellisesti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "metsästysmuodot"]
+  }
+]

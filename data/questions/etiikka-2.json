@@ -1,0 +1,182 @@
+[
+  {
+    "id": "etiikka-011",
+    "category": "etiikka",
+    "difficulty": 1,
+    "question": "Mitä tarkoitetaan lauseella \"metsästäjä edustaa aina koko metsästäjäkuntaa\"?",
+    "answers": [
+      { "text": "Jokainen metsästäjä vaikuttaa toiminnallaan metsästyksen imagoon ja hyväksyttävyyteen", "correct": true },
+      { "text": "Metsästäjällä on viranomaisvaltuudet maastossa", "correct": false },
+      { "text": "Metsästäjä edustaa Riistakeskusta", "correct": false },
+      { "text": "Lauseella ei ole käytännön merkitystä", "correct": false }
+    ],
+    "explanation": "Metsästäjä edustaa aina koko metsästäjäkuntaa: huono käytös, roskat maastossa tai epäasialliset saaliskuvat heijastuvat koko harrastuksen imagoon.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "imago"]
+  },
+  {
+    "id": "etiikka-012",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mitä Riistakeskus suosittelee otettavaksi huomioon ennen saaliskuvien jakamista sosiaalisessa mediassa?",
+    "answers": [
+      { "text": "Kerrataan hyvän saaliskuvan kriteerit ja mietitään, lisääkö kuva metsästyksen hyväksyttävyyttä", "correct": true },
+      { "text": "Saaliskuvia ei saa jakaa missään", "correct": false },
+      { "text": "Kuvat kannattaa jakaa heti ilman pohtimista", "correct": false },
+      { "text": "Vain mainostoimisto voi julkaista saaliskuvia", "correct": false }
+    ],
+    "explanation": "Ennen julkaisua kerrataan hyvän saaliskuvan kriteerit ja pohditaan, lisääkö kuva metsästyksen hyväksyttävyyttä. Epäasialliset kuvat vahingoivat koko harrastusta.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saaliskuvat", "sosiaalinen media"]
+  },
+  {
+    "id": "etiikka-013",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mitä Riistakeskuksen mukaan metsästäjäpäivän onnistumiselle on ominaista?",
+    "answers": [
+      { "text": "Metsästäjspäivä voi olla onnistunut, vaikka saalista ei tulisikaan", "correct": true },
+      { "text": "Saalis on aina mittari onnistumiselle", "correct": false },
+      { "text": "Vain suuret saalismäärät merkitsevät onnistumista", "correct": false },
+      { "text": "Onnistuminen mitataan vain kuljetuilla kilometreillä", "correct": false }
+    ],
+    "explanation": "Metsästäjspäivä voi olla onnistunut, vaikka saalista ei tulisikaan. Luonnossa liikkuminen, lajien havainnointi ja seuran kanssa oleminen ovat arvokkaita kokemuksia itsessään.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "metsästäjspäivä"]
+  },
+  {
+    "id": "etiikka-014",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Mitä \"näe vaivaa\" -periaate tarkoittaa metsästyksessä?",
+    "answers": [
+      { "text": "Saalista ei pyritä saamaan helpoimmalla mahdollisella tavalla, vaan taitoa ja liikkumista käyttäen", "correct": true },
+      { "text": "Saalis haetaan autolla helpoimmin", "correct": false },
+      { "text": "Vain suurriistan metsästyksessä vaaditaan vaivannäköä", "correct": false },
+      { "text": "Vaivannäköä ei tarvita, jos ase on hyvä", "correct": false }
+    ],
+    "explanation": "Älä pyri saamaan saalista helpoimmalla mahdollisella tavalla. Parhaan mielihyvän saat näkemällä vaivaa ja käyttämällä taitoa – esimerkiksi liikkumalla itse metsässä, ei auton avulla.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "taito"]
+  },
+  {
+    "id": "etiikka-015",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Miten Riistakeskuksen mukaan kanalintusaalista suositellaan kunnioittamaan?",
+    "answers": [
+      { "text": "Käsittelemällä saalis arvostavasti ja käyttämällä se tarkoin hyväksi", "correct": true },
+      { "text": "Saalis voidaan jättää metsään jos se on pieni", "correct": false },
+      { "text": "Saalis voidaan heittää roskiin jos se on liian pieni", "correct": false },
+      { "text": "Saaliin kunnioittamisella ei ole merkitystä", "correct": false }
+    ],
+    "explanation": "Saalista kunnioitetaan käsittelemällä se arvostavasti ja käyttämällä se tarkoin hyväksi. Kanalintuaterian nauttiminen on harvinainen juhlahetki.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "saalis"]
+  },
+  {
+    "id": "etiikka-016",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Miten metsästäjä voi olla kateellinen tai kehua saaliistaan?",
+    "answers": [
+      { "text": "Kumpaakaan ei suositella – saalista ei kehuta eikä muiden saaliista olla kateellisia", "correct": true },
+      { "text": "Kehuminen on tervetullutta, kateus ei", "correct": false },
+      { "text": "Kateus on hyvä motivaation lähde", "correct": false },
+      { "text": "Kehuminen kannustaa muita metsästäjiä", "correct": false }
+    ],
+    "explanation": "Älä kehu lintusaaliillasi tai ole kateellinen muiden saamasta saaliista. Metsästyksen arvo ei ole saaliin määrässä eikä vertailussa.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "yhteisö"]
+  },
+  {
+    "id": "etiikka-017",
+    "category": "etiikka",
+    "difficulty": 3,
+    "question": "Miksi ampumataito kannattaa ylläpitää ampumaradalla ennen metsästyskautta?",
+    "answers": [
+      { "text": "Varmistetaan varmat laukaukset ja vähennetään haavakoiden määrää", "correct": true },
+      { "text": "Radalla ampuminen on lakisääteinen velvoite", "correct": false },
+      { "text": "Radalla oppii vain ampumaan nopeammin", "correct": false },
+      { "text": "Ampumataidolla ei ole yhteyttä haavakoihin", "correct": false }
+    ],
+    "explanation": "Taitoa ampua liikkuvaan kohteeseen on hyvä ylläpitää harjoittelemalla ampumaradalla ennen metsästyskauden alkua. Hyvä ammunta vähentää haavakoita ja on eettisen metsästyksen perusta.",
+    "source": { "title": "Suomen riistakeskus – Vastuullinen vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ampumataito", "eettisyys"]
+  },
+  {
+    "id": "etiikka-018",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Miten metsästäjä voi huomioida maanomistajat ja muut luonnossa liikkujat?",
+    "answers": [
+      { "text": "Toimimalla sovittujen käytäntöjen mukaan, siististi ja huomioiden muiden liikkumisen", "correct": true },
+      { "text": "Vain ilmoittamalla maastossa liikkumisesta poliisille", "correct": false },
+      { "text": "Maanomistajilla ei ole merkitystä metsästyksessä", "correct": false },
+      { "text": "Muut luonnossa liikkujat eivät kuulu metsästäjän huomioon", "correct": false }
+    ],
+    "explanation": "Metsästäjä ottaa huomioon maanomistajat ja muut luonnossa liikkujat. Tämä kuuluu hyvään metsästyksen käytäntöön ja yhteiskunnalliseen vastuuseen.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["etiikka", "maanomistajat"]
+  },
+  {
+    "id": "etiikka-019",
+    "category": "etiikka",
+    "difficulty": 3,
+    "question": "Miksi Riistakeskus suosittelee valikoivia pyyntimenetelmiä?",
+    "answers": [
+      { "text": "Ne mahdollistavat valikoivan metsästyksen ja pitävät haavoittumisriskin pienenä", "correct": true },
+      { "text": "Ne lisäävät saalismäärää", "correct": false },
+      { "text": "Ne ovat halvempia", "correct": false },
+      { "text": "Ne eivät vaikuta riistakantaan", "correct": false }
+    ],
+    "explanation": "Käytetään pyyntimenetelmiä, joissa valikoiva metsästys on mahdollista ja haavoittumisriski on pieni. Tämä on keskeinen osa vastuullista pyyntiä.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["valikointi", "pyyntimenetelmät"]
+  },
+  {
+    "id": "etiikka-020",
+    "category": "etiikka",
+    "difficulty": 2,
+    "question": "Miten metsästäjä voi osallistua riistanhoitoon käytännössä?",
+    "answers": [
+      { "text": "Osallistumalla kannanarviointeihin, laskentoihin ja pienpetopyyntiin", "correct": true },
+      { "text": "Vain osallistumalla riistanhoitoseuran kokouksiin", "correct": false },
+      { "text": "Riistanhoitoon voi osallistua vain virkansa puolesta", "correct": false },
+      { "text": "Riistanhoito on vain viranomaisten tehtävä", "correct": false }
+    ],
+    "explanation": "Metsästäjä voi osallistua riistanhoitoon mm. osallistumalla riistakolmiolaskentoihin, vesilintulaskentoihin, kannanarviointeihin ja tekemällä pienpetopyyntiä pesinnän tueksi.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistanhoito", "osallistuminen"]
+  }
+]

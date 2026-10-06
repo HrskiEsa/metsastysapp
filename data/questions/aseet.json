@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aseet-001",
+    "category": "aseet",
+    "difficulty": 1,
+    "question": "Mikä on yleisin metsästysase Suomessa?",
+    "answers": [
+      { "text": "Kivääri ja haulikko", "correct": true },
+      { "text": "Revolveri", "correct": false },
+      { "text": "Pistooli", "correct": false },
+      { "text": "Konepistooli", "correct": false }
+    ],
+    "explanation": "Metsästyksessä käytetään ensisijaisesti kivääriä ja haulikkoa. Esimerkiksi hirvikivääri ja haulikko eri riistalajeille.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseet", "perusteet"]
+  },
+  {
+    "id": "aseet-002",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mitä haulikon kaliiperi tarkoittaa?",
+    "answers": [
+      { "text": "Piipun sisähalkaisijaan sidottua haulikon kokoa, joka ilmaistaan mm. lukuna 12 tai 16", "correct": true },
+      { "text": "Haulien lukumäärää patruunassa", "correct": false },
+      { "text": "Aseen pituutta", "correct": false },
+      { "text": "Panoksen räjähdysainemäärää grammoina", "correct": false }
+    ],
+    "explanation": "Haulikon kaliiperi kertoo piipun halkaisijasta johdetun koon. Yleisiä kaliipereita ovat 12 ja 16.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseet", "kaliiperi"]
+  },
+  {
+    "id": "aseet-003",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mikä on haulikon 'haulikuvio'?",
+    "answers": [
+      { "text": "Haulien osumajakauma maalitaulussa tietystä etäisyydestä ammuttaessa", "correct": true },
+      { "text": "Haulikon piippujen määrä", "correct": false },
+      { "text": "Patruunan ruudissa oleva kuviointi", "correct": false },
+      { "text": "Aseen paino", "correct": false }
+    ],
+    "explanation": "Haulikuvio kertoo, miten haulit jakautuvat osumakohtaan. Kuvio on testattava, jotta tiedetään aseen tehokas ampumaetäisyys.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haulikko", "haulikuvio"]
+  },
+  {
+    "id": "aseet-004",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Mikä on luodin 'lähtönopeus'?",
+    "answers": [
+      { "text": "Luodin nopeus piipun suulta lähdettäessä", "correct": true },
+      { "text": "Aseen lataamiseen kuluva aika", "correct": false },
+      { "text": "Luodin kiihtyvyys maalissa", "correct": false },
+      { "text": "Aseen lukon toimintanopeus", "correct": false }
+    ],
+    "explanation": "Lähtönopeus mitataan piipun suulla. Se vaikuttaa lentorataan, energiaan ja osumatehoon.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ballistiikka", "lähtönopeus"]
+  },
+  {
+    "id": "aseet-005",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mikä on riistanmukainen minimi ase ja patruuna esimerkiksi hirvelle?",
+    "answers": [
+      { "text": "Riittävän suurikaliperinen kivääri, jolla on lain vaatima osumaenergia", "correct": true },
+      { "text": "Haulikko 20/76", "correct": false },
+      { "text": "Pienoiskivääri .22 LR", "correct": false },
+      { "text": "Ilmakivääri", "correct": false }
+    ],
+    "explanation": "Hirvelle vaaditaan riittävän tehokas kivääri ja patruuna. Laissa on säädetty vähimmäisvaatimukset mm. osumaenergialle ja aseen ominaisuuksille.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseet", "hirvi", "säädökset"]
+  },
+  {
+    "id": "aseet-006",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Mitä tarkoittaa aseen 'patruunapesä'?",
+    "answers": [
+      { "text": "Piipun se osa, johon patruuna asetetaan laukaisua varten", "correct": true },
+      { "text": "Aseen perä", "correct": false },
+      { "text": "Lipas", "correct": false },
+      { "text": "Tähtäin", "correct": false }
+    ],
+    "explanation": "Patruunapesä on piipun takaosa, johon patruuna sovitetaan. Pesän mitoitus on kaliiperi- ja patruunakohtainen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseet", "rakenne"]
+  },
+  {
+    "id": "aseet-007",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Miksi aseen piippu on pidettävä aina turvalliseen suuntaan?",
+    "answers": [
+      { "text": "Vahingonlaukauksen estämiseksi ja turvallisuuden varmistamiseksi", "correct": true },
+      { "text": "Aseen ulkonäön vuoksi", "correct": false },
+      { "text": "Piipun puhdistuksen helpottamiseksi", "correct": false },
+      { "text": "Siksi, että ase ei kuluisi", "correct": false }
+    ],
+    "explanation": "Tärkein aseturvallisuuden sääntö on pitää piippu aina turvalliseen suuntaan. Näin vahingonlaukaus ei osu ihmiseen.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["turvallisuus", "aseenkäsittely"]
+  },
+  {
+    "id": "aseet-008",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Mikä on 'rihla-aseen' eli kiväärin rihlauksen tarkoitus?",
+    "answers": [
+      { "text": "Antaa luodille pyörimisliike, joka vakauttaa sen lennon", "correct": true },
+      { "text": "Lisätä ääntä", "correct": false },
+      { "text": "Vähentää luodin nopeutta", "correct": false },
+      { "text": "Koristaa piippua", "correct": false }
+    ],
+    "explanation": "Rihlaus antaa luodille pyörivän liikkeen, mikä vakauttaa lentoradan ja parantaa tarkkuutta.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["aseet", "ballistiikka"]
+  },
+  {
+    "id": "aseet-009",
+    "category": "aseet",
+    "difficulty": 2,
+    "question": "Mitä tulee ottaa huomioon aseen ja patruunan yhteensopivuudessa?",
+    "answers": [
+      { "text": "Patruunan on oltava aseen kaliiperille ja patruunapesälle sopiva", "correct": true },
+      { "text": "Patruuna sopii aina kaikkiin aseisiin", "correct": false },
+      { "text": "Mitä suurempi kaliiperi, sitä parempi aina", "correct": false },
+      { "text": "Patruunan väri kertoo sopivuuden", "correct": false }
+    ],
+    "explanation": "Väärän kokoinen patruuna voi aiheuttaa vakavan vaaratilanteen. Oikea kaliiperi ja pesämitoitus on aina varmistettava.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["patruunat", "turvallisuus"]
+  },
+  {
+    "id": "aseet-010",
+    "category": "aseet",
+    "difficulty": 3,
+    "question": "Miten ampumataitoa kannattaa ylläpitää metsästyskauden ulkopuolella?",
+    "answers": [
+      { "text": "Harjoittelemalla säännöllisesti ampumaradalla ja kuivaharjoittelulla", "correct": true },
+      { "text": "Ampumalla metsässä ilman lupaa", "correct": false },
+      { "text": "Lukemalla pelkästään ohjeita harjoittelematta", "correct": false },
+      { "text": "Lisäämällä aseen kaliiperia", "correct": false }
+    ],
+    "explanation": "Säännöllinen harjoittelu ampumaradalla ja hallittu kuivaharjoittelu parantavat osumatarkkuutta ja siten myös turvallisuutta. Ampumataito on taito, joka vaatii toistuvaa harjoittelua.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["ampumataito", "harjoittelu"]
+  }
+]

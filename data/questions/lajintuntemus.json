@@ -1,0 +1,182 @@
+[
+  {
+    "id": "lajintuntemus-001",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mistä tuntomerkistä metson kana eroaa selvimmin teeren kanasta?",
+    "answers": [
+      { "text": "Pyrstön kärki on pyöreä, kun teeren kanalla se on selvästi haarautunut", "correct": true },
+      { "text": "Silmän väristä", "correct": false },
+      { "text": "Jalkojen sulkapeitteestä", "correct": false },
+      { "text": "Nokan muodosta", "correct": false }
+    ],
+    "explanation": "Metsokanan pyrstön kärki on pyöreä ja koko selvästi teertä suurempi. Teeren kanan pyrstön kärjessä on matala lovi. Kokoa voi arvioida vertaamalla ympäristöön.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kanalinnut", "metsäkanalinnut"]
+  },
+  {
+    "id": "lajintuntemus-002",
+    "category": "lajintuntemus",
+    "difficulty": 1,
+    "question": "Mikä seuraavista on kokonaan valkoinen talvipuvussaan?",
+    "answers": [
+      { "text": "Riekko", "correct": true },
+      { "text": "Pyy", "correct": false },
+      { "text": "Teeri", "correct": false },
+      { "text": "Metso", "correct": false }
+    ],
+    "explanation": "Riekko muuttuu talvella kokonaan valkoiseksi. Pyy, metso ja teeri säilyttävät tumman höyhenpuvun ympäri vuoden.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kanalinnut", "höyhenpuku"]
+  },
+  {
+    "id": "lajintuntemus-003",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Millä tuntomerkillä erotat kärpän ja lumikon talvipuvussa toisistaan?",
+    "answers": [
+      { "text": "Kärpän hännän kärki on musta", "correct": true },
+      { "text": "Lumikon korvat ovat pyöreämmät", "correct": false },
+      { "text": "Kärpän vatsa on harmaa", "correct": false },
+      { "text": "Lumikon jalat ovat mustat", "correct": false }
+    ],
+    "explanation": "Molemmat muuttuvat talvella valkoisiksi, mutta kärpän hännän kärki pysyy mustana. Lumikolla ei ole tummaa hännänpäätä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["pienpedot", "talvipuku"]
+  },
+  {
+    "id": "lajintuntemus-004",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mikä on metsäkauriin varma tuntomerkki valkohäntäpeuraan verrattuna?",
+    "answers": [
+      { "text": "Pieni koko ja takamuksen kirkkaan valkoinen, pyöreä pakaraläikkä", "correct": true },
+      { "text": "Sarvien lukumäärä", "correct": false },
+      { "text": "Korvien muoto", "correct": false },
+      { "text": "Jalkojen pituus", "correct": false }
+    ],
+    "explanation": "Metsäkauris on selvästi valkohäntäpeuraa pienempi ja siro. Takamuksessa on pyöreä valkoinen läikkä, jonka tunnistaa nopeasti.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvieläimet", "tunnistaminen"]
+  },
+  {
+    "id": "lajintuntemus-005",
+    "category": "lajintuntemus",
+    "difficulty": 1,
+    "question": "Mikä hirvieläin nostaa metsästystilanteessa valkoisen 'lipukkeen' pystyyn paetessaan?",
+    "answers": [
+      { "text": "Valkohäntäpeura", "correct": true },
+      { "text": "Hirvi", "correct": false },
+      { "text": "Metsäkauris", "correct": false },
+      { "text": "Poro", "correct": false }
+    ],
+    "explanation": "Valkohäntäpeuran pyrstön alapuoli on valkoinen, ja sitä kutsutaan lipukkeeksi, jonka eläin nostaa pystyyn pakoaikoina. Tuntomerkki on helppo ja nopea havaita.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvieläimet", "tunnistaminen"]
+  },
+  {
+    "id": "lajintuntemus-006",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mistä tunnistat hirven?",
+    "answers": [
+      { "text": "Kyttyräinen selkä, pitkät jalat ja koiraalla lapionmuotoiset sarvet", "correct": true },
+      { "text": "Valkoinen pakaraläikkä", "correct": false },
+      { "text": "Pitkä, suora ja riippuva häntä", "correct": false },
+      { "text": "Täplikäs turkki kesällä", "correct": false }
+    ],
+    "explanation": "Hirven erottaa muista hirvieläimistä kyttyräisestä selästä, pitkistä jaloista ja koiraan lapiosarvista. Vasa on muuten samankaltainen mutta ilman sarvia.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["hirvi", "tunnistaminen"]
+  },
+  {
+    "id": "lajintuntemus-007",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Mistä tunnistat metsäpeuran porosta?",
+    "answers": [
+      { "text": "Metsäpeura on solakampi, pidempijalkaisempi ja sarvet ovat kapeammat", "correct": true },
+      { "text": "Metsäpeuralla on aina valkoinen häntä", "correct": false },
+      { "text": "Porolla ei ole sarvia", "correct": false },
+      { "text": "Metsäpeuran turkki on täysin valkoinen", "correct": false }
+    ],
+    "explanation": "Metsäpeura on luonnonvarainen ja poroa varovaisempi, solakampi ja korkeajalkaisempi, ja sen sarvet ovat yleensä kapeammat. Metsäpeura on rauhoitettu – tunnistaminen on turvallisuuskysymys.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["metsäpeura", "rauhoitettu"]
+  },
+  {
+    "id": "lajintuntemus-008",
+    "category": "lajintuntemus",
+    "difficulty": 4,
+    "question": "Mikä erottaa harmaalokin merilokista?",
+    "answers": [
+      { "text": "Harmaalokin siivet ovat vaaleamman harmaat ja nokka on keltaisempi", "correct": true },
+      { "text": "Harmaalokin jalat ovat mustat", "correct": false },
+      { "text": "Merilokin nokka on keltainen, harmaalokin musta", "correct": false },
+      { "text": "Harmaalokki on suurempi kuin merilokki", "correct": false }
+    ],
+    "explanation": "Merilokki on suurin lokki ja sen selkä ja siivet ovat hyvin tummanharmaat, lähes mustat. Harmaalokki on vaaleampi ja sen nokka on keltainen punaisella täplällä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["lokit", "vaikea tunnistus"]
+  },
+  {
+    "id": "lajintuntemus-009",
+    "category": "lajintuntemus",
+    "difficulty": 2,
+    "question": "Mikä laji on kokonaan rauhoitettu, eikä sitä saa metsästää ilman poikkeuslupaa?",
+    "answers": [
+      { "text": "Ahma", "correct": true },
+      { "text": "Supikoira", "correct": false },
+      { "text": "Varis", "correct": false },
+      { "text": "Orava", "correct": false }
+    ],
+    "explanation": "Ahma on rauhoitettu suurpeto, jonka metsästys edellyttää viranomaisen myöntämää poikkeuslupaa. Supikoira on riistaeläin ja vieraslaji, varis ja orava ovat riistaeläimiä.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["suurpedot", "rauhoitus"]
+  },
+  {
+    "id": "lajintuntemus-010",
+    "category": "lajintuntemus",
+    "difficulty": 3,
+    "question": "Mistä tunnistat lehtokurpan taivaanvuohesta?",
+    "answers": [
+      { "text": "Lehtokurppa on selvästi suurempi ja tanakempi, silmät sijaitsevat korkealla päässä", "correct": true },
+      { "text": "Taivaanvuohen nokka on lyhyempi kuin lehtokurpan", "correct": false },
+      { "text": "Lehtokurppa on kokonaan valkoinen", "correct": false },
+      { "text": "Taivaanvuohi on metsälintu ja lehtokurppa kosteikkolintu", "correct": false }
+    ],
+    "explanation": "Lehtokurppa on taivaanvuohia suurempi ja tanakempi, metsäympäristön laji, jonka silmät ovat sijoittuneet poikkeuksellisen ylös ja taakse. Taivaanvuohi on pienempi ja suosii kosteikkoja.",
+    "source": { "title": "Metsästäjän opas", "edition": "24. painos (2026)", "page": null },
+    "validFrom": "2026-01-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["kahlaajat", "tunnistaminen"]
+  }
+]

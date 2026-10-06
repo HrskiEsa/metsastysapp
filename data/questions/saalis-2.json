@@ -1,0 +1,182 @@
+[
+  {
+    "id": "saalis-011",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mihin saaliin käsittelyssä pyritään vesilinnustuksessa?",
+    "answers": [
+      { "text": "Saalista käsitellään siten, että siitä on valmistettavissa arvokas riista-ateria", "correct": true },
+      { "text": "Saalis jätetään rantaan noudon jälkeen", "correct": false },
+      { "text": "Saalis käsitellään vasta viikon päästä", "correct": false },
+      { "text": "Saaliin käsittelyllä ei ole merkitystä", "correct": false }
+    ],
+    "explanation": "Vesilinnustuksessa saalis käsitellään siten, että siitä on valmistettavissa arvokas riista-ateria. Lämpimällä säällä kiinnitetään erityistä huomiota saaliin säilytykseen jo metsästyksen aikana.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riista-ateria", "hygienia"]
+  },
+  {
+    "id": "saalis-012",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mitä on tehtävä, kun saat saaliin?",
+    "answers": [
+      { "text": "Lopetettava varmasti, verestettävä ja jäähdytettävä nopeasti; tarvittavat ilmoitukset tehtävä", "correct": true },
+      { "text": "Saalis voidaan jättää yöhön maastoon", "correct": false },
+      { "text": "Saalis pestään ensin vedessä ennen verestämistä", "correct": false },
+      { "text": "Saalis säilytetään lämpimässä kuormatilassa", "correct": false }
+    ],
+    "explanation": "Kun saalis on saatu, se varmistetaan kuolleeksi, verestetään ja jäähdytetään nopeasti. Lisäksi tehdään tarvittavat saalisilmoitukset Oma riista -palvelussa.",
+    "source": { "title": "Suomen riistakeskus – Kun saat saalista (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saaliin käsittely", "verestys"]
+  },
+  {
+    "id": "saalis-013",
+    "category": "saalis",
+    "difficulty": 3,
+    "question": "Mitä haaskan pidolla tarkoitetaan?",
+    "answers": [
+      { "text": "Haavakoista riistan hoitamista ja jäljittämistä koiran kanssa ennen lopullista lopetusta", "correct": true },
+      { "text": "Saaliin säilyttämistä kylmähuoneessa", "correct": false },
+      { "text": "Saaliin kuljettamista autolla", "correct": false },
+      { "text": "Saaliin myyntiä vähittäiskauppaan", "correct": false }
+    ],
+    "explanation": "Haaskan pidolla tarkoitetaan haavakoituneen riistan jäljittämistä ja hoitamista, tyypillisesti jälkikoiran avulla, kunnes eläin saadaan lopetettua. Se on eettisen metsästyksen keskeinen osa.",
+    "source": { "title": "Suomen riistakeskus – Haaskan pito (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haaskankaato", "jälkikoira"]
+  },
+  {
+    "id": "saalis-014",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mitä lakisääteisiä saalisilmoituksia metsästäjän on tehtävä?",
+    "answers": [
+      { "text": "Monista vesilinnuista (esim. alli) ja tietyistä nisäkkäistä (esim. hilleri) on ilmoitettava Oma riistassa", "correct": true },
+      { "text": "Vain suurriistasta on ilmoitettava", "correct": false },
+      { "text": "Ilmoituksia ei tarvita miltään lajilta", "correct": false },
+      { "text": "Ilmoitukset tehdään vain metsästäjän pyynnöstä", "correct": false }
+    ],
+    "explanation": "Lakisääteinen saalisilmoitusvelvollisuus koskee mm. monia vesilintuja (kuten alli) ja tiettyjä nisäkkäitä (kuten hilleri). Ilmoitukset tehdään Oma riista -palvelussa.",
+    "source": { "title": "Suomen riistakeskus – Saalisilmoitukset (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saalisilmoitus", "oma riista"]
+  },
+  {
+    "id": "saalis-015",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mihin saalisnäytteitä ja kuvakeräyksiä kerätään?",
+    "answers": [
+      { "text": "Riistakeskuksen tutkimus- ja seurantatarpeisiin (esim. sairauksien selvittämiseksi)", "correct": true },
+      { "text": "Vain yksityisiin kokoelmiin", "correct": false },
+      { "text": "Näytteitä ei kerätä metsästäjiltä", "correct": false },
+      { "text": "Vain kansainvälisiin kilpailuihin", "correct": false }
+    ],
+    "explanation": "Saalisnäytteitä ja kuvakeräyksiä kerätään Riistakeskuksen tutkimus- ja seuranta­tareisiin, esimerkiksi riistatautien selvittämiseksi. Metsästäjät voivat osallistua vapaaehtoisesti.",
+    "source": { "title": "Suomen riistakeskus – Saalisnäytteet ja kuvakeräykset (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saalisnäytteet", "tutkimus"]
+  },
+  {
+    "id": "saalis-016",
+    "category": "saalis",
+    "difficulty": 1,
+    "question": "Miksi riistalihan käyttö ravinnoksi on osa eettistä metsästystä?",
+    "answers": [
+      { "text": "Saalis hyödynnetään tarkoin, eikä lihaa haaskata", "correct": true },
+      { "text": "Riistalihaa ei saa käyttää ravinnoksi", "correct": false },
+      { "text": "Riistaliha on vain luksustuote", "correct": false },
+      { "text": "Riistalihan käytöllä ei ole yhteyttä etiikkaan", "correct": false }
+    ],
+    "explanation": "Riistan arvostaminen näkyy siinä, että saalis käsitellään huolellisesti ja hyödynnetään tarkoin ravinnoksi. Lihan haaskaus on epäeettistä.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["riistaliha", "etiikka"]
+  },
+  {
+    "id": "saalis-017",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mihin tietoihin saalisseuranta perustuu?",
+    "answers": [
+      { "text": "Oma riista -palveluun tehtyihin saalisilmoituksiin ja riistahavaintoihin", "correct": true },
+      { "text": "Vain arvioihin ilman mittauksia", "correct": false },
+      { "text": "Vain kansainvälisiin tilastoihin", "correct": false },
+      { "text": "Saalisseurantaa ei ole olemassa", "correct": false }
+    ],
+    "explanation": "Saalisseuranta perustuu Oma riista -palveluun tehtyihin saalisilmoituksiin ja riistahavaintoihin. Niiden avulla arvioidaan kantaa ja suunnitellaan metsästystä kestäväksi.",
+    "source": { "title": "Suomen riistakeskus – Saalisseuranta (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saalisseuranta", "oma riista"]
+  },
+  {
+    "id": "saalis-018",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Miten lintusaalis säilytetään metsästyksen aikana lämpimällä säällä?",
+    "answers": [
+      { "text": "Varmistetaan kuolleeksi, ripustetaan viileään ja tuodaan mahdollisimman pian jatkokäsittelyyn", "correct": true },
+      { "text": "Säilytetään autossa lämpimässä", "correct": false },
+      { "text": "Säilytetään vesiastioissa", "correct": false },
+      { "text": "Säilytystavalla ei ole merkitystä", "correct": false }
+    ],
+    "explanation": "Lämpimällä säällä lintusaalis pilaantuu nopeasti. Lintu varmistetaan kuolleeksi, ripustetaan viileään ja tuodaan mahdollisimman pian jatkokäsittelyyn.",
+    "source": { "title": "Suomen riistakeskus – Vesilinnustus (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["säilytys", "lintusaalis"]
+  },
+  {
+    "id": "saalis-019",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Miksi saalisilmoitusten tekeminen on tärkeää riistanhoidolle?",
+    "answers": [
+      { "text": "Ilmoituksista kertyvä tieto auttaa arvioimaan kantoja ja suunnittelemaan metsästystä kestäväksi", "correct": true },
+      { "text": "Ilmoitukset auttavat vain poliisia", "correct": false },
+      { "text": "Ilmoituksilla ei ole käyttöä", "correct": false },
+      { "text": "Vain suurpedon saaliista on ilmoitettava, eikä muilla lajeilla ole merkitystä", "correct": false }
+    ],
+    "explanation": "Saalisilmoitusten ja havaintojen perusteella arvioidaan riistakantojen kehitystä ja mitoitetaan metsästystä ja saaliskiintiöt kestäväksi.",
+    "source": { "title": "Suomen riistakeskus – Saalisseuranta (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["saalisseuranta", "riistanhoito"]
+  },
+  {
+    "id": "saalis-020",
+    "category": "saalis",
+    "difficulty": 2,
+    "question": "Mitä haavakoituneelle riistalle tehdään, jos sitä ei löydy välittömästi?",
+    "answers": [
+      { "text": "Jäljitys jatketaan, tarvittaessa haaskankoiran kanssa, eikä luovuteta ensimmäisen epäonnistumisen jälkeen", "correct": true },
+      { "text": "Jäljitys lopetetaan heti ja uusi eläin etsitään", "correct": false },
+      { "text": "Ilmoitus tehdään poliisille ja paikka jätetään", "correct": false },
+      { "text": "Eläintä ei tarvitse etsiä lainkaan", "correct": false }
+    ],
+    "explanation": "Haavakoituneen riistan löytämiseksi nähdään vaivaa: etsintöjä jatketaan ja tarvittaessa otetaan apua haaskankoirasta. Eettinen metsästäjä ei luovuta ensimmäisen yrityksen jälkeen.",
+    "source": { "title": "Suomen riistakeskus – Metsäkanalintujen metsästys (riista.fi)", "edition": "Luettu 10/2026", "page": null },
+    "validFrom": "2026-10-01",
+    "validUntil": null,
+    "reviewStatus": "draft",
+    "tags": ["haaskankaato", "jäljitys"]
+  }
+]

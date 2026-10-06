@@ -1,0 +1,1427 @@
+1. Sovelluksen tavoite
+
+Sovelluksen tarkoitus:
+
+Auttaa käyttäjää valmistautumaan metsästäjätutkintoon mahdollisimman tehokkaasti.
+
+Käyttäjä voi:
+
+opiskella teoriaa
+tehdä yksittäisiä kysymyksiä
+tunnistaa eläimiä kuvista
+harjoitella aihealueittain
+tehdä täyspitkän harjoituskokeen
+nähdä omat heikot osa-alueensa
+kerrata väärin menneet kysymykset
+seurata kehitystä
+harjoitella aikarajalla
+saada suosituksen siitä, mitä kannattaa harjoitella seuraavaksi
+
+Esimerkiksi etusivu voisi näyttää:
+
+┌─────────────────────────────────────────┐
+│        METSÄSTÄJÄTUTKINTO               │
+│                                         │
+│  Tervetuloa takaisin, Henrik!           │
+│                                         │
+│  Kokonaisosaaminen             78 %      │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━              │
+│                                         │
+│  🔴 Lajintuntemus              61 %     │
+│  🟡 Lainsäädäntö               74 %     │
+│  🟢 Turvallisuus               93 %     │
+│  🟡 Aseet ja patruunat         71 %     │
+│                                         │
+│  ┌─────────────────────────────┐        │
+│  │  Jatka harjoittelua         │        │
+│  └─────────────────────────────┘        │
+│                                         │
+│  🎯 Suositus: Lajintuntemus             │
+│                                         │
+└─────────────────────────────────────────┘
+2. Sovelluksen päävalikko
+
+Tekisin aluksi viisi pääosiota:
+
+ETUSIVU
+│
+├── 🎯 Harjoittele
+│   ├── Kaikki kysymykset
+│   ├── Aihealueittain
+│   ├── Väärin vastatut
+│   └── Vaikeat kysymykset
+│
+├── 🦌 Lajintunnistus
+│   ├── Kaikki lajit
+│   ├── Linnut
+│   ├── Nisäkkäät
+│   └── Harjoitus
+│
+├── 📝 Harjoituskoe
+│   ├── Pikakoe
+│   ├── Täysi koe
+│   └── Aikarajoitettu koe
+│
+├── 📊 Edistyminen
+│   ├── Tilastot
+│   ├── Aihealueet
+│   ├── Lajit
+│   └── Historia
+│
+└── ⚙️ Asetukset
+3. Teoriakysymykset
+
+Tämä olisi sovelluksen tärkein osa.
+
+Jokaisella kysymyksellä olisi esimerkiksi:
+
+{
+  "id": 1001,
+  "category": "turvallisuus",
+  "question": "Miten ase tulee käsitellä ennen kuin siirrytään paikasta toiseen?",
+  "answers": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correctAnswer": 2,
+  "explanation": "..."
+}
+
+Tietokannassa:
+
+questions
+--------------------------------
+id
+category_id
+question
+explanation
+difficulty
+source
+active
+created_at
+updated_at
+
+Ja vastaukset erikseen:
+
+question_answers
+--------------------------------
+id
+question_id
+answer_text
+sort_order
+is_correct
+
+Tämä on parempi kuin neljän vastauksen tallentaminen suoraan kysymykseen, koska myöhemmin voidaan tehdä esimerkiksi:
+
+3 vaihtoehtoa
+4 vaihtoehtoa
+5 vaihtoehtoa
+kuva kysymyksessä
+useampi oikea vastaus
+oikein/väärin
+4. Kysymysten esittäminen
+
+Esimerkiksi:
+
+┌─────────────────────────────────────────┐
+│ Turvallisuus                    7 / 20 │
+│                                         │
+│ Mitä tulee tehdä ennen laukauksen       │
+│ ampumista?                              │
+│                                         │
+│ ○ Tarkistaa ampumasuunta                │
+│                                         │
+│ ○ Tarkistaa aseen väri                  │
+│                                         │
+│ ○ Tarkistaa sääennuste                  │
+│                                         │
+│ ○ Tarkistaa auton rengaspaineet         │
+│                                         │
+│              [ VASTAA ]                 │
+└─────────────────────────────────────────┘
+
+Kun käyttäjä vastaa:
+
+✓ Oikein!
+
+Ampumasuunta tulee aina varmistaa ennen
+laukausta.
+
+[ JATKA ]
+
+Jos väärin:
+
+✗ Väärin
+
+Oikea vastaus:
+Tarkistaa ampumasuunta.
+
+Miksi?
+
+Ampumasuunta on yksi turvallisen
+aseenkäsittelyn keskeisistä asioista.
+
+[ YMMÄRRÄN ] [ SEURAAVA ]
+
+Selitys on tärkeä.
+
+Pelkkä:
+
+Oikein / väärin
+
+ei opeta käyttäjää.
+
+5. Kahdeksan pääaihealuetta
+
+Tietokantaan kannattaa tehdä kategoriat heti alussa.
+
+1. Metsästyslainsäädäntö
+2. Lajintuntemus
+3. Riistaekologia ja riistanhoito
+4. Eettinen ja kestävä metsästys
+5. Aseet ja patruunat
+6. Metsästyksen turvallisuus
+7. Pyyntivälineet ja -menetelmät
+8. Saaliin käsittely
+
+Nämä vastaavat virallisen tutkinnon nykyisiä aihealueita.
+
+Käyttöliittymässä:
+
+Harjoittele aihealueittain
+
+🟢 Turvallisuus             92 %
+🟢 Saaliin käsittely        88 %
+🟡 Riistanhoito             74 %
+🟡 Lainsäädäntö             71 %
+🟡 Aseet                    69 %
+🔴 Lajintuntemus             61 %
+🔴 Pyyntimenetelmät          58 %
+🟢 Eettinen metsästys        86 %
+6. Lajintunnistus
+
+Tämä kannattaa toteuttaa omana järjestelmänään, ei vain tavallisina kysymyksinä.
+
+Esimerkiksi:
+
+┌─────────────────────────────────────────┐
+│ Lajintunnistus                    4/15 │
+│                                         │
+│            ┌───────────────┐            │
+│            │               │            │
+│            │   ELÄINKUVA   │            │
+│            │               │            │
+│            └───────────────┘            │
+│                                         │
+│ Mikä laji on kuvassa?                   │
+│                                         │
+│ ○ Teeri                                  │
+│ ○ Pyy                                    │
+│ ○ Metso                                  │
+│ ○ Riekko                                 │
+│                                         │
+│              [ VASTAA ]                 │
+└─────────────────────────────────────────┘
+
+Tietokanta:
+
+species
+--------------------------------
+id
+name_fi
+name_sv
+name_en
+type
+description
+active
+species_images
+--------------------------------
+id
+species_id
+image_url
+thumbnail_url
+photographer
+license
+difficulty
+7. Kuvien tekijänoikeudet
+
+Tämä on yksi tärkeimmistä asioista koko projektissa.
+
+Älä kopioi Metsästäjätutkinto-sovelluksen kuvia.
+
+Käytä:
+
+itse otettuja kuvia
+itse tuotettuja kuvia
+asianmukaisesti lisensoituja kuvia
+kuvia, joiden käyttöoikeudet olet hankkinut
+
+Tietokantaan kannattaa tallentaa myös:
+
+photographer
+license
+license_url
+source
+attribution
+
+Näin tiedät myöhemmin, mistä jokainen kuva on tullut.
+
+8. Lajintunnistuksen vaikeustaso
+
+Jokaiselle kuvalle voisi antaa:
+
+difficulty = 1–5
+
+Esimerkiksi:
+
+Helppo
+└── selkeä kuva eläimestä
+
+Normaali
+└── luonnollinen kuva
+
+Vaikea
+└── huono valaistus / kaukana
+
+Erittäin vaikea
+└── samankaltaisten lajien erottaminen
+
+Tämä mahdollistaa myöhemmin älykkään harjoittelun.
+
+9. Harjoituskoe
+
+Tämä on tärkeä kokonaisuus.
+
+Virallinen tutkinto on tällä hetkellä 60 kysymystä, joista 15 on lajintuntemustehtäviä. Lajintuntemus tehdään ensin ja siihen on enintään 15 minuuttia; koko kokeeseen on enintään 1,5 tuntia.
+
+Sovellukseen:
+
+HARJOITUSKOE
+
+60 kysymystä
+
+15 lajintunnistusta
+45 teoriakysymystä
+
+Lajintunnistus:
+15 min
+
+Koko koe:
+90 min
+
+Tämä kannattaa tehdä mahdollisimman lähelle virallista rakennetta.
+
+10. Kokeen käyttöliittymä
+
+Ylhäällä:
+
+Kysymys 23 / 60
+
+████████████░░░░░░░░ 38 %
+
+⏱ 01:07:24
+
+Alhaalla:
+
+[ ← Edellinen ]       [ Seuraava → ]
+
+Ja mahdollisuus merkitä kysymys:
+
+⭐ Merkitse tarkistettavaksi
+
+Lopussa:
+
+┌─────────────────────────────────┐
+│          KOE VALMIS             │
+│                                 │
+│           53 / 60               │
+│                                 │
+│          88 %                   │
+│                                 │
+│     ✓ HARJOITUSKOE LÄPI         │
+│                                 │
+│ Vääriä: 7                       │
+│                                 │
+│ [ Näytä virheet ]               │
+└─────────────────────────────────┘
+
+Huomio: sovelluksen pitää erottaa "harjoituskoe meni läpi" ja "virallinen tutkinto". Sovellus ei tietenkään anna virallista tutkintosuoritusta.
+
+11. Kokeen kysymysten valinta
+
+Älä valitse 60 kysymystä täysin satunnaisesti.
+
+Parempi algoritmi:
+
+45 teoriakysymystä
+
+Lainsäädäntö             7
+Riistaekologia            6
+Eettinen metsästys        5
+Aseet                     6
+Turvallisuus              7
+Pyyntimenetelmät          5
+Saalis                    4
+Lajintuntemus            15
+
+Mutta: nämä jakaumat kannattaa määrittää konfiguroitaviksi, eikä kovakoodata, koska viralliset vaatimukset tai kysymysrakenteet voivat muuttua.
+
+12. Älykäs kysymysvalinta
+
+Tässä sovelluksesta voisi tehdä paljon paremman kuin tavallisen kysymyspankin.
+
+Jokaiselle käyttäjälle tallennetaan:
+
+user_question_stats
+
+user_id
+question_id
+attempts
+correct
+wrong
+last_answered
+average_response_time
+confidence
+
+Esimerkiksi:
+
+Kysymys 1042
+
+Yritykset:       5
+Oikein:          2
+Väärin:          3
+Onnistuminen:    40 %
+Viimeksi:        2 päivää sitten
+
+Sitten algoritmi voi sanoa:
+
+Tämä kysymys kannattaa kerrata.
+
+13. Spaced repetition
+
+Tähän kannattaa ottaa mukaan kertausalgoritmi.
+
+Esimerkiksi:
+
+Väärin
+↓
+uudestaan 10 min päästä
+
+Oikein
+↓
+1 päivä
+
+Oikein
+↓
+3 päivää
+
+Oikein
+↓
+7 päivää
+
+Oikein
+↓
+14 päivää
+
+Oikein
+↓
+30 päivää
+
+Jos käyttäjä tekee virheen:
+
+30 päivää
+   ↓
+Väärin
+   ↓
+1 päivä
+
+Tällä saadaan sovelluksesta oikeasti oppimiseen tarkoitettu.
+
+14. "Harjoittele heikoimmat" -painike
+
+Etusivulla voisi olla:
+
+🎯 PARANNA TULOSTASI
+
+Sovellus löysi 17 kysymystä,
+joissa onnistumisprosenttisi on alle 60 %.
+
+[ HARJOITTELE HEIKOIMPIA ]
+
+Tämä on yksi tärkeimmistä ominaisuuksista.
+
+15. Päivittäinen harjoitus
+
+Voisi olla:
+
+PÄIVÄN HARJOITUS
+
+10 teoriakysymystä
+5 lajintunnistusta
+
+Arvioitu aika:
+10 minuuttia
+
+[ ALOITA ]
+
+Kun valmis:
+
+🔥 Päivän harjoitus valmis!
+
+9 / 15 oikein
+
++35 XP
+
+5 päivän harjoitusputki
+16. Pelillistäminen
+
+Ei ole pakollinen, mutta toimii hyvin.
+
+Esimerkiksi:
+
+XP
+Tasot
+Saavutukset
+Harjoitusputki
+Prosentit
+Viikkotavoite
+
+Saavutuksia:
+
+🏆 Ensimmäinen harjoitus
+🏆 100 kysymystä
+🏆 500 kysymystä
+🏆 7 päivän putki
+🏆 Kaikki lajit tunnistettu
+🏆 90 % harjoitustentissä
+17. Edistymisnäkymä
+
+Tämä voisi olla esimerkiksi:
+
+EDISTYMINEN
+
+Yhteensä
+━━━━━━━━━━━━━━━━━━━━ 78 %
+
+Teoria
+━━━━━━━━━━━━━━━━━━░░ 82 %
+
+Lajintunnistus
+━━━━━━━━━━━━░░░░░░░ 61 %
+
+Harjoituskokeet
+━━━━━━━━━━━━━━━━░░░ 79 %
+
+Aihealueittain:
+
+Lainsäädäntö       76 %
+Lajintuntemus       61 %
+Riistanhoito        84 %
+Etiikka             91 %
+Aseet               73 %
+Turvallisuus        96 %
+Pyyntimenetelmät    67 %
+Saalis              88 %
+18. Lajikohtainen seuranta
+
+Tämä olisi todella hyödyllinen.
+
+Linnut
+
+Metso       100 %
+Teeri        80 %
+Pyy          60 %
+Riekko       40 %
+Fasaan        90 %
+
+Punainen:
+
+Riekko 40 %
+
+Kun käyttäjä painaa sitä:
+
+RIEKKO
+
+Yrityksiä: 12
+Oikein: 5
+Väärin: 7
+
+[ HARJOITTELE RIEKKOA ]
+19. Käyttäjätili
+
+Jos halutaan oikea sovellus, käyttäjälle:
+
+id
+email
+name
+created_at
+last_login
+
+Ja asetukset:
+
+language
+daily_goal
+notifications
+theme
+
+Kirjautuminen voisi olla:
+
+sähköposti + salasana
+Google
+Apple
+Microsoft
+
+Aluksi kuitenkin tekisin ilman kirjautumista.
+
+20. Guest mode
+
+Tämä on erittäin hyvä MVP:ssä.
+
+Käyttäjä avaa sovelluksen:
+
+Aloita heti
+
+[ Harjoittele ilman tunnusta ]
+
+tai
+
+[ Kirjaudu ]
+
+Paikallisesti tallennetaan:
+
+localStorage / IndexedDB
+
+Kun käyttäjä myöhemmin tekee tilin:
+
+Paikallinen data
+       ↓
+     Sync
+       ↓
+Käyttäjätili
+21. Offline-toiminto
+
+Koska kyseessä on opiskelusovellus, tekisin siitä PWA:n.
+
+Eli:
+
+Chrome / Safari / Firefox
+        ↓
+      PWA
+        ↓
+   toimii myös offline
+
+Käyttäjä voisi asentaa sen puhelimeen:
+
+📱 Lisää aloitusnäyttöön
+
+Teoria ja kysymykset voidaan ladata puhelimelle.
+
+22. Tekninen arkkitehtuuri
+
+Jos tekisin tämän sinulle nyt, valitsisin esimerkiksi:
+
+Frontend
+──────────────
+React
+TypeScript
+Vite
+Tailwind CSS
+PWA
+
+
+Backend
+──────────────
+Node.js
+NestJS / Fastify
+
+
+Database
+──────────────
+PostgreSQL
+
+
+Storage
+──────────────
+S3 / Cloudflare R2
+
+
+Authentication
+──────────────
+Supabase Auth / Auth.js
+
+
+Hosting
+──────────────
+Docker
+Coolify
+
+
+Analytics
+──────────────
+PostHog
+
+Koska sinulla on jo kokemusta Dockerista ja Coolifysta, tämä sopisi hyvin myös omaan palvelimeen.
+
+23. Vaihtoehto: vielä yksinkertaisempi
+
+Jos tarkoitus on ensin tehdä toimiva prototyyppi:
+
+React
++
+TypeScript
++
+Vite
++
+Tailwind
++
+JSON
++
+localStorage
+
+Ei tarvitse edes backend-palvelinta.
+
+Kysymykset:
+
+/questions.json
+
+Lajit:
+
+/species.json
+
+Kuvat:
+
+/images/
+
+Tulokset:
+
+localStorage
+
+Tällä voi tehdä ensimmäisen täysin toimivan version.
+
+24. Projektirakenne
+
+Esimerkiksi:
+
+metsastaja-app/
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── QuestionCard.tsx
+│   │   ├── AnswerButton.tsx
+│   │   ├── SpeciesCard.tsx
+│   │   ├── ProgressBar.tsx
+│   │   ├── Timer.tsx
+│   │   └── ResultCard.tsx
+│   │
+│   ├── pages/
+│   │   ├── Home.tsx
+│   │   ├── Practice.tsx
+│   │   ├── Species.tsx
+│   │   ├── Exam.tsx
+│   │   ├── Results.tsx
+│   │   └── Statistics.tsx
+│   │
+│   ├── data/
+│   │   ├── questions.json
+│   │   ├── species.json
+│   │   └── categories.json
+│   │
+│   ├── services/
+│   │   ├── questionEngine.ts
+│   │   ├── examEngine.ts
+│   │   ├── statistics.ts
+│   │   └── spacedRepetition.ts
+│   │
+│   ├── hooks/
+│   │   ├── useExam.ts
+│   │   ├── useProgress.ts
+│   │   └── useQuestions.ts
+│   │
+│   └── App.tsx
+│
+├── public/
+│   └── images/
+│
+├── package.json
+└── README.md
+25. Question Engine
+
+Tärkein ohjelmallinen osa olisi esimerkiksi:
+
+QuestionEngine
+       │
+       ├── getRandomQuestion()
+       │
+       ├── getQuestionsByCategory()
+       │
+       ├── getWeakQuestions()
+       │
+       ├── getDueQuestions()
+       │
+       ├── getExamQuestions()
+       │
+       └── recordAnswer()
+
+Esimerkiksi:
+
+getWeakQuestions(userId, 10)
+
+palauttaa käyttäjän 10 heikointa kysymystä.
+
+26. Exam Engine
+
+Erillinen moottori:
+
+ExamEngine
+
+createExam()
+startExam()
+answerQuestion()
+nextQuestion()
+previousQuestion()
+flagQuestion()
+getRemainingTime()
+finishExam()
+calculateResult()
+
+Kokeen tila:
+
+{
+  "examId": "abc123",
+  "startedAt": "...",
+  "timeLimit": 5400,
+  "currentQuestion": 12,
+  "answers": {},
+  "flagged": [4, 12, 38]
+}
+27. Aikaraja
+
+Tärkeää:
+
+Timerin ei pidä perustua vain JavaScriptin setInterval-laskuriin.
+
+Parempi:
+
+startedAt = timestamp
+endAt = startedAt + 90 min
+
+Ja aina:
+
+remaining = endAt - Date.now()
+
+Näin selaimen jäätyminen tai välilehden vaihtaminen ei riko aikaa.
+
+28. Tietokannan rakenne
+
+Jos tehdään oikea backend:
+
+users
+categories
+questions
+question_answers
+species
+species_images
+exams
+exam_questions
+exam_answers
+user_question_stats
+user_species_stats
+achievements
+user_achievements
+
+Relaatiot:
+
+users
+  │
+  ├── user_question_stats
+  │          │
+  │          └── questions
+  │
+  ├── exams
+  │      │
+  │      └── exam_questions
+  │
+  └── achievements
+29. Admin-paneeli
+
+Tämä kannattaa tehdä jo melko aikaisin.
+
+Admin:
+
+/admin
+
+Siellä:
+
+Kysymykset
+│
+├── Lisää
+├── Muokkaa
+├── Poista
+├── Aktivoi
+└── Arkistoi
+
+Lajit
+│
+├── Lisää laji
+├── Lisää kuva
+└── Muokkaa
+
+Tilastot
+│
+├── Käyttäjät
+├── Kysymysten vaikeus
+└── Keskimääräiset tulokset
+30. Kysymysten importointi JSONilla
+
+Koska sinulla on ollut paljon JSON-automaatioita, tekisin tähän suoraan JSON-importin.
+
+Esimerkiksi:
+
+{
+  "questions": [
+    {
+      "id": "turvallisuus-001",
+      "category": "turvallisuus",
+      "difficulty": 2,
+      "question": "Esimerkkikysymys?",
+      "answers": [
+        {
+          "text": "Vaihtoehto A",
+          "correct": false
+        },
+        {
+          "text": "Vaihtoehto B",
+          "correct": true
+        },
+        {
+          "text": "Vaihtoehto C",
+          "correct": false
+        }
+      ],
+      "explanation": "Selitys."
+    }
+  ]
+}
+
+Adminissa:
+
+[ Lataa JSON ]
+
+✓ 523 kysymystä
+✓ 8 aihealuetta
+✓ 0 virhettä
+
+[ TUO KYSYMYKSET ]
+31. Sisällön hallinta
+
+Tässä projektissa sisältö on oikeastaan tärkeämpi kuin ohjelmointi.
+
+Virallinen Riistakeskus kertoo, että Metsästäjän opas toimii tutkinnon oppikirjana ja että vuoden 2025 tai myöhemmin julkaistua opasta tulee käyttää tutkintoon valmistautuessa.
+
+Siksi tietokantaan kannattaa tallentaa lähde:
+
+source_title
+source_edition
+source_page
+
+Esimerkiksi:
+
+source:
+"Metsästäjän opas, 24. painos, 2026"
+
+page:
+123
+
+Tämä helpottaa sisällön päivittämistä.
+
+32. Erittäin tärkeä: sisällön versionhallinta
+
+Metsästyslainsäädäntö muuttuu.
+
+Siksi kysymykseen:
+
+{
+  "id": "LAW-001",
+  "validFrom": "2026-01-01",
+  "validUntil": null
+}
+
+Kun laki muuttuu:
+
+vanha kysymys
+       ↓
+arkistoidaan
+
+uusi kysymys
+       ↓
+aktiiviseksi
+
+Näin vanhaa kysymystä ei tarvitse poistaa tietokannasta.
+
+33. AI mukaan?
+
+Kyllä, mutta ei niin, että AI keksii virallisia vastauksia itsenäisesti.
+
+AI voisi tehdä:
+
+Hyvä käyttö
+Käyttäjä:
+"Miksi tämä vastaus on väärin?"
+
+AI:
+"Perustuen tämän kysymyksen lähteeseen..."
+
+tai:
+
+Selitä tämä aloittelijalle.
+
+tai:
+
+Tee minulle 5 harjoituskysymystä tästä aiheesta.
+
+Mutta generoidut kysymykset kannattaa merkitä:
+
+AI-generated
+
+ja ihmisen tarkistaa ennen julkaisemista.
+
+34. AI-opettaja
+
+Tästä voisi tulla sovelluksen hienoin ominaisuus.
+
+Esimerkiksi käyttäjä vastaa väärin:
+
+Käyttäjä:
+Miksi tämä oli väärin?
+
+AI-opettaja:
+
+Vastauksesi oli väärä, koska...
+
+Muistisääntö:
+"Turvallisuus ennen laukausta."
+
+Haluatko kokeilla samasta aiheesta
+uutta kysymystä?
+
+[ KYLLÄ ]
+
+Sen jälkeen AI tekee uuden harjoituskysymyksen, mutta vastauksen pitäisi perustua hyväksyttyyn lähdemateriaaliin.
+
+35. AI + RAG
+
+Jos halutaan tehdä kunnolla:
+
+Metsästäjän opas
+       ↓
+PDF / tietokanta
+       ↓
+Chunking
+       ↓
+Embedding
+       ↓
+Vector DB
+       ↓
+RAG
+       ↓
+AI
+
+Kun käyttäjä kysyy:
+
+Miksi tämä vastaus oli väärin?
+
+AI hakee ensin asiaan liittyvän lähdetekstin ja vastaa sen perusteella.
+
+Näin AI ei pääse yhtä helposti "keksimään" metsästyslainsäädäntöä.
+
+36. Sisällön luontiputki
+
+Voisi olla jopa:
+
+Metsästäjän opas
+        ↓
+Sisällön analysointi
+        ↓
+AI ehdottaa kysymyksiä
+        ↓
+Admin tarkistaa
+        ↓
+Hyväksy
+        ↓
+Question Bank
+        ↓
+Sovellus
+
+Admin näkee:
+
+AI-EHDOTUS
+
+Kysymys:
+...
+
+Vaihtoehdot:
+A...
+B...
+C...
+D...
+
+Oikea:
+B
+
+Lähde:
+Metsästäjän opas s. 123
+
+[ HYVÄKSY ]
+[ MUOKKAA ]
+[ HYLKÄÄ ]
+
+Tämä olisi erittäin tehokas tapa kasvattaa kysymyspankkia.
+
+37. API
+
+Backendissä voisi olla esimerkiksi:
+
+GET /api/questions
+GET /api/questions/:id
+
+GET /api/categories
+
+GET /api/species
+GET /api/species/:id
+
+POST /api/exams
+GET /api/exams/:id
+POST /api/exams/:id/answer
+POST /api/exams/:id/finish
+
+GET /api/progress
+GET /api/statistics
+
+GET /api/review/due
+
+Admin:
+
+POST /api/admin/questions
+PUT /api/admin/questions/:id
+DELETE /api/admin/questions/:id
+
+POST /api/admin/species
+POST /api/admin/images
+38. Tietoturva
+
+Jos käyttäjätilit ovat mukana:
+
+HTTPS
+JWT/session
+bcrypt/argon2
+rate limiting
+input validation
+CSRF protection
+CORS
+
+Salasanoja ei koskaan:
+
+plain text
+
+vaan esimerkiksi:
+
+Argon2id
+39. GDPR
+
+Jos kerätään käyttäjätietoja:
+
+email
+nimi
+harjoitteluhistoria
+IP
+analytics
+
+pitää miettiä:
+
+mitä kerätään
+miksi kerätään
+kuinka kauan säilytetään
+voiko käyttäjä poistaa tilinsä
+mitä kolmannen osapuolen palveluita käytetään
+
+MVP:ssä kannattaa kerätä mahdollisimman vähän.
+
+40. Analytiikka
+
+Voisi seurata anonyymisti:
+
+practice_started
+question_answered
+exam_started
+exam_finished
+species_answered
+
+Esimerkiksi:
+
+Kysymys 142
+
+Vastausprosentti:
+34 %
+
+Keskimääräinen vastausaika:
+8.2 s
+
+Tämän avulla admin huomaa huonot kysymykset.
+
+41. Kysymysten laadunvalvonta
+
+Jos kysymys:
+
+95 % käyttäjistä vastaa väärin
+
+se ei välttämättä tarkoita vaikeaa kysymystä.
+
+Se voi tarkoittaa:
+
+kysymys on epäselvä.
+
+Siksi adminille:
+
+⚠️ Epätavallinen kysymys
+
+Oikein: 8 %
+Väärin: 92 %
+
+[ TARKISTA ]
+42. Mobile-first
+
+Tekisin käyttöliittymän ensin puhelimelle.
+
+Koska tätä käytetään todennäköisesti:
+
+📱 puhelin
+
+enemmän kuin:
+
+🖥️ tietokone
+
+Painikkeet isoiksi:
+
+┌─────────────────────────────┐
+│                             │
+│      VAIHTOEHTO A           │
+│                             │
+└─────────────────────────────┘
+
+Ei pieniä:
+
+○ A
+○ B
+○ C
+43. Dark mode
+
+Erityisesti iltakäyttöön:
+
+☀️ Vaalea
+🌙 Tumma
+⚙️ Järjestelmän mukaan
+44. Saavutettavuus
+
+Huomioi:
+
+näppäimistökäyttö
+ruudunlukijat
+riittävä kontrasti
+tekstin suurennus
+kuville alt-tekstit
+älä käytä pelkkää väriä oikean/väärän merkkinä
+
+Esimerkiksi:
+
+✓ Oikein
+✗ Väärin
+
+eikä vain:
+
+vihreä
+punainen
+45. MVP
+
+En tekisi kaikkea ensimmäisessä versiossa.
+
+Ensimmäinen versio:
+
+V1
+✓ Etusivu
+✓ 8 aihealuetta
+✓ Teoriakysymykset
+✓ Lajintunnistus
+✓ Harjoituskoe
+✓ Pisteytys
+✓ Tulossivu
+✓ localStorage
+✓ PWA
+
+Ei vielä:
+
+✗ käyttäjät
+✗ backend
+✗ AI
+✗ maksut
+✗ sosiaalinen
+✗ admin
+46. V2
+
+Seuraavaksi:
+
+✓ Käyttäjätili
+✓ PostgreSQL
+✓ Pilvisynkronointi
+✓ Edistyminen
+✓ Väärin vastatut
+✓ Spaced repetition
+✓ Päivittäinen harjoitus
+✓ Saavutukset
+47. V3
+
+Sen jälkeen:
+
+✓ Admin
+✓ JSON-import
+✓ Kysymyspankin hallinta
+✓ Kuvien hallinta
+✓ Kysymysten tilastot
+✓ Lähdeviitteet
+✓ Sisällön versiointi
+48. V4 – AI
+
+Sitten:
+
+✓ AI-opettaja
+✓ AI-selitykset
+✓ RAG
+✓ AI-kysymysten generointi
+✓ Henkilökohtainen harjoittelusuositus
+49. Lopullinen arkkitehtuuri
+
+Kun kaikki olisi valmis:
+
+                         ┌───────────────┐
+                         │   Mobile/PWA  │
+                         │ React + TS    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │   REST API    │
+                         │ Node/NestJS   │
+                         └───────┬───────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             │                   │                   │
+             ▼                   ▼                   ▼
+      ┌────────────┐     ┌────────────┐     ┌────────────┐
+      │ PostgreSQL │     │ Object     │     │   Redis    │
+      │            │     │ Storage    │     │            │
+      └────────────┘     └────────────┘     └────────────┘
+             │                   │
+             │                   │
+             ▼                   ▼
+      ┌────────────────────────────────────┐
+      │         Question Engine            │
+      │                                    │
+      │  • Question selection              │
+      │  • Exam engine                     │
+      │  • Statistics                      │
+      │  • Spaced repetition               │
+      │  • Species engine                  │
+      └────────────────┬───────────────────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │ AI / RAG     │
+                │              │
+                │ Opas →       │
+                │ Vector DB →  │
+                │ AI           │
+                └──────────────┘
+50. Minun suositukseni juuri tälle projektille
+
+Koska tarkoituksena näyttää olevan tehdä oikeasti käyttökelpoinen sovellus eikä pelkkä demo, lähtisin tästä:
+
+Teknologia
+
+Frontend
+
+React
+TypeScript
+Vite
+Tailwind
+PWA
+
+Backend
+
+Node.js
+Fastify/NestJS
+
+Database
+
+PostgreSQL
+
+Kuvat
+
+Cloudflare R2
+
+Deployment
+
+Docker + Coolify
+
+AI
+
+OpenAI API tai myöhemmin oma paikallinen malli
+RAG
+
+Alkuvaihe
+
+ei kirjautumista
+JSON-data
+localStorage
+51. Ensimmäinen konkreettinen toteutusjärjestys
+
+Tekisin projektin tässä järjestyksessä:
+
+1. Luo React-projekti
+        ↓
+2. Tee ulkoasu
+        ↓
+3. Tee kategoriat
+        ↓
+4. Tee QuestionCard
+        ↓
+5. Tee vastauslogiikka
+        ↓
+6. Tee tulossivu
+        ↓
+7. Lisää kysymysdata JSONista
+        ↓
+8. Tee lajintunnistus
+        ↓
+9. Tee harjoituskoe
+        ↓
+10. Tee timer
+        ↓
+11. Tee localStorage
+        ↓
+12. Tee tilastot
+        ↓
+13. Tee spaced repetition
+        ↓
+14. PWA
+        ↓
+15. Backend
+        ↓
+16. PostgreSQL
+        ↓
+17. Käyttäjätilit
+        ↓
+18. Admin
+        ↓
+19. AI/RAG

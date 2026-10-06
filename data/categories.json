@@ -1,0 +1,83 @@
+[
+  {
+    "id": "lainsaadanto",
+    "nameFi": "Metsästyslainsäädäntö",
+    "nameSv": "Jaktlagstiftning",
+    "short": "Lainsäädäntö",
+    "icon": "⚖️",
+    "description": "Metsästyslaki, asetukset, luvat, rauhoitusajat, rikkomukset ja vastuut.",
+    "examQuestions": 8,
+    "order": 1
+  },
+  {
+    "id": "lajintuntemus",
+    "nameFi": "Lajintuntemus",
+    "nameSv": "Artkunskap",
+    "short": "Lajintuntemus",
+    "icon": "🦌",
+    "description": "Riistalajien tunnistaminen. Tutkinnossa lajintuntemus suoritetaan omana kuvatehtäväosionaan.",
+    "examQuestions": 0,
+    "speciesSection": true,
+    "order": 2
+  },
+  {
+    "id": "riistaekologia",
+    "nameFi": "Riistaekologia ja riistanhoito",
+    "nameSv": "Viltekologi och viltvård",
+    "short": "Riistanhoito",
+    "icon": "🌲",
+    "description": "Riistalajien elinympäristöt, kanta-arviot, riistanhoito, metsästyksen suunnittelu ja verkostot.",
+    "examQuestions": 7,
+    "order": 3
+  },
+  {
+    "id": "etiikka",
+    "nameFi": "Eettinen ja kestävä metsästys",
+    "nameSv": "Etisk och hållbar jakt",
+    "short": "Etiikka",
+    "icon": "🤝",
+    "description": "Metsästäjän etiikka, eläinten hyvinvointi, riistan arvostus, kestävyys ja yhteiskuntavastuu.",
+    "examQuestions": 6,
+    "order": 4
+  },
+  {
+    "id": "aseet",
+    "nameFi": "Aseet ja patruunat",
+    "nameSv": "Vapen och patroner",
+    "short": "Aseet",
+    "icon": "🔫",
+    "description": "Aseet, patruunat, ballistiikka, aselajit, ampumataito ja aseturvallisuuden perusteet.",
+    "examQuestions": 7,
+    "order": 5
+  },
+  {
+    "id": "turvallisuus",
+    "nameFi": "Metsästyksen turvallisuus",
+    "nameSv": "Jaktsäkerhet",
+    "short": "Turvallisuus",
+    "icon": "🛡️",
+    "description": "Aseiden käsittely, metsästystilanteiden turvallisuus, ampumasektorit, ensiapu ja onnettomuuksien ehkäisy.",
+    "examQuestions": 7,
+    "order": 6
+  },
+  {
+    "id": "pyyntimenetelmat",
+    "nameFi": "Pyyntivälineet ja -menetelmät",
+    "nameSv": "Fångstredskap och metoder",
+    "short": "Pyyntimenetelmät",
+    "icon": "🐕",
+    "description": "Metsästysmuodot: koiran käyttö, hirvipyynti, riistalinnustus, loukut, ansojen ja pyyntivälineiden säännöt.",
+    "examQuestions": 6,
+    "order": 7
+  },
+  {
+    "id": "saalis",
+    "nameFi": "Saaliin käsittely",
+    "nameSv": "Slakthantering",
+    "short": "Saaliin käsittely",
+    "icon": "🥩",
+    "description": "Saaliin lopetus, verestäminen, suolistus, jäähdytys, hygienia, kuljetus ja riistatalous.",
+    "examQuestions": 4,
+    "order": 8
+  }
+]

@@ -1,0 +1,28 @@
+# Coolify-deploy (Docker Compose -tyyppi).
+#
+# Coolifyssa: New Resource → Docker Compose → valitse tämä tiedosto.
+# Coolify hallitsee portit ja verkot itse; älä lisää host-portteja itse,
+# vaan anna Coolifyn exposed portin (3001) kautta liikenteen.
+#
+# Paikallinen testi:  docker compose up --build
+
+services:
+  app:
+    build: .
+    image: metsastaja-akatemia:latest
+    restart: unless-stopped
+    environment:
+      PORT: '3001'
+      HOST: '0.0.0.0'
+      LOG_LEVEL: 'info'
+      # Käyttäjädata (edistyminen, uploadit) tässä kansiossa → volume säilyttää sen.
+      DATA_DIR: '/app/data-storage'
+    volumes:
+      - app-data:/app/data-storage
+    # Ei host-porttimappingia Coolifyssa: Coolify proxyaa exposed porttiin 3001.
+    # Paikallista testiä varten poista seuraava rivi kommentista:
+    # ports:
+    #   - '3001:3001'
+
+volumes:
+  app-data:
